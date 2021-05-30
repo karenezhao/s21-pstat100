@@ -1,0 +1,1783 @@
+region,year,income,country,hf_score,pf_rol,pf_ss,pf_movement,pf_religion,pf_association,pf_expression,pf_identity,pf_score,ef_government,ef_legal,ef_money,ef_trade,ef_regulation,ef_score
+Europe & Central Asia,2018,Upper middle,Albania,7.81,5.0,9.3,10.0,8.9,8.6,9.2,5.8,7.81,8.1,5.2,9.8,8.2,7.7,7.8
+Europe & Central Asia,2017,Upper middle,Albania,7.78,5.3,9.3,10.0,8.7,8.4,9.2,5.8,7.86,7.4,5.4,9.6,8.2,7.9,7.7
+Europe & Central Asia,2016,Upper middle,Albania,7.63,5.3,8.7,8.3,8.9,8.5,9.2,5.8,7.57,7.8,5.5,9.6,8.0,7.6,7.69
+Europe & Central Asia,2015,Upper middle,Albania,7.55,5.2,8.8,6.7,8.9,8.5,9.2,5.8,7.4,7.8,5.4,9.6,8.0,7.7,7.7
+Europe & Central Asia,2014,Upper middle,Albania,7.65,5.0,8.6,6.7,9.4,8.5,9.2,8.8,7.64,7.7,5.1,9.6,8.1,7.8,7.65
+Europe & Central Asia,2013,Upper middle,Albania,7.52,4.5,8.6,6.7,9.1,8.5,9.2,8.8,7.49,7.9,5.0,9.7,7.7,7.4,7.55
+Europe & Central Asia,2012,Upper middle,Albania,7.54,4.5,8.9,6.7,9.4,8.8,9.2,8.8,7.62,8.2,4.9,9.7,7.0,7.5,7.46
+Europe & Central Asia,2011,Lower middle,Albania,7.63,4.9,8.9,6.7,9.2,9.0,9.2,8.8,7.74,8.1,5.1,9.8,7.0,7.5,7.51
+Europe & Central Asia,2010,Upper middle,Albania,7.75,4.9,9.4,10.0,9.3,8.7,8.4,8.8,8.09,8.1,5.3,9.7,7.1,6.8,7.4
+Europe & Central Asia,2009,Upper middle,Albania,7.72,4.9,9.6,10.0,9.5,8.7,8.4,8.8,8.16,7.8,5.6,9.6,6.9,6.4,7.27
+Europe & Central Asia,2008,Lower middle,Albania,7.7,4.9,9.6,10.0,9.2,8.7,8.4,8.8,8.13,8.3,5.5,9.4,6.5,6.7,7.27
+Middle East & North Africa,2018,Upper middle,Algeria,5.2,5.1,7.8,5.8,3.7,4.6,7.9,0.0,5.42,4.2,4.5,7.9,2.6,5.6,4.97
+Middle East & North Africa,2017,Upper middle,Algeria,5.03,3.8,7.8,5.8,3.7,4.5,7.8,0.0,5.08,4.5,4.5,7.9,2.6,5.4,4.98
+Middle East & North Africa,2016,Upper middle,Algeria,5.3,3.8,7.8,6.7,4.0,4.4,8.1,1.3,5.33,4.5,4.5,7.9,4.0,5.5,5.26
+Middle East & North Africa,2015,Upper middle,Algeria,5.07,3.8,7.7,5.0,4.3,4.6,8.1,1.3,5.2,3.6,4.4,7.4,3.9,5.4,4.94
+Middle East & North Africa,2014,Upper middle,Algeria,5.12,4.0,7.4,5.0,4.4,4.5,8.1,1.3,5.16,3.8,4.3,7.3,4.5,5.5,5.08
+Middle East & North Africa,2013,Upper middle,Algeria,5.16,4.1,7.3,5.0,4.5,4.0,8.2,1.3,5.16,4.2,4.3,7.2,4.7,5.4,5.16
+Middle East & North Africa,2012,Upper middle,Algeria,5.05,4.1,8.1,3.3,4.3,4.1,8.1,1.3,5.15,3.3,3.9,7.0,5.1,5.4,4.95
+Middle East & North Africa,2011,Upper middle,Algeria,5.19,4.4,8.2,3.3,4.2,4.1,8.1,1.3,5.25,3.9,3.7,7.1,5.5,5.3,5.12
+Middle East & North Africa,2010,Upper middle,Algeria,5.3,4.4,8.4,5.0,4.5,4.6,7.2,1.3,5.47,3.8,3.9,7.2,5.6,5.2,5.13
+Middle East & North Africa,2009,Upper middle,Algeria,5.29,4.4,8.2,5.0,4.5,4.6,7.2,1.3,5.41,3.3,4.0,7.0,6.0,5.6,5.17
+Middle East & North Africa,2008,Upper middle,Algeria,5.32,4.5,8.2,5.0,4.5,4.6,7.2,1.3,5.43,3.3,4.0,7.6,5.6,5.5,5.21
+Sub-Saharan Africa,2018,Lower middle,Angola,5.48,3.6,8.4,6.7,6.5,5.3,7.1,6.7,6.21,7.3,3.4,4.7,2.9,5.4,4.75
+Sub-Saharan Africa,2017,Lower middle,Angola,5.39,3.4,8.1,6.7,6.6,4.9,7.1,5.0,5.91,7.0,3.3,5.6,3.0,5.5,4.86
+Sub-Saharan Africa,2016,Lower middle,Angola,5.85,3.4,8.4,8.3,6.6,4.9,7.1,6.7,6.3,7.6,3.3,5.6,5.0,5.4,5.39
+Sub-Saharan Africa,2015,Upper middle,Angola,5.77,3.5,8.0,5.0,6.5,4.9,7.2,6.7,5.9,7.3,3.3,6.9,4.9,5.8,5.64
+Sub-Saharan Africa,2014,Upper middle,Angola,5.4,3.4,8.0,5.0,7.1,4.9,7.2,5.0,5.77,5.3,3.4,6.8,4.8,4.8,5.02
+Sub-Saharan Africa,2013,Upper middle,Angola,5.39,3.3,8.0,5.0,6.3,4.9,7.2,5.0,5.66,4.7,3.4,6.7,5.7,5.0,5.11
+Sub-Saharan Africa,2012,Upper middle,Angola,5.51,3.3,8.0,3.3,6.9,4.9,7.2,5.0,5.57,6.0,3.6,6.6,5.9,5.2,5.45
+Sub-Saharan Africa,2011,Upper middle,Angola,5.48,3.7,8.1,3.3,7.1,4.9,7.2,5.0,5.71,5.9,3.8,5.7,5.8,5.1,5.25
+Sub-Saharan Africa,2010,Lower middle,Angola,5.64,3.8,8.4,3.3,7.1,4.9,7.9,5.0,5.88,6.1,3.8,5.6,5.8,5.8,5.39
+Sub-Saharan Africa,2009,Lower middle,Angola,5.6,3.8,8.1,3.3,7.4,4.9,8.5,5.0,5.88,7.2,3.6,5.2,5.5,5.0,5.32
+Sub-Saharan Africa,2008,Lower middle,Angola,5.19,3.6,8.1,3.3,7.0,4.8,8.5,5.0,5.8,4.1,3.7,5.0,5.0,5.1,4.58
+Latin America & Caribbean,2018,Upper middle,Argentina,7.05,5.7,8.8,10.0,8.3,9.0,9.6,10.0,8.32,6.0,4.6,5.1,7.4,5.8,5.78
+Latin America & Caribbean,2017,High,Argentina,7.16,5.7,8.8,10.0,8.4,9.1,9.6,10.0,8.34,6.1,4.5,6.6,6.7,5.9,5.98
+Latin America & Caribbean,2016,Upper middle,Argentina,6.95,5.7,9.0,10.0,8.4,8.9,9.3,10.0,8.35,5.9,4.4,5.6,6.2,5.5,5.55
+Latin America & Caribbean,2015,Upper middle,Argentina,6.72,5.5,9.0,10.0,8.5,8.7,9.2,10.0,8.27,6.0,4.3,6.5,3.4,5.7,5.17
+Latin America & Caribbean,2014,High,Argentina,6.43,5.3,8.8,10.0,8.6,8.6,9.2,10.0,8.17,5.7,4.3,4.8,3.1,5.6,4.69
+Latin America & Caribbean,2013,Upper middle,Argentina,6.66,5.2,8.8,10.0,8.8,8.6,9.2,10.0,8.17,5.9,4.3,6.2,3.6,5.7,5.14
+Latin America & Caribbean,2012,Upper middle,Argentina,6.75,5.2,8.8,10.0,8.7,8.6,9.2,10.0,8.16,6.1,4.7,6.6,3.4,5.9,5.33
+Latin America & Caribbean,2011,Upper middle,Argentina,7.01,5.3,8.8,10.0,8.5,8.6,9.2,10.0,8.16,6.2,4.7,7.1,5.5,5.7,5.85
+Latin America & Caribbean,2010,Upper middle,Argentina,7.0,5.3,8.8,10.0,8.8,8.6,9.1,10.0,8.17,6.5,4.8,6.6,5.9,5.4,5.82
+Latin America & Caribbean,2009,Upper middle,Argentina,7.09,5.3,8.8,10.0,8.4,8.6,9.2,10.0,8.16,6.3,4.8,7.0,6.2,5.8,6.02
+Latin America & Caribbean,2008,Upper middle,Argentina,7.2,5.3,8.8,10.0,8.6,8.8,9.2,10.0,8.18,6.9,4.8,6.9,6.5,6.0,6.22
+Europe & Central Asia,2018,Upper middle,Armenia,7.69,4.9,9.2,8.3,6.8,8.1,7.9,8.2,7.45,7.8,6.0,9.6,8.5,7.8,7.92
+Europe & Central Asia,2017,Upper middle,Armenia,7.6,4.9,9.1,8.3,6.6,7.3,7.9,8.2,7.34,7.9,5.7,9.6,8.5,7.5,7.85
+Europe & Central Asia,2016,Lower middle,Armenia,7.56,5.0,9.4,8.3,6.6,7.0,7.7,8.2,7.38,7.6,5.7,9.5,8.4,7.4,7.73
+Europe & Central Asia,2015,Lower middle,Armenia,7.48,4.6,9.5,6.7,6.7,7.1,7.7,8.2,7.16,7.9,5.6,9.5,8.6,7.4,7.8
+Europe & Central Asia,2014,Lower middle,Armenia,7.54,4.6,9.5,6.7,6.8,6.8,7.8,8.8,7.2,8.1,5.7,9.4,8.7,7.5,7.87
+Europe & Central Asia,2013,Lower middle,Armenia,7.61,4.7,9.5,6.7,6.7,7.1,9.0,8.8,7.37,8.3,5.7,9.2,8.5,7.6,7.85
+Europe & Central Asia,2012,Lower middle,Armenia,7.56,4.6,9.5,6.7,6.5,7.1,9.0,8.8,7.33,8.6,5.7,9.3,7.7,7.6,7.78
+Europe & Central Asia,2011,Lower middle,Armenia,7.57,4.9,9.5,6.7,6.5,7.2,8.9,8.8,7.41,8.6,5.7,9.1,7.8,7.5,7.72
+Europe & Central Asia,2010,Lower middle,Armenia,7.49,4.8,9.6,6.7,6.6,7.0,7.8,8.8,7.29,8.5,5.5,9.2,8.0,7.2,7.69
+Europe & Central Asia,2009,Lower middle,Armenia,7.46,4.9,9.4,6.7,6.8,6.9,7.8,8.8,7.24,8.7,5.5,9.4,8.0,6.7,7.68
+Europe & Central Asia,2008,Lower middle,Armenia,7.44,5.0,9.6,6.7,6.7,6.7,6.6,8.8,7.18,8.9,5.5,8.9,8.0,7.2,7.69
+East Asia & Pacific,2018,High,Australia,8.68,7.8,9.9,10.0,8.9,9.3,10.0,9.0,9.12,6.9,7.9,9.7,7.9,8.7,8.23
+East Asia & Pacific,2017,High,Australia,8.66,7.8,9.9,10.0,8.9,9.3,10.0,9.0,9.13,7.0,7.9,9.6,7.8,8.6,8.18
+East Asia & Pacific,2016,High,Australia,8.63,7.8,9.9,10.0,8.9,9.3,9.6,9.0,9.1,7.0,7.9,9.5,7.8,8.6,8.16
+East Asia & Pacific,2015,High,Australia,8.62,7.9,9.9,10.0,9.0,9.3,9.6,9.0,9.13,6.8,7.9,9.4,7.8,8.6,8.1
+East Asia & Pacific,2014,High,Australia,8.69,7.9,9.9,10.0,9.3,9.3,9.7,10.0,9.26,6.7,7.9,9.3,7.8,8.8,8.11
+East Asia & Pacific,2013,High,Australia,8.61,7.7,9.9,10.0,9.1,9.3,9.7,10.0,9.19,6.9,7.9,9.3,7.7,8.4,8.02
+East Asia & Pacific,2012,High,Australia,8.65,7.7,9.8,10.0,9.2,9.6,9.7,10.0,9.21,7.2,7.8,9.5,7.7,8.3,8.09
+East Asia & Pacific,2011,High,Australia,8.67,7.8,9.8,10.0,9.2,9.6,9.7,10.0,9.24,7.2,7.9,9.4,7.6,8.4,8.1
+East Asia & Pacific,2010,High,Australia,8.68,7.8,9.8,10.0,9.2,9.6,9.7,10.0,9.25,7.1,7.9,9.5,7.5,8.5,8.1
+East Asia & Pacific,2009,High,Australia,8.7,7.8,9.8,10.0,9.5,9.5,9.6,10.0,9.25,7.1,7.9,9.6,7.5,8.5,8.14
+East Asia & Pacific,2008,High,Australia,8.7,7.8,9.8,10.0,9.5,9.5,9.6,10.0,9.25,7.3,8.0,9.4,7.5,8.6,8.15
+Europe & Central Asia,2018,High,Austria,8.45,8.2,9.9,10.0,7.2,8.9,9.6,10.0,9.09,5.7,8.0,9.4,8.4,7.7,7.8
+Europe & Central Asia,2017,High,Austria,8.44,8.2,9.9,10.0,6.9,9.2,10.0,10.0,9.12,5.7,7.9,9.2,8.4,7.6,7.75
+Europe & Central Asia,2016,High,Austria,8.46,8.2,9.9,10.0,7.5,9.2,9.6,10.0,9.15,5.6,7.8,9.4,8.4,7.5,7.76
+Europe & Central Asia,2015,High,Austria,8.55,8.6,9.9,10.0,7.7,9.2,9.6,10.0,9.28,5.6,7.9,9.6,8.4,7.6,7.81
+Europe & Central Asia,2014,High,Austria,8.57,8.5,9.9,10.0,8.1,9.2,9.6,10.0,9.3,5.6,7.9,9.6,8.5,7.5,7.84
+Europe & Central Asia,2013,High,Austria,8.52,8.2,9.9,10.0,8.1,9.2,9.6,10.0,9.24,5.6,7.9,9.6,8.1,7.7,7.79
+Europe & Central Asia,2012,High,Austria,8.5,8.2,9.8,10.0,8.1,9.4,9.6,10.0,9.22,5.7,7.9,9.5,8.1,7.7,7.78
+Europe & Central Asia,2011,High,Austria,8.46,7.7,9.8,10.0,8.4,9.3,9.6,10.0,9.11,5.7,7.9,9.6,8.1,7.7,7.8
+Europe & Central Asia,2010,High,Austria,8.44,7.7,9.8,10.0,8.2,9.4,9.6,10.0,9.1,5.4,7.9,9.6,8.2,7.7,7.77
+Europe & Central Asia,2009,High,Austria,8.44,7.7,9.8,10.0,8.3,9.4,9.6,10.0,9.11,5.4,7.9,9.6,8.3,7.6,7.76
+Europe & Central Asia,2008,High,Austria,8.45,7.7,9.8,10.0,8.3,9.4,9.6,10.0,9.11,5.6,8.0,9.5,8.2,7.6,7.79
+Europe & Central Asia,2018,Upper middle,Azerbaijan,6.29,4.2,9.5,8.3,5.3,3.8,4.6,5.8,6.21,5.2,4.7,7.3,7.2,7.3,6.37
+Europe & Central Asia,2017,Upper middle,Azerbaijan,6.24,4.3,9.5,8.3,4.8,4.4,4.6,5.8,6.24,5.2,4.8,6.9,7.2,7.1,6.23
+Europe & Central Asia,2016,Upper middle,Azerbaijan,6.06,4.3,8.8,5.0,4.8,3.9,5.4,5.8,5.78,5.4,5.0,7.5,7.1,6.7,6.34
+Europe & Central Asia,2015,Upper middle,Azerbaijan,5.96,4.1,9.0,5.0,5.0,3.9,4.4,5.8,5.68,5.3,4.8,7.3,7.0,6.9,6.24
+Europe & Central Asia,2014,Upper middle,Azerbaijan,6.11,4.1,9.0,5.0,4.8,4.0,4.8,8.8,6.0,5.0,4.7,7.4,6.9,7.0,6.21
+Europe & Central Asia,2013,Upper middle,Azerbaijan,6.12,4.1,9.1,5.0,5.0,4.0,5.8,8.8,6.16,5.0,4.7,6.8,6.9,7.0,6.07
+Europe & Central Asia,2012,Upper middle,Azerbaijan,6.08,4.0,8.6,5.0,5.2,4.1,5.7,8.8,6.03,4.7,5.4,6.9,6.7,6.9,6.13
+Europe & Central Asia,2011,Upper middle,Azerbaijan,6.09,4.3,8.7,5.0,5.3,4.1,6.6,8.8,6.21,4.7,5.4,6.5,6.4,6.9,5.97
+Europe & Central Asia,2010,Upper middle,Azerbaijan,6.26,4.3,9.5,6.7,5.5,3.6,7.9,8.8,6.69,4.3,5.3,6.3,6.3,7.0,5.82
+Europe & Central Asia,2009,Upper middle,Azerbaijan,6.17,4.3,9.5,5.0,5.7,3.7,6.3,8.8,6.41,4.5,5.3,6.6,6.2,7.1,5.93
+Europe & Central Asia,2008,Lower middle,Azerbaijan,6.31,4.4,9.4,6.7,5.7,3.7,7.2,8.8,6.64,4.7,5.5,6.3,6.3,7.1,5.98
+Latin America & Caribbean,2018,High,"Bahamas, The",7.72,6.1,6.7,10.0,7.9,,9.2,10.0,7.82,9.1,6.2,8.1,6.3,8.5,7.62
+Latin America & Caribbean,2017,High,"Bahamas, The",7.61,6.4,6.7,10.0,7.9,,9.2,10.0,7.91,8.8,6.6,6.6,6.1,8.5,7.31
+Latin America & Caribbean,2016,High,"Bahamas, The",7.66,6.4,6.7,10.0,7.9,,9.3,10.0,7.92,8.9,6.6,6.7,6.3,8.4,7.39
+Latin America & Caribbean,2015,High,"Bahamas, The",7.7,6.6,6.7,10.0,7.8,,9.3,10.0,7.96,9.0,6.8,6.8,6.3,8.3,7.44
+Latin America & Caribbean,2014,High,"Bahamas, The",7.64,6.1,6.7,10.0,8.1,,9.3,10.0,7.89,9.0,6.2,6.9,6.3,8.6,7.39
+Latin America & Caribbean,2013,High,"Bahamas, The",7.65,6.1,6.6,10.0,8.3,,9.4,10.0,7.89,8.9,6.2,7.1,6.2,8.6,7.4
+Latin America & Caribbean,2012,High,"Bahamas, The",7.62,6.1,6.7,10.0,8.1,,9.5,10.0,7.89,8.9,6.2,7.1,6.0,8.5,7.34
+Latin America & Caribbean,2011,High,"Bahamas, The",7.65,6.3,6.7,10.0,8.2,,9.4,10.0,7.96,8.9,6.1,7.1,6.0,8.6,7.34
+Latin America & Caribbean,2010,High,"Bahamas, The",7.68,6.5,6.7,10.0,7.8,,9.4,10.0,7.94,8.9,6.1,7.3,6.0,8.7,7.42
+Latin America & Caribbean,2009,High,"Bahamas, The",7.78,6.6,6.7,10.0,8.6,,9.4,10.0,8.08,8.9,6.4,7.1,5.9,9.1,7.47
+Latin America & Caribbean,2008,High,"Bahamas, The",7.98,7.1,7.2,10.0,8.8,,9.4,10.0,8.36,9.0,6.5,6.8,6.4,9.2,7.59
+Middle East & North Africa,2018,High,Bahrain,6.18,5.8,7.8,4.2,3.3,1.0,4.6,5.0,5.19,6.6,4.7,9.2,7.6,7.7,7.16
+Middle East & North Africa,2017,High,Bahrain,6.18,5.9,7.4,4.2,3.3,1.4,4.6,5.0,5.18,6.6,4.7,9.4,7.6,7.6,7.18
+Middle East & North Africa,2016,High,Bahrain,6.24,5.9,7.7,5.0,3.3,1.4,4.7,5.0,5.35,6.7,4.8,9.4,7.6,7.2,7.13
+Middle East & North Africa,2015,High,Bahrain,6.38,5.9,7.5,6.7,3.5,1.9,4.7,5.0,5.53,6.5,4.8,9.2,7.6,8.0,7.23
+Middle East & North Africa,2014,High,Bahrain,6.35,5.8,7.2,6.7,3.3,2.6,4.7,5.0,5.47,6.7,4.5,9.1,7.7,8.1,7.22
+Middle East & North Africa,2013,High,Bahrain,6.38,5.7,7.3,6.7,3.3,3.1,5.1,5.0,5.57,6.6,4.5,8.7,7.9,8.3,7.18
+Middle East & North Africa,2012,High,Bahrain,6.28,5.6,7.3,6.7,3.1,3.2,3.8,5.0,5.41,6.4,4.5,8.6,7.9,8.4,7.14
+Middle East & North Africa,2011,High,Bahrain,6.41,6.0,7.1,6.7,3.4,3.7,3.9,5.0,5.53,6.7,4.6,8.5,8.0,8.5,7.29
+Middle East & North Africa,2010,High,Bahrain,6.8,6.1,8.5,6.7,5.4,5.0,5.4,5.0,6.41,6.3,4.7,8.4,8.1,8.4,7.18
+Middle East & North Africa,2009,High,Bahrain,7.01,6.2,8.9,8.3,5.7,5.0,7.1,5.0,6.88,6.4,4.6,8.3,8.1,8.4,7.14
+Middle East & North Africa,2008,High,Bahrain,7.13,6.2,8.9,8.3,5.9,5.0,7.1,5.0,6.91,6.8,4.7,9.1,7.9,8.4,7.35
+South Asia,2018,Lower middle,Bangladesh,5.67,3.1,7.0,6.7,5.7,6.3,7.5,1.7,5.3,8.1,3.0,6.9,5.6,6.6,6.04
+South Asia,2017,Lower middle,Bangladesh,5.71,3.1,7.0,6.7,5.7,6.7,7.4,1.7,5.35,8.2,3.1,6.8,5.6,6.6,6.07
+South Asia,2016,Lower middle,Bangladesh,5.7,3.1,7.0,5.0,5.8,7.2,7.6,1.7,5.27,8.2,3.2,6.8,5.7,6.7,6.13
+South Asia,2015,Lower middle,Bangladesh,5.77,3.1,7.3,5.0,6.3,7.3,7.4,1.7,5.36,8.4,3.1,6.9,5.7,6.8,6.18
+South Asia,2014,Lower middle,Bangladesh,5.85,3.4,6.9,5.0,6.6,7.4,7.7,2.5,5.5,8.5,3.0,6.9,5.6,6.9,6.2
+South Asia,2013,Low,Bangladesh,5.79,3.1,7.3,5.0,6.1,7.0,8.6,0.0,5.26,8.5,3.0,6.8,6.4,6.9,6.31
+South Asia,2012,Low,Bangladesh,5.85,3.1,8.1,5.0,6.6,7.2,8.6,0.0,5.54,8.5,3.1,6.7,5.7,6.8,6.16
+South Asia,2011,Low,Bangladesh,6.0,3.5,8.2,6.7,6.6,7.3,8.7,0.0,5.84,8.5,3.2,6.5,5.7,6.9,6.16
+South Asia,2010,Low,Bangladesh,6.05,3.5,8.1,6.7,6.2,7.8,9.1,0.0,5.89,8.6,3.4,6.5,5.7,6.9,6.2
+South Asia,2009,Low,Bangladesh,6.05,3.5,8.1,6.7,6.4,7.5,9.0,0.0,5.87,8.7,3.2,6.7,5.7,6.8,6.22
+South Asia,2008,Low,Bangladesh,5.93,3.5,8.1,6.7,7.2,6.3,8.9,0.0,5.81,8.6,2.8,6.4,5.7,6.7,6.05
+Latin America & Caribbean,2018,High,Barbados,6.99,6.5,8.7,7.5,8.6,8.5,10.0,5.0,7.76,5.5,5.7,6.5,6.8,6.7,6.22
+Latin America & Caribbean,2017,High,Barbados,7.08,6.7,8.6,7.5,8.6,8.9,10.0,5.0,7.82,5.7,5.8,6.4,6.5,7.3,6.33
+Latin America & Caribbean,2016,High,Barbados,7.2,6.7,9.0,10.0,8.5,8.9,9.4,5.0,8.1,5.9,5.8,6.5,6.6,6.7,6.3
+Latin America & Caribbean,2015,High,Barbados,7.22,7.0,8.5,10.0,8.7,8.8,9.5,5.0,8.08,5.9,5.8,6.7,6.6,6.7,6.36
+Latin America & Caribbean,2014,High,Barbados,7.3,6.8,8.8,10.0,8.8,9.1,9.5,5.0,8.13,6.1,5.8,7.1,6.7,6.7,6.46
+Latin America & Caribbean,2013,High,Barbados,7.42,6.8,8.9,10.0,8.9,9.1,9.5,5.0,8.14,6.0,5.6,7.0,7.2,7.8,6.7
+Latin America & Caribbean,2012,High,Barbados,7.24,6.7,9.0,10.0,8.7,9.1,9.5,5.0,8.15,5.8,5.6,6.5,6.9,6.8,6.32
+Latin America & Caribbean,2011,High,Barbados,7.4,7.0,8.7,10.0,8.8,9.1,9.4,5.0,8.15,6.1,5.6,6.4,7.1,8.0,6.64
+Latin America & Caribbean,2010,High,Barbados,7.17,7.0,8.5,10.0,9.0,9.1,9.4,5.0,8.11,5.8,5.7,6.6,6.4,6.6,6.22
+Latin America & Caribbean,2009,High,Barbados,7.23,6.9,9.1,10.0,9.0,9.1,9.4,5.0,8.24,5.4,5.7,6.7,6.3,6.9,6.21
+Latin America & Caribbean,2008,High,Barbados,7.16,7.3,8.9,10.0,9.0,9.1,9.4,5.0,8.29,5.5,5.7,6.0,6.3,6.6,6.03
+Europe & Central Asia,2018,Upper middle,Belarus,6.67,5.1,9.3,8.3,6.0,4.2,6.3,9.0,6.99,6.0,4.7,7.3,6.7,7.1,6.35
+Europe & Central Asia,2017,Upper middle,Belarus,6.7,5.1,9.2,8.3,6.0,4.3,6.7,9.0,7.01,6.0,4.8,7.1,6.8,7.2,6.38
+Europe & Central Asia,2016,Upper middle,Belarus,6.24,5.1,9.2,5.0,5.9,4.4,6.5,8.2,6.58,6.0,5.0,5.3,7.2,6.0,5.9
+Europe & Central Asia,2015,Upper middle,Belarus,,,,,4.6,4.7,,,,6.1,4.9,,,,
+Europe & Central Asia,2014,Upper middle,Belarus,,,,,4.6,4.4,,,,6.1,5.5,,,,
+Europe & Central Asia,2013,Upper middle,Belarus,,,,,4.6,4.4,,,,6.1,5.5,,,,
+Europe & Central Asia,2012,Upper middle,Belarus,,,,,4.4,4.3,,,,6.3,5.4,,,,
+Europe & Central Asia,2011,Upper middle,Belarus,,,,,4.4,4.3,,,,6.3,5.5,,,,
+Europe & Central Asia,2010,Upper middle,Belarus,,,,,4.4,4.3,,,,6.3,5.5,,,,
+Europe & Central Asia,2009,Upper middle,Belarus,,,,,4.4,4.5,,,,6.3,5.5,,,,
+Europe & Central Asia,2008,Upper middle,Belarus,,,,,4.2,4.4,,,,6.3,5.5,,,,
+Europe & Central Asia,2018,High,Belgium,8.28,7.8,9.8,10.0,7.8,9.1,10.0,9.0,8.99,4.9,7.1,9.3,8.3,8.2,7.56
+Europe & Central Asia,2017,High,Belgium,8.27,7.8,9.8,10.0,7.9,9.3,10.0,9.0,9.0,4.9,7.1,9.2,8.3,8.2,7.53
+Europe & Central Asia,2016,High,Belgium,8.22,7.8,9.4,10.0,7.9,9.2,9.9,9.0,8.89,4.8,7.1,9.4,8.4,8.1,7.54
+Europe & Central Asia,2015,High,Belgium,8.35,8.1,9.7,10.0,8.0,9.2,9.9,9.0,9.07,4.8,7.2,9.7,8.5,8.0,7.63
+Europe & Central Asia,2014,High,Belgium,8.43,7.5,9.7,10.0,8.3,9.3,9.9,10.0,9.05,4.8,7.8,9.7,8.6,8.1,7.8
+Europe & Central Asia,2013,High,Belgium,8.31,7.4,9.8,10.0,8.4,9.3,9.9,10.0,9.03,4.8,7.1,9.8,8.3,7.9,7.58
+Europe & Central Asia,2012,High,Belgium,8.27,7.4,9.7,10.0,8.1,9.2,9.9,10.0,8.98,4.8,7.1,9.6,8.3,8.0,7.55
+Europe & Central Asia,2011,High,Belgium,8.3,7.5,9.7,10.0,8.2,9.2,9.9,10.0,9.01,4.8,7.1,9.7,8.3,8.0,7.58
+Europe & Central Asia,2010,High,Belgium,8.34,7.5,9.7,10.0,8.4,9.2,9.8,10.0,9.04,4.8,6.9,9.7,8.4,8.3,7.63
+Europe & Central Asia,2009,High,Belgium,8.29,7.5,9.7,10.0,8.5,9.2,9.8,10.0,9.05,4.8,6.9,9.6,8.4,7.9,7.52
+Europe & Central Asia,2008,High,Belgium,8.29,7.5,9.7,10.0,8.2,9.2,9.8,10.0,9.02,5.0,7.1,9.5,8.4,7.9,7.56
+Latin America & Caribbean,2018,Upper middle,Belize,6.92,4.4,6.7,7.5,9.1,,9.2,10.0,7.23,7.3,4.8,7.1,6.1,7.8,6.6
+Latin America & Caribbean,2017,Upper middle,Belize,6.89,4.3,6.7,7.5,9.1,,9.2,10.0,7.2,6.9,4.7,7.3,6.0,7.9,6.58
+Latin America & Caribbean,2016,Upper middle,Belize,7.14,4.3,6.7,10.0,9.1,,9.0,10.0,7.49,7.5,4.9,7.2,6.6,7.7,6.78
+Latin America & Caribbean,2015,Upper middle,Belize,6.95,4.0,6.7,10.0,9.1,,9.2,7.5,7.15,7.6,5.0,6.9,6.5,7.8,6.74
+Latin America & Caribbean,2014,Upper middle,Belize,6.88,3.8,6.7,10.0,8.7,,9.2,7.5,7.04,7.3,5.2,6.8,6.8,7.5,6.71
+Latin America & Caribbean,2013,Upper middle,Belize,7.0,4.5,6.3,10.0,9.1,,9.2,7.5,7.17,7.2,5.5,7.0,6.6,7.7,6.82
+Latin America & Caribbean,2012,Upper middle,Belize,7.03,4.5,6.7,10.0,9.1,,9.2,7.5,7.26,6.9,5.5,7.0,6.6,8.0,6.8
+Latin America & Caribbean,2011,Lower middle,Belize,7.1,4.8,6.7,10.0,9.5,,9.2,7.5,7.4,6.9,5.5,7.1,6.6,7.9,6.8
+Latin America & Caribbean,2010,Lower middle,Belize,6.95,5.0,6.7,10.0,9.4,,9.2,7.5,7.44,6.1,4.6,7.2,6.1,8.3,6.46
+Latin America & Caribbean,2009,Lower middle,Belize,7.22,5.0,6.7,10.0,9.2,,9.2,7.5,7.41,7.8,4.6,7.1,6.4,9.2,7.03
+Latin America & Caribbean,2008,Lower middle,Belize,7.37,5.2,6.7,10.0,9.1,,9.2,7.5,7.45,7.8,4.7,8.2,6.5,9.2,7.28
+Sub-Saharan Africa,2018,Low,Benin,6.81,4.1,8.7,5.8,9.0,8.8,9.6,8.8,7.41,6.6,4.7,7.1,5.8,6.8,6.2
+Sub-Saharan Africa,2017,Low,Benin,6.87,4.2,8.7,5.8,9.2,9.3,9.6,8.8,7.49,7.1,4.4,7.2,5.8,6.7,6.25
+Sub-Saharan Africa,2016,Low,Benin,6.69,4.2,8.0,5.0,9.2,9.1,9.4,10.0,7.31,7.0,4.0,7.0,5.7,6.5,6.06
+Sub-Saharan Africa,2015,Low,Benin,6.64,4.4,8.0,6.7,9.7,8.8,9.4,10.0,7.52,6.5,3.7,6.9,5.7,6.0,5.75
+Sub-Saharan Africa,2014,Low,Benin,6.81,4.4,8.0,6.7,9.4,8.8,9.4,10.0,7.51,7.3,4.1,6.9,5.9,6.3,6.11
+Sub-Saharan Africa,2013,Low,Benin,6.72,4.3,7.6,5.0,9.5,8.8,9.4,10.0,7.26,7.0,4.3,7.1,6.3,6.3,6.18
+Sub-Saharan Africa,2012,Low,Benin,6.53,4.3,7.2,5.0,9.4,9.1,9.4,10.0,7.16,6.7,4.0,6.9,5.7,6.2,5.89
+Sub-Saharan Africa,2011,Low,Benin,6.64,4.6,7.2,5.0,9.3,9.1,9.4,10.0,7.22,7.5,4.0,6.9,5.6,6.3,6.06
+Sub-Saharan Africa,2010,Low,Benin,6.73,4.6,7.2,6.7,9.4,8.6,9.4,10.0,7.35,7.4,4.1,6.8,5.7,6.5,6.11
+Sub-Saharan Africa,2009,Low,Benin,6.85,4.6,7.5,6.7,9.3,8.6,9.4,10.0,7.43,7.8,4.1,6.7,5.6,7.1,6.27
+Sub-Saharan Africa,2008,Low,Benin,6.87,4.8,8.0,6.7,9.2,8.6,9.5,10.0,7.59,7.7,4.4,6.1,5.8,6.7,6.14
+South Asia,2018,Lower middle,Bhutan,6.52,6.0,9.7,3.3,5.7,6.7,8.3,0.8,6.41,6.7,5.7,7.1,6.1,7.7,6.63
+South Asia,2017,Lower middle,Bhutan,6.54,6.2,9.6,3.3,5.8,6.5,8.3,0.8,6.43,7.0,5.6,6.9,6.1,7.7,6.64
+South Asia,2016,Lower middle,Bhutan,6.56,6.0,8.8,3.3,5.8,6.3,8.2,2.5,6.31,7.0,6.27,6.7,6.1,7.9,6.81
+South Asia,2015,Lower middle,Bhutan,6.7,6.1,8.8,5.0,5.9,6.4,8.2,2.5,6.52,7.3,6.16,7.0,6.1,7.8,6.88
+South Asia,2014,Lower middle,Bhutan,6.7,5.7,8.8,6.7,6.0,6.4,8.1,3.8,6.72,7.2,5.36,6.9,6.4,7.6,6.68
+South Asia,2013,Lower middle,Bhutan,6.73,5.6,8.6,8.3,5.8,6.4,8.1,3.8,6.79,7.0,5.62,6.9,6.4,7.5,6.66
+South Asia,2012,Lower middle,Bhutan,,,,,4.1,6.1,,,,4.7,5.59,,,5.8,
+South Asia,2011,Lower middle,Bhutan,,,,,4.2,6.2,,,,4.9,5.6,,,6.0,
+South Asia,2010,Lower middle,Bhutan,,,,,4.0,6.2,,,,4.8,5.6,,,6.4,
+South Asia,2009,Lower middle,Bhutan,,,,,3.9,6.0,,,,5.6,5.6,,,,
+South Asia,2008,Lower middle,Bhutan,,,,,3.9,5.7,,,,4.9,5.6,,,,
+Latin America & Caribbean,2018,Lower middle,Bolivia,6.78,3.1,8.5,8.3,8.6,7.5,9.2,10.0,7.26,6.0,3.9,9.4,7.0,5.2,6.3
+Latin America & Caribbean,2017,Lower middle,Bolivia,6.77,3.1,8.6,8.3,8.6,7.5,9.2,10.0,7.27,5.9,3.9,9.3,7.1,5.1,6.27
+Latin America & Caribbean,2016,Lower middle,Bolivia,6.82,3.1,8.2,10.0,8.8,7.7,9.1,10.0,7.36,5.9,3.9,9.4,7.0,5.1,6.27
+Latin America & Caribbean,2015,Lower middle,Bolivia,6.8,3.5,8.2,10.0,8.9,7.8,9.1,10.0,7.5,5.9,3.9,8.7,6.9,5.1,6.1
+Latin America & Caribbean,2014,Lower middle,Bolivia,6.88,3.8,7.8,10.0,9.1,7.9,9.2,10.0,7.51,6.0,4.1,8.7,6.7,5.6,6.24
+Latin America & Caribbean,2013,Lower middle,Bolivia,6.83,3.3,7.8,8.3,9.1,8.4,9.2,10.0,7.27,6.0,4.2,8.4,7.4,5.9,6.39
+Latin America & Caribbean,2012,Lower middle,Bolivia,6.87,3.3,8.1,8.3,9.1,8.5,9.2,10.0,7.35,6.0,4.2,8.7,7.0,5.9,6.38
+Latin America & Caribbean,2011,Lower middle,Bolivia,6.94,3.7,8.0,10.0,9.1,8.6,8.6,10.0,7.57,6.1,4.2,8.5,7.0,5.9,6.31
+Latin America & Caribbean,2010,Lower middle,Bolivia,6.94,3.7,8.0,10.0,9.1,7.6,9.2,10.0,7.5,6.1,4.0,8.7,7.1,6.0,6.37
+Latin America & Caribbean,2009,Lower middle,Bolivia,7.02,3.7,8.5,10.0,8.8,7.7,9.3,10.0,7.64,6.1,3.9,8.7,7.2,6.1,6.39
+Latin America & Caribbean,2008,Lower middle,Bolivia,6.85,3.7,8.5,10.0,8.1,7.7,8.7,10.0,7.51,6.1,3.8,8.0,7.3,5.7,6.19
+Europe & Central Asia,2018,Upper middle,Bosnia and Herzegovina,7.34,5.3,9.1,8.3,7.9,7.5,9.2,9.0,7.78,6.4,4.6,8.3,7.7,7.5,6.9
+Europe & Central Asia,2017,Upper middle,Bosnia and Herzegovina,7.38,5.5,9.1,8.3,7.9,7.8,9.2,9.0,7.86,6.4,4.7,8.3,7.6,7.6,6.89
+Europe & Central Asia,2016,Upper middle,Bosnia and Herzegovina,7.41,5.5,8.7,10.0,7.9,7.9,9.2,9.0,7.93,6.5,4.6,8.3,7.5,7.5,6.88
+Europe & Central Asia,2015,Upper middle,Bosnia and Herzegovina,7.34,5.8,8.7,6.7,8.2,8.1,9.2,9.0,7.76,6.4,4.7,8.5,7.6,7.4,6.91
+Europe & Central Asia,2014,Upper middle,Bosnia and Herzegovina,7.49,5.7,8.8,8.3,8.2,8.2,9.2,10.0,8.01,6.0,5.4,8.5,7.7,7.2,6.96
+Europe & Central Asia,2013,Upper middle,Bosnia and Herzegovina,7.4,5.7,8.8,6.7,8.0,8.7,9.2,10.0,7.9,6.1,5.1,8.6,7.4,7.3,6.89
+Europe & Central Asia,2012,Upper middle,Bosnia and Herzegovina,7.44,5.7,8.8,6.7,8.2,8.9,9.3,10.0,7.93,6.1,5.8,8.3,7.2,7.4,6.94
+Europe & Central Asia,2011,Upper middle,Bosnia and Herzegovina,7.53,6.1,8.8,6.7,8.3,8.9,9.3,10.0,8.05,6.2,5.6,8.1,7.7,7.4,7.0
+Europe & Central Asia,2010,Upper middle,Bosnia and Herzegovina,7.53,6.1,9.6,8.3,8.4,8.6,8.5,10.0,8.31,5.1,5.3,8.3,7.7,7.3,6.74
+Europe & Central Asia,2009,Upper middle,Bosnia and Herzegovina,7.53,6.1,9.6,8.3,8.5,8.5,8.5,10.0,8.31,5.6,5.2,8.3,7.6,7.0,6.74
+Europe & Central Asia,2008,Upper middle,Bosnia and Herzegovina,7.46,6.1,9.6,6.7,8.5,8.6,8.6,10.0,8.15,6.2,4.9,7.9,7.7,7.1,6.77
+Sub-Saharan Africa,2018,Upper middle,Botswana,7.35,5.7,7.6,7.5,8.7,8.2,8.3,5.0,7.1,6.7,6.1,9.4,7.9,8.0,7.6
+Sub-Saharan Africa,2017,Upper middle,Botswana,7.29,5.6,7.6,7.5,8.3,8.1,8.3,5.0,7.02,6.5,6.0,9.4,7.7,8.1,7.55
+Sub-Saharan Africa,2016,Upper middle,Botswana,7.29,5.6,7.2,8.3,8.8,9.2,8.5,4.0,7.08,6.2,6.1,9.1,8.1,8.0,7.5
+Sub-Saharan Africa,2015,Upper middle,Botswana,7.23,5.2,7.2,8.3,8.9,9.2,8.5,4.0,6.98,6.0,6.3,9.1,7.9,8.1,7.47
+Sub-Saharan Africa,2014,Upper middle,Botswana,7.19,5.6,7.2,8.3,8.9,9.5,8.5,2.5,6.95,6.0,6.1,8.9,8.1,8.1,7.43
+Sub-Saharan Africa,2013,Upper middle,Botswana,7.13,5.7,7.2,8.3,9.0,9.1,7.7,2.5,6.87,6.7,6.1,8.4,7.6,8.2,7.39
+Sub-Saharan Africa,2012,Upper middle,Botswana,7.1,5.7,7.2,8.3,9.2,8.8,7.7,2.5,6.87,6.8,6.2,8.5,7.1,8.2,7.33
+Sub-Saharan Africa,2011,Upper middle,Botswana,7.04,6.2,7.2,6.7,9.3,8.8,7.7,2.5,6.83,6.0,6.5,8.4,7.3,8.1,7.24
+Sub-Saharan Africa,2010,Upper middle,Botswana,7.03,6.2,7.2,8.3,9.0,8.8,8.2,2.5,7.03,5.3,6.6,8.3,7.3,7.8,7.03
+Sub-Saharan Africa,2009,Upper middle,Botswana,6.93,6.2,7.2,8.3,9.1,8.9,8.2,2.5,7.06,4.6,6.5,8.4,7.0,7.4,6.8
+Sub-Saharan Africa,2008,Upper middle,Botswana,6.99,6.2,7.2,8.3,8.9,8.7,8.3,2.5,7.03,4.6,6.7,8.7,7.3,7.5,6.95
+Latin America & Caribbean,2018,Upper middle,Brazil,6.83,4.4,6.5,10.0,8.7,8.8,9.5,6.7,7.1,6.9,5.0,9.3,6.8,4.8,6.56
+Latin America & Caribbean,2017,Upper middle,Brazil,6.89,4.7,6.7,10.0,8.8,9.0,9.6,6.7,7.23,6.9,5.1,9.4,6.8,4.6,6.54
+Latin America & Caribbean,2016,Upper middle,Brazil,6.68,4.7,5.5,10.0,8.8,9.2,9.1,6.7,6.91,6.9,5.1,9.2,6.7,4.3,6.45
+Latin America & Caribbean,2015,Upper middle,Brazil,6.68,4.8,5.8,10.0,9.4,9.8,9.0,6.7,7.15,6.7,5.2,8.0,6.6,4.5,6.2
+Latin America & Caribbean,2014,Upper middle,Brazil,6.93,4.7,5.8,10.0,9.4,9.8,9.1,10.0,7.46,6.8,5.2,8.2,6.7,5.0,6.4
+Latin America & Caribbean,2013,Upper middle,Brazil,6.99,4.8,5.8,10.0,9.4,9.8,9.1,10.0,7.48,6.9,5.2,8.1,7.1,5.2,6.5
+Latin America & Caribbean,2012,Upper middle,Brazil,7.12,4.8,6.2,10.0,9.6,10.0,9.0,10.0,7.61,7.3,5.6,8.1,6.9,5.2,6.63
+Latin America & Caribbean,2011,Upper middle,Brazil,7.21,5.5,6.0,10.0,9.6,10.0,9.1,10.0,7.74,7.4,5.7,8.2,7.0,5.1,6.68
+Latin America & Caribbean,2010,Upper middle,Brazil,7.34,5.5,7.1,10.0,9.5,10.0,9.2,10.0,8.01,7.4,5.6,8.0,7.0,5.3,6.66
+Latin America & Caribbean,2009,Upper middle,Brazil,7.24,5.5,7.0,10.0,9.6,10.0,9.2,10.0,7.99,7.2,5.6,7.9,7.0,4.8,6.49
+Latin America & Caribbean,2008,Upper middle,Brazil,7.23,5.5,6.8,10.0,9.5,10.0,9.3,10.0,7.95,7.2,5.6,7.9,7.1,4.8,6.5
+East Asia & Pacific,2018,High,Brunei Darussalam,6.01,6.2,8.3,4.2,,,5.0,1.7,5.41,3.3,5.4,8.6,7.1,8.5,6.6
+East Asia & Pacific,2017,High,Brunei Darussalam,6.06,6.2,8.3,4.2,,,5.0,1.7,5.43,3.3,5.4,8.9,7.2,8.6,6.69
+East Asia & Pacific,2016,High,Brunei Darussalam,6.46,6.1,8.3,7.5,,,5.0,1.7,5.93,5.0,5.46,8.8,7.1,8.6,6.98
+East Asia & Pacific,2015,High,Brunei Darussalam,6.36,5.9,8.3,7.5,,,5.0,1.7,5.89,5.0,5.37,8.5,7.0,8.3,6.83
+East Asia & Pacific,2014,High,Brunei Darussalam,6.48,5.8,8.3,7.5,,,5.0,2.5,6.02,5.0,5.1,9.0,7.2,8.4,6.94
+East Asia & Pacific,2013,High,Brunei Darussalam,6.65,6.1,8.3,7.5,,,7.4,2.5,6.48,5.0,5.2,8.2,7.5,8.1,6.81
+East Asia & Pacific,2012,High,Brunei Darussalam,6.83,6.4,8.2,8.3,,,7.4,2.5,6.68,5.0,5.5,8.2,7.6,8.6,6.98
+East Asia & Pacific,2011,High,Brunei Darussalam,6.81,6.7,8.3,8.3,,,7.4,2.5,6.78,5.0,5.5,8.2,7.6,7.8,6.83
+East Asia & Pacific,2010,High,Brunei Darussalam,6.73,6.6,8.3,6.7,,,7.4,2.5,6.47,5.0,5.5,8.3,7.7,8.5,6.99
+East Asia & Pacific,2009,High,Brunei Darussalam,,,,,,,,,,,5.5,,,,
+East Asia & Pacific,2008,High,Brunei Darussalam,,,,,,,,,,,5.5,,,,
+Europe & Central Asia,2018,Upper middle,Bulgaria,7.93,5.2,9.8,10.0,7.4,8.5,9.6,8.2,8.11,6.9,5.9,9.6,8.5,7.9,7.74
+Europe & Central Asia,2017,Upper middle,Bulgaria,7.89,4.9,9.8,10.0,7.2,8.5,9.6,8.2,8.02,7.1,5.9,9.5,8.5,7.8,7.76
+Europe & Central Asia,2016,Upper middle,Bulgaria,7.83,4.9,9.8,10.0,6.9,8.5,9.3,9.0,8.06,6.9,5.4,9.4,8.5,7.7,7.6
+Europe & Central Asia,2015,Upper middle,Bulgaria,7.85,5.2,9.8,10.0,7.4,8.5,9.3,9.0,8.17,6.7,5.3,9.4,8.5,7.7,7.52
+Europe & Central Asia,2014,Upper middle,Bulgaria,7.96,5.3,9.8,10.0,7.4,8.9,9.4,10.0,8.33,7.0,5.3,9.2,8.6,7.8,7.58
+Europe & Central Asia,2013,Upper middle,Bulgaria,7.93,5.1,9.8,10.0,7.5,8.6,9.4,10.0,8.27,7.1,5.3,9.4,8.2,7.9,7.59
+Europe & Central Asia,2012,Upper middle,Bulgaria,7.98,5.1,9.7,10.0,7.9,9.0,9.4,10.0,8.31,7.3,5.4,9.5,8.0,8.0,7.65
+Europe & Central Asia,2011,Upper middle,Bulgaria,8.0,5.3,9.8,10.0,8.0,9.0,9.4,10.0,8.4,7.2,5.5,9.3,8.0,8.0,7.6
+Europe & Central Asia,2010,Upper middle,Bulgaria,8.01,5.3,9.7,10.0,8.1,9.0,8.7,10.0,8.33,7.2,5.4,9.5,8.4,7.9,7.68
+Europe & Central Asia,2009,Upper middle,Bulgaria,8.01,5.3,9.7,10.0,7.8,9.0,9.4,10.0,8.38,7.3,5.4,9.4,8.1,7.9,7.63
+Europe & Central Asia,2008,Upper middle,Bulgaria,7.89,5.3,9.7,10.0,7.7,8.9,8.7,10.0,8.27,7.4,5.5,8.7,8.1,7.8,7.51
+Sub-Saharan Africa,2018,Low,Burkina Faso,6.6,4.7,7.5,10.0,7.8,7.9,8.3,8.8,7.34,5.2,4.1,6.5,6.3,7.1,5.85
+Sub-Saharan Africa,2017,Low,Burkina Faso,6.75,4.9,7.9,10.0,8.0,8.2,8.3,8.8,7.51,5.6,4.2,6.8,6.2,7.0,5.98
+Sub-Saharan Africa,2016,Low,Burkina Faso,6.7,4.9,7.5,8.3,8.0,7.9,8.1,10.0,7.33,5.8,3.9,7.1,6.3,7.2,6.07
+Sub-Saharan Africa,2015,Low,Burkina Faso,6.64,4.4,7.6,8.3,8.3,8.4,8.1,10.0,7.32,5.7,3.9,7.0,6.3,6.9,5.95
+Sub-Saharan Africa,2014,Low,Burkina Faso,6.6,4.1,7.6,8.3,8.5,8.4,8.0,10.0,7.26,5.7,4.0,7.0,6.1,6.9,5.94
+Sub-Saharan Africa,2013,Low,Burkina Faso,6.67,4.5,7.6,8.3,8.2,8.0,9.3,10.0,7.42,5.4,4.0,7.0,6.2,6.9,5.91
+Sub-Saharan Africa,2012,Low,Burkina Faso,6.53,4.5,6.9,8.3,8.8,8.5,9.2,10.0,7.33,5.4,4.2,6.7,5.7,6.7,5.72
+Sub-Saharan Africa,2011,Low,Burkina Faso,6.65,4.9,6.9,8.3,8.7,8.5,9.3,10.0,7.43,5.5,4.2,6.9,5.7,7.0,5.86
+Sub-Saharan Africa,2010,Low,Burkina Faso,6.84,4.9,7.6,10.0,8.6,8.5,9.3,10.0,7.77,5.4,4.2,6.9,5.7,7.2,5.9
+Sub-Saharan Africa,2009,Low,Burkina Faso,6.81,4.9,7.6,8.3,8.7,8.3,9.3,10.0,7.59,5.8,4.2,6.7,5.7,7.6,6.02
+Sub-Saharan Africa,2008,Low,Burkina Faso,6.89,4.9,7.6,10.0,8.3,8.3,9.3,10.0,7.71,6.0,4.5,6.6,5.7,7.6,6.06
+Sub-Saharan Africa,2018,Low,Burundi,5.42,2.7,7.8,6.7,7.0,1.8,3.3,3.8,4.9,6.8,4.3,8.8,3.4,6.3,5.94
+Sub-Saharan Africa,2017,Low,Burundi,5.48,2.9,7.8,6.7,7.3,1.4,3.3,3.8,4.94,6.4,3.9,8.1,5.6,6.2,6.02
+Sub-Saharan Africa,2016,Low,Burundi,5.35,2.9,6.4,5.0,6.6,1.7,3.5,5.0,4.49,6.6,3.7,8.8,5.8,6.1,6.21
+Sub-Saharan Africa,2015,Low,Burundi,5.17,3.3,6.1,1.7,6.7,2.5,3.1,5.0,4.24,6.6,3.6,7.8,5.8,6.6,6.09
+Sub-Saharan Africa,2014,Low,Burundi,5.57,3.7,7.4,5.0,6.2,3.3,3.7,5.0,5.09,6.1,3.6,8.0,5.9,6.6,6.05
+Sub-Saharan Africa,2013,Low,Burundi,5.9,3.6,7.5,5.0,6.7,5.0,8.3,5.0,5.77,5.8,3.6,7.9,6.2,6.5,6.03
+Sub-Saharan Africa,2012,Low,Burundi,5.6,3.6,7.1,5.0,7.4,5.4,8.2,5.0,5.76,4.6,3.6,7.0,5.3,6.7,5.43
+Sub-Saharan Africa,2011,Low,Burundi,5.65,3.9,7.2,5.0,7.3,5.4,8.2,5.0,5.86,4.2,3.5,7.2,5.2,7.2,5.44
+Sub-Saharan Africa,2010,Low,Burundi,5.72,3.9,7.7,8.3,7.1,4.8,7.1,5.0,6.12,4.7,3.4,7.0,4.7,6.8,5.31
+Sub-Saharan Africa,2009,Low,Burundi,6.04,3.9,8.1,10.0,7.5,5.3,7.6,5.0,6.54,5.5,3.4,6.8,4.6,7.3,5.53
+Sub-Saharan Africa,2008,Low,Burundi,5.65,4.1,7.1,8.3,7.4,5.3,7.2,5.0,6.12,5.2,3.4,6.0,4.6,6.6,5.17
+Sub-Saharan Africa,2018,Lower middle,Cabo Verde,7.75,5.9,9.1,10.0,8.7,9.4,9.2,6.3,8.09,7.5,6.2,8.4,7.7,7.3,7.41
+Sub-Saharan Africa,2017,Lower middle,Cabo Verde,7.64,5.8,8.5,10.0,8.8,9.5,9.2,6.3,7.94,7.8,6.2,8.4,7.1,7.2,7.34
+Sub-Saharan Africa,2016,Lower middle,Cabo Verde,7.77,5.7,8.5,10.0,8.8,9.8,9.3,10.0,8.33,7.7,6.25,8.1,6.9,7.1,7.21
+Sub-Saharan Africa,2015,Lower middle,Cabo Verde,7.89,6.2,8.8,10.0,9.3,9.8,9.3,10.0,8.59,7.6,6.28,8.4,6.7,6.9,7.18
+Sub-Saharan Africa,2014,Lower middle,Cabo Verde,7.72,6.1,8.4,10.0,8.6,9.8,9.3,10.0,8.37,7.0,6.3,8.5,6.7,6.7,7.06
+Sub-Saharan Africa,2013,Lower middle,Cabo Verde,7.58,6.0,8.6,10.0,8.3,9.8,9.3,10.0,8.38,5.3,6.2,8.5,7.0,6.8,6.77
+Sub-Saharan Africa,2012,Lower middle,Cabo Verde,7.57,6.0,8.5,10.0,8.8,9.8,9.3,10.0,8.42,6.0,6.2,8.3,6.2,6.9,6.72
+Sub-Saharan Africa,2011,Lower middle,Cabo Verde,7.56,6.2,8.6,10.0,8.8,9.8,9.3,10.0,8.49,6.7,6.2,6.9,6.2,7.1,6.62
+Sub-Saharan Africa,2010,Lower middle,Cabo Verde,7.5,6.1,9.0,10.0,8.7,9.8,9.3,10.0,8.55,5.7,6.2,7.2,6.2,6.9,6.44
+Sub-Saharan Africa,2009,Lower middle,Cabo Verde,,,,,9.9,9.8,,,,7.1,6.2,,,,
+Sub-Saharan Africa,2008,Lower middle,Cabo Verde,,,,,9.9,9.8,,,,7.3,6.2,,,,
+East Asia & Pacific,2018,Lower middle,Cambodia,6.83,2.5,8.8,7.5,6.1,4.4,8.8,8.8,6.38,8.4,3.8,9.5,7.7,7.0,7.28
+East Asia & Pacific,2017,Lower middle,Cambodia,6.81,2.6,8.8,7.5,6.0,4.4,8.5,8.8,6.38,8.4,3.8,9.4,7.7,6.9,7.24
+East Asia & Pacific,2016,Lower middle,Cambodia,7.07,2.6,9.6,10.0,6.2,5.1,8.8,8.8,6.92,8.4,3.82,9.3,7.7,7.0,7.22
+East Asia & Pacific,2015,Lower middle,Cambodia,7.13,2.7,9.6,10.0,6.6,5.8,8.8,8.8,7.06,8.2,3.9,9.3,7.5,7.1,7.19
+East Asia & Pacific,2014,Low,Cambodia,7.12,3.0,9.3,10.0,7.1,5.8,8.1,8.8,7.04,8.3,3.9,9.3,7.6,7.0,7.2
+East Asia & Pacific,2013,Low,Cambodia,7.24,3.4,9.4,10.0,7.3,5.4,8.9,8.8,7.24,8.1,3.9,9.5,8.0,6.7,7.23
+East Asia & Pacific,2012,Low,Cambodia,7.11,3.4,9.6,10.0,6.8,5.5,8.4,8.8,7.2,7.6,4.1,9.3,7.2,7.0,7.01
+East Asia & Pacific,2011,Low,Cambodia,6.95,3.8,9.5,8.3,6.5,5.6,8.9,8.8,7.15,7.2,4.3,9.2,7.1,5.9,6.75
+East Asia & Pacific,2010,Low,Cambodia,7.1,3.8,9.5,8.3,6.9,6.1,8.9,8.8,7.24,7.6,4.2,9.3,7.4,6.3,6.96
+East Asia & Pacific,2009,Low,Cambodia,,,,,4.5,5.8,,,,3.9,4.2,,,,
+East Asia & Pacific,2008,Low,Cambodia,,,,,4.5,5.8,,,,5.8,4.2,,,,
+Sub-Saharan Africa,2018,Lower middle,Cameroon,5.46,2.8,7.5,2.5,7.3,4.9,6.6,3.8,5.07,7.3,3.1,7.3,5.1,6.5,5.85
+Sub-Saharan Africa,2017,Lower middle,Cameroon,5.59,3.0,8.1,2.5,7.5,4.7,7.2,3.8,5.35,7.3,3.1,7.2,5.1,6.5,5.83
+Sub-Saharan Africa,2016,Lower middle,Cameroon,5.63,3.0,7.5,5.0,7.4,4.7,7.6,3.8,5.48,7.2,3.1,7.2,5.0,6.4,5.78
+Sub-Saharan Africa,2015,Lower middle,Cameroon,5.42,3.1,6.2,3.3,7.9,5.3,7.6,3.8,5.12,7.2,3.1,7.1,4.9,6.2,5.71
+Sub-Saharan Africa,2014,Lower middle,Cameroon,5.73,3.7,7.5,3.3,8.3,5.3,7.5,3.8,5.62,7.2,3.5,7.2,5.2,6.3,5.84
+Sub-Saharan Africa,2013,Lower middle,Cameroon,5.9,3.4,8.3,3.3,8.3,6.3,8.5,3.8,5.94,7.0,3.4,7.0,5.6,6.3,5.86
+Sub-Saharan Africa,2012,Lower middle,Cameroon,5.99,3.4,8.3,3.3,8.6,6.5,8.5,3.8,5.99,7.0,3.7,7.0,5.6,6.6,5.98
+Sub-Saharan Africa,2011,Lower middle,Cameroon,5.99,3.4,8.3,3.3,8.6,6.7,8.5,3.8,6.0,7.2,3.6,6.8,5.7,6.7,5.98
+Sub-Saharan Africa,2010,Lower middle,Cameroon,5.88,3.4,7.8,1.7,8.4,6.7,8.6,3.8,5.72,7.5,3.7,6.7,5.8,6.5,6.03
+Sub-Saharan Africa,2009,Lower middle,Cameroon,5.77,3.4,7.6,1.7,8.5,6.7,8.8,3.8,5.71,6.6,3.6,6.6,5.8,6.5,5.83
+Sub-Saharan Africa,2008,Lower middle,Cameroon,5.68,3.4,7.9,1.7,8.5,6.7,8.8,3.8,5.78,6.3,3.2,6.7,5.6,6.1,5.58
+North America,2018,High,Canada,8.64,7.7,9.7,10.0,8.3,9.1,10.0,10.0,9.1,6.7,7.7,9.6,8.1,8.8,8.17
+North America,2017,High,Canada,8.69,7.7,9.7,10.0,8.4,9.1,10.0,10.0,9.12,6.8,7.9,9.6,8.2,8.8,8.26
+North America,2016,High,Canada,8.64,7.7,9.8,10.0,8.4,9.5,9.7,9.0,9.04,6.9,7.9,9.6,8.2,8.7,8.24
+North America,2015,High,Canada,8.61,7.7,9.8,10.0,8.5,9.4,9.7,9.0,9.03,6.7,7.9,9.6,8.1,8.7,8.19
+North America,2014,High,Canada,8.73,7.4,9.8,10.0,9.1,9.3,9.7,10.0,9.12,7.1,7.9,9.6,8.2,8.7,8.33
+North America,2013,High,Canada,8.68,7.4,9.8,10.0,9.2,9.3,9.7,10.0,9.13,7.0,7.9,9.5,7.9,8.9,8.23
+North America,2012,High,Canada,8.64,7.4,9.7,10.0,9.4,8.9,9.7,10.0,9.09,6.9,7.9,9.4,7.9,8.9,8.18
+North America,2011,High,Canada,8.6,7.7,9.7,10.0,9.1,8.9,9.7,10.0,9.12,6.7,7.9,9.1,7.9,8.8,8.08
+North America,2010,High,Canada,8.65,7.7,9.7,10.0,9.1,8.9,9.7,10.0,9.12,6.5,8.0,9.5,8.1,8.8,8.18
+North America,2009,High,Canada,8.65,7.7,9.7,10.0,9.2,8.9,9.7,10.0,9.12,6.5,8.0,9.6,8.1,8.7,8.18
+North America,2008,High,Canada,8.66,7.7,9.7,10.0,9.2,8.9,9.7,10.0,9.11,6.7,8.0,9.5,8.0,8.8,8.21
+Sub-Saharan Africa,2018,Low,Central African Republic,5.25,2.4,4.3,5.0,7.0,7.6,7.1,8.8,5.22,5.9,3.4,6.5,5.2,5.4,5.27
+Sub-Saharan Africa,2017,Low,Central African Republic,5.28,2.4,4.5,5.0,6.9,7.2,8.8,8.8,5.4,5.3,3.3,6.5,5.2,5.4,5.15
+Sub-Saharan Africa,2016,Low,Central African Republic,5.25,2.3,4.3,5.0,6.8,7.0,8.8,8.8,5.27,6.0,3.2,6.5,5.1,5.3,5.22
+Sub-Saharan Africa,2015,Low,Central African Republic,4.97,2.5,4.2,3.3,7.0,6.8,8.8,8.8,5.15,5.5,3.2,4.8,5.2,5.2,4.78
+Sub-Saharan Africa,2014,Low,Central African Republic,4.93,2.6,3.8,3.3,7.3,6.7,7.6,8.8,4.96,5.5,3.2,5.4,5.2,5.2,4.89
+Sub-Saharan Africa,2013,Low,Central African Republic,5.03,2.5,3.7,3.3,5.5,5.2,5.8,8.8,4.39,8.2,3.1,6.5,5.1,5.4,5.66
+Sub-Saharan Africa,2012,Low,Central African Republic,5.09,3.1,4.8,1.7,7.8,5.3,6.0,8.8,4.91,6.7,3.1,6.7,4.6,5.2,5.27
+Sub-Saharan Africa,2011,Low,Central African Republic,5.26,3.7,5.2,1.7,7.5,5.3,6.0,8.8,5.15,7.2,3.2,6.8,4.8,5.0,5.37
+Sub-Saharan Africa,2010,Low,Central African Republic,5.47,3.7,4.4,5.0,7.4,6.3,8.4,8.8,5.63,6.6,3.2,6.9,4.7,5.0,5.31
+Sub-Saharan Africa,2009,Low,Central African Republic,5.63,3.7,5.0,5.0,8.0,6.3,8.4,8.8,5.83,7.0,3.1,7.0,4.7,5.3,5.42
+Sub-Saharan Africa,2008,Low,Central African Republic,5.71,3.6,5.7,5.0,8.0,6.3,8.4,8.8,5.97,7.1,3.4,6.6,4.7,5.4,5.44
+Sub-Saharan Africa,2018,Low,Chad,5.59,3.0,6.1,6.7,7.0,4.9,8.3,5.0,5.47,8.9,3.2,6.4,5.1,4.9,5.71
+Sub-Saharan Africa,2017,Low,Chad,5.42,3.1,6.3,6.7,7.0,5.0,8.3,2.5,5.3,7.7,3.1,6.9,5.0,5.0,5.54
+Sub-Saharan Africa,2016,Low,Chad,5.07,3.0,5.1,5.0,7.0,5.0,8.3,1.3,4.69,7.6,2.9,6.7,5.0,5.0,5.44
+Sub-Saharan Africa,2015,Low,Chad,5.36,3.3,4.2,8.3,7.0,5.1,8.3,6.3,5.39,7.3,3.0,6.4,5.0,5.0,5.33
+Sub-Saharan Africa,2014,Low,Chad,5.54,3.4,5.9,8.3,7.1,5.0,8.3,6.3,5.82,6.6,3.7,6.4,5.1,4.4,5.25
+Sub-Saharan Africa,2013,Low,Chad,5.44,3.1,5.9,8.3,7.1,5.0,7.1,6.3,5.62,6.2,3.6,6.2,4.9,5.4,5.25
+Sub-Saharan Africa,2012,Low,Chad,5.33,3.0,5.8,8.3,7.2,5.2,7.0,6.3,5.61,6.1,3.6,5.6,4.8,5.1,5.04
+Sub-Saharan Africa,2011,Low,Chad,5.37,3.5,5.5,6.7,7.3,5.2,7.0,6.3,5.48,6.4,3.7,6.1,4.8,5.3,5.25
+Sub-Saharan Africa,2010,Low,Chad,5.55,3.5,5.9,5.0,7.3,5.2,7.6,6.3,5.47,8.3,3.7,6.3,4.9,5.0,5.63
+Sub-Saharan Africa,2009,Low,Chad,5.39,3.4,5.2,5.0,7.6,5.2,7.6,6.3,5.32,7.9,3.7,5.7,4.8,5.1,5.45
+Sub-Saharan Africa,2008,Low,Chad,5.42,3.3,4.7,6.7,7.5,5.2,7.6,6.3,5.33,8.1,3.5,5.9,4.7,5.3,5.5
+Latin America & Caribbean,2018,High,Chile,8.18,6.5,9.4,10.0,9.0,9.4,10.0,5.8,8.4,8.2,6.7,9.6,8.1,7.1,7.96
+Latin America & Caribbean,2017,High,Chile,8.18,6.5,9.4,10.0,9.0,9.7,10.0,5.8,8.44,8.2,6.7,9.5,8.2,7.0,7.92
+Latin America & Caribbean,2016,High,Chile,8.03,6.5,8.7,10.0,9.0,9.7,9.5,5.0,8.13,8.1,6.8,9.3,8.2,7.2,7.92
+Latin America & Caribbean,2015,High,Chile,8.05,6.7,8.7,10.0,9.0,9.7,9.5,5.0,8.17,8.1,6.8,9.3,8.2,7.2,7.92
+Latin America & Caribbean,2014,High,Chile,8.08,6.5,8.7,10.0,7.7,9.5,9.5,7.5,8.22,8.2,6.9,8.9,8.4,7.3,7.94
+Latin America & Caribbean,2013,High,Chile,8.07,6.5,8.7,10.0,7.6,9.0,9.5,7.5,8.17,8.2,6.9,9.0,8.3,7.4,7.96
+Latin America & Caribbean,2012,High,Chile,8.16,6.5,9.7,10.0,8.0,9.2,9.5,7.5,8.45,8.1,6.9,8.9,8.0,7.5,7.86
+Latin America & Caribbean,2011,Upper middle,Chile,8.22,6.7,9.5,10.0,8.2,9.2,9.5,7.5,8.49,8.1,6.8,8.9,8.2,7.8,7.95
+Latin America & Caribbean,2010,Upper middle,Chile,8.23,6.7,9.6,10.0,8.2,9.2,9.5,7.5,8.51,8.0,6.9,8.9,8.3,7.6,7.94
+Latin America & Caribbean,2009,Upper middle,Chile,8.19,6.7,9.5,10.0,8.2,9.1,9.5,7.5,8.48,7.9,7.0,9.1,8.4,7.1,7.9
+Latin America & Caribbean,2008,Upper middle,Chile,8.2,6.7,9.5,10.0,8.3,9.2,9.5,7.5,8.51,8.0,6.5,8.8,8.8,7.3,7.89
+East Asia & Pacific,2018,Upper middle,China,6.07,4.4,9.3,5.0,3.3,1.7,5.8,9.0,5.92,4.8,4.9,8.3,6.5,6.4,6.21
+East Asia & Pacific,2017,Upper middle,China,6.14,4.7,9.3,5.0,3.3,1.8,6.2,9.0,6.02,4.9,4.9,8.5,6.5,6.4,6.26
+East Asia & Pacific,2016,Upper middle,China,5.98,4.7,8.1,5.0,3.5,1.7,5.9,9.0,5.71,5.1,5.0,8.5,6.4,6.3,6.25
+East Asia & Pacific,2015,Upper middle,China,5.9,4.7,8.1,3.3,4.0,1.7,5.9,9.0,5.57,5.2,5.1,8.3,6.3,6.3,6.22
+East Asia & Pacific,2014,Upper middle,China,6.0,4.4,8.2,3.3,5.3,1.8,5.9,10.0,5.8,5.1,5.0,8.2,6.4,6.3,6.2
+East Asia & Pacific,2013,Upper middle,China,6.01,4.2,8.4,3.3,5.5,1.8,6.4,10.0,5.83,5.0,5.0,8.3,6.4,6.3,6.19
+East Asia & Pacific,2012,Upper middle,China,6.0,4.2,8.4,3.3,5.4,2.0,6.4,10.0,5.85,5.0,5.3,8.0,6.3,6.2,6.15
+East Asia & Pacific,2011,Upper middle,China,5.98,4.7,8.0,3.3,5.3,2.0,6.4,10.0,5.88,4.9,5.3,7.9,6.2,6.1,6.07
+East Asia & Pacific,2010,Upper middle,China,5.97,4.7,8.9,3.3,5.0,1.5,5.1,10.0,5.89,4.6,5.4,7.9,6.3,6.0,6.04
+East Asia & Pacific,2009,Lower middle,China,5.98,4.7,8.9,3.3,5.0,1.5,5.2,10.0,5.89,4.5,5.5,8.0,6.3,6.0,6.07
+East Asia & Pacific,2008,Lower middle,China,6.04,4.7,9.5,3.3,4.9,1.5,5.1,10.0,6.04,4.6,5.6,8.1,6.3,5.6,6.04
+Latin America & Caribbean,2018,Upper middle,Colombia,6.85,4.3,5.3,10.0,7.7,8.9,8.9,10.0,6.98,6.6,4.6,8.3,6.6,7.4,6.71
+Latin America & Caribbean,2017,Upper middle,Colombia,6.94,4.4,5.4,10.0,8.7,9.4,9.1,10.0,7.19,6.6,4.6,8.2,6.6,7.5,6.68
+Latin America & Caribbean,2016,Upper middle,Colombia,6.84,4.4,5.5,8.3,8.1,9.7,9.1,10.0,6.99,6.8,4.5,8.0,6.7,7.4,6.68
+Latin America & Caribbean,2015,Upper middle,Colombia,6.78,4.5,5.2,8.3,8.4,9.6,8.8,10.0,6.93,6.3,4.5,8.0,6.8,7.5,6.62
+Latin America & Caribbean,2014,Upper middle,Colombia,6.79,4.5,5.3,8.3,7.9,9.6,9.0,10.0,6.95,6.1,4.5,8.1,6.8,7.7,6.63
+Latin America & Caribbean,2013,Upper middle,Colombia,6.83,4.5,5.3,8.3,8.3,9.1,8.5,10.0,6.87,6.1,4.5,8.1,7.4,7.7,6.78
+Latin America & Caribbean,2012,Upper middle,Colombia,6.85,4.5,5.2,8.3,8.8,8.5,8.5,10.0,6.84,6.5,4.8,8.1,7.2,7.6,6.85
+Latin America & Caribbean,2011,Upper middle,Colombia,6.78,4.8,5.4,6.7,8.8,8.5,8.6,10.0,6.78,6.3,4.8,8.2,7.1,7.4,6.77
+Latin America & Caribbean,2010,Upper middle,Colombia,6.89,4.8,5.2,10.0,8.7,8.0,8.8,10.0,7.06,6.6,4.8,8.2,6.8,7.2,6.72
+Latin America & Caribbean,2009,Upper middle,Colombia,6.83,4.8,5.2,10.0,8.3,7.9,8.6,10.0,6.98,6.9,4.8,8.1,6.8,6.8,6.68
+Latin America & Caribbean,2008,Upper middle,Colombia,6.86,4.8,5.3,10.0,8.4,7.9,9.0,10.0,7.04,7.1,4.8,7.9,6.8,6.7,6.67
+Sub-Saharan Africa,2018,Low,"Congo, Dem. Rep.",5.29,2.7,6.4,6.7,6.5,4.6,7.4,6.3,5.42,7.6,2.9,4.8,5.2,5.3,5.15
+Sub-Saharan Africa,2017,Low,"Congo, Dem. Rep.",5.15,2.5,6.3,6.7,6.4,4.6,7.3,6.3,5.31,7.5,3.0,4.5,5.1,4.9,4.99
+Sub-Saharan Africa,2016,Low,"Congo, Dem. Rep.",5.42,2.6,6.3,3.3,6.6,4.5,7.9,6.3,5.08,7.5,2.5,8.1,5.1,5.6,5.76
+Sub-Saharan Africa,2015,Low,"Congo, Dem. Rep.",5.24,2.7,6.0,1.7,6.8,5.0,7.2,6.3,4.87,6.9,2.5,8.0,5.0,5.7,5.6
+Sub-Saharan Africa,2014,Low,"Congo, Dem. Rep.",5.11,2.9,6.0,0.0,6.3,5.2,7.7,6.3,4.78,6.9,2.6,7.6,4.6,5.6,5.43
+Sub-Saharan Africa,2013,Low,"Congo, Dem. Rep.",5.08,2.8,5.5,0.0,6.4,5.0,7.3,6.3,4.58,7.4,2.7,6.8,5.5,5.5,5.58
+Sub-Saharan Africa,2012,Low,"Congo, Dem. Rep.",5.1,2.7,5.6,0.0,6.4,4.9,7.0,6.3,4.54,7.2,2.9,7.8,5.3,5.1,5.65
+Sub-Saharan Africa,2011,Low,"Congo, Dem. Rep.",5.25,3.3,6.1,0.0,6.2,5.1,8.0,6.3,4.89,6.9,2.9,7.8,5.3,5.1,5.6
+Sub-Saharan Africa,2010,Low,"Congo, Dem. Rep.",5.47,3.3,7.0,3.3,6.3,5.3,7.1,6.3,5.38,6.4,2.9,7.9,5.3,5.3,5.55
+Sub-Saharan Africa,2009,Low,"Congo, Dem. Rep.",5.47,3.3,6.9,3.3,6.9,5.3,7.1,6.3,5.42,6.3,2.9,8.3,5.2,4.8,5.51
+Sub-Saharan Africa,2008,Low,"Congo, Dem. Rep.",5.33,3.4,6.9,3.3,6.7,5.2,7.0,6.3,5.42,6.7,2.2,7.6,5.2,4.5,5.23
+Sub-Saharan Africa,2018,Lower middle,"Congo, Rep.",5.51,3.4,7.7,4.2,7.4,4.1,7.9,8.8,5.99,6.7,3.3,4.9,5.4,4.9,5.03
+Sub-Saharan Africa,2017,Lower middle,"Congo, Rep.",5.52,3.4,7.7,4.2,7.7,3.9,7.6,8.8,5.97,5.6,3.2,5.7,5.4,5.4,5.07
+Sub-Saharan Africa,2016,Lower middle,"Congo, Rep.",5.34,3.4,7.2,3.3,7.6,3.9,7.8,8.8,5.8,5.2,3.2,5.6,4.9,5.4,4.87
+Sub-Saharan Africa,2015,Lower middle,"Congo, Rep.",5.52,3.5,7.3,6.7,7.6,3.9,8.2,8.8,6.21,4.9,3.2,5.8,4.8,5.4,4.83
+Sub-Saharan Africa,2014,Lower middle,"Congo, Rep.",5.56,3.4,7.7,6.7,7.4,3.9,7.9,8.8,6.24,4.7,3.6,5.9,4.7,5.4,4.87
+Sub-Saharan Africa,2013,Lower middle,"Congo, Rep.",5.6,3.5,7.7,8.3,7.2,4.4,7.0,8.8,6.36,4.8,3.5,5.0,5.4,5.6,4.84
+Sub-Saharan Africa,2012,Lower middle,"Congo, Rep.",5.44,3.5,6.9,8.3,7.4,4.7,7.4,8.8,6.26,4.0,3.6,4.7,5.3,5.5,4.62
+Sub-Saharan Africa,2011,Lower middle,"Congo, Rep.",5.49,3.8,6.9,8.3,7.4,4.7,6.9,8.8,6.3,4.5,3.6,4.6,5.1,5.5,4.67
+Sub-Saharan Africa,2010,Lower middle,"Congo, Rep.",5.65,3.8,7.4,8.3,7.5,4.7,8.6,8.8,6.58,4.5,3.6,4.7,5.1,5.6,4.72
+Sub-Saharan Africa,2009,Lower middle,"Congo, Rep.",5.56,3.8,7.4,6.7,7.8,4.8,7.3,8.8,6.32,4.5,3.8,4.7,5.1,5.8,4.8
+Sub-Saharan Africa,2008,Lower middle,"Congo, Rep.",5.56,3.9,6.6,6.7,8.0,4.8,8.6,8.8,6.29,4.4,3.7,4.9,5.0,6.0,4.82
+Latin America & Caribbean,2018,Upper middle,Costa Rica,7.84,6.7,7.7,10.0,7.5,9.7,10.0,7.3,8.05,7.4,6.2,9.7,8.0,6.8,7.62
+Latin America & Caribbean,2017,Upper middle,Costa Rica,7.84,6.6,7.5,10.0,7.9,9.7,10.0,7.3,8.03,7.3,6.2,9.8,8.2,6.8,7.65
+Latin America & Caribbean,2016,Upper middle,Costa Rica,7.92,6.6,8.4,10.0,7.9,9.5,9.8,6.7,8.14,7.5,6.2,9.8,8.3,6.7,7.69
+Latin America & Caribbean,2015,Upper middle,Costa Rica,7.97,6.7,8.5,10.0,8.3,9.8,9.7,6.7,8.23,7.6,6.1,9.8,8.2,6.7,7.7
+Latin America & Caribbean,2014,Upper middle,Costa Rica,8.14,6.7,8.7,10.0,8.8,9.8,9.7,10.0,8.69,7.5,6.2,9.4,8.1,6.8,7.59
+Latin America & Caribbean,2013,Upper middle,Costa Rica,8.09,6.0,8.8,10.0,9.0,9.7,9.7,10.0,8.55,7.5,6.2,9.3,8.4,6.8,7.63
+Latin America & Caribbean,2012,Upper middle,Costa Rica,8.13,6.0,8.8,10.0,9.0,9.9,9.7,10.0,8.56,7.6,6.3,9.3,8.4,6.9,7.7
+Latin America & Caribbean,2011,Upper middle,Costa Rica,8.06,6.1,8.6,8.3,9.1,9.9,9.7,10.0,8.38,7.7,6.3,9.4,8.4,6.9,7.74
+Latin America & Caribbean,2010,Upper middle,Costa Rica,7.87,6.2,8.5,8.3,9.1,9.8,9.4,10.0,8.34,7.8,6.3,8.0,8.2,6.8,7.4
+Latin America & Caribbean,2009,Upper middle,Costa Rica,7.89,6.3,8.4,8.3,9.1,9.8,9.4,10.0,8.34,7.8,6.4,7.9,8.2,6.9,7.44
+Latin America & Caribbean,2008,Upper middle,Costa Rica,7.88,6.1,8.5,8.3,9.2,9.8,9.4,10.0,8.31,8.0,6.5,7.4,8.3,7.0,7.44
+Sub-Saharan Africa,2018,Lower middle,Cote d'Ivoire,6.51,3.9,7.1,6.7,8.4,7.6,9.2,10.0,6.93,6.2,4.6,7.3,5.4,6.9,6.09
+Sub-Saharan Africa,2017,Lower middle,Cote d'Ivoire,6.47,4.0,7.1,6.7,8.4,7.7,9.2,10.0,6.97,5.8,4.3,7.2,5.5,6.9,5.96
+Sub-Saharan Africa,2016,Lower middle,Cote d'Ivoire,6.39,4.0,6.6,6.7,8.2,7.4,9.2,10.0,6.82,5.9,4.6,7.1,5.3,6.9,5.95
+Sub-Saharan Africa,2015,Lower middle,Cote d'Ivoire,6.28,3.6,6.3,6.7,8.7,7.3,9.2,10.0,6.67,6.2,4.6,7.0,5.3,6.4,5.89
+Sub-Saharan Africa,2014,Lower middle,Cote d'Ivoire,6.29,4.0,6.3,6.7,8.1,7.2,9.2,10.0,6.7,6.2,4.6,7.0,5.3,6.3,5.88
+Sub-Saharan Africa,2013,Lower middle,Cote d'Ivoire,6.28,4.0,6.5,6.7,8.1,7.0,8.7,10.0,6.67,6.1,4.3,6.9,6.0,6.1,5.88
+Sub-Saharan Africa,2012,Lower middle,Cote d'Ivoire,5.94,4.0,6.3,3.3,7.6,7.3,8.6,10.0,6.26,5.6,3.7,6.7,5.9,6.1,5.61
+Sub-Saharan Africa,2011,Lower middle,Cote d'Ivoire,5.82,3.8,6.0,3.3,7.6,7.1,7.5,10.0,6.01,6.7,3.1,6.5,5.9,5.9,5.63
+Sub-Saharan Africa,2010,Lower middle,Cote d'Ivoire,6.08,3.8,5.9,6.7,7.9,7.2,8.8,10.0,6.48,6.8,3.0,6.6,5.9,6.1,5.67
+Sub-Saharan Africa,2009,Lower middle,Cote d'Ivoire,6.22,3.8,6.1,6.7,8.3,7.3,8.9,10.0,6.59,6.8,3.0,6.6,6.0,6.7,5.85
+Sub-Saharan Africa,2008,Lower middle,Cote d'Ivoire,6.13,3.8,6.1,6.7,8.3,7.4,8.8,10.0,6.58,6.8,2.8,6.4,5.9,6.4,5.68
+Europe & Central Asia,2018,High,Croatia,7.92,5.8,9.9,10.0,8.2,8.1,9.2,10.0,8.47,5.8,6.0,9.4,8.2,7.5,7.36
+Europe & Central Asia,2017,High,Croatia,7.93,5.7,9.9,10.0,8.3,8.2,9.2,10.0,8.45,6.0,6.0,9.4,8.2,7.5,7.41
+Europe & Central Asia,2016,Upper middle,Croatia,7.82,5.7,9.9,10.0,8.3,8.2,9.0,10.0,8.44,5.6,5.8,9.1,8.2,7.3,7.2
+Europe & Central Asia,2015,High,Croatia,7.92,5.8,9.9,10.0,8.7,8.9,9.0,10.0,8.59,5.5,5.9,9.3,8.3,7.3,7.25
+Europe & Central Asia,2014,High,Croatia,7.88,5.8,9.9,10.0,8.4,9.1,9.0,10.0,8.58,5.1,5.8,9.3,8.2,7.3,7.17
+Europe & Central Asia,2013,High,Croatia,7.79,5.4,9.8,10.0,8.3,9.1,9.4,10.0,8.49,5.2,5.8,9.3,7.9,7.2,7.09
+Europe & Central Asia,2012,High,Croatia,7.86,5.4,9.8,10.0,8.4,9.4,9.4,10.0,8.52,5.5,5.9,9.6,7.9,7.2,7.2
+Europe & Central Asia,2011,High,Croatia,7.89,5.6,9.8,10.0,8.4,9.4,9.4,10.0,8.58,5.5,5.9,9.5,7.8,7.3,7.2
+Europe & Central Asia,2010,High,Croatia,7.65,5.6,9.8,8.3,8.4,9.2,8.8,10.0,8.33,5.4,5.9,8.4,7.8,7.2,6.96
+Europe & Central Asia,2009,High,Croatia,7.7,5.6,9.8,10.0,8.5,9.1,8.8,10.0,8.51,5.1,5.9,8.5,7.8,7.2,6.88
+Europe & Central Asia,2008,High,Croatia,7.49,5.6,9.8,10.0,8.5,8.9,5.5,10.0,8.14,5.2,5.9,8.1,7.7,7.3,6.84
+Europe & Central Asia,2018,High,Cyprus,8.05,6.4,9.7,7.5,7.3,9.3,10.0,8.3,8.25,7.4,6.2,9.2,8.5,7.9,7.84
+Europe & Central Asia,2017,High,Cyprus,8.09,6.6,9.8,7.5,7.5,9.4,10.0,8.3,8.36,7.4,6.1,9.2,8.5,7.9,7.82
+Europe & Central Asia,2016,High,Cyprus,8.24,6.3,9.7,10.0,7.3,9.5,9.7,10.0,8.65,7.5,5.9,9.5,8.5,7.7,7.83
+Europe & Central Asia,2015,High,Cyprus,8.32,6.9,9.7,10.0,7.6,9.5,9.7,10.0,8.81,7.4,5.9,9.7,8.5,7.6,7.82
+Europe & Central Asia,2014,High,Cyprus,8.12,6.8,9.7,10.0,8.0,9.4,9.6,10.0,8.82,7.3,6.1,7.2,8.6,7.8,7.41
+Europe & Central Asia,2013,High,Cyprus,7.84,6.7,9.7,10.0,7.8,9.4,9.6,7.5,8.54,7.3,6.0,7.3,7.7,7.3,7.14
+Europe & Central Asia,2012,High,Cyprus,8.06,6.8,9.6,10.0,8.1,9.5,9.6,7.5,8.58,7.1,6.1,9.5,7.7,7.3,7.54
+Europe & Central Asia,2011,High,Cyprus,8.21,7.0,9.7,10.0,8.3,9.5,9.7,7.5,8.68,7.1,6.3,9.5,8.4,7.4,7.74
+Europe & Central Asia,2010,High,Cyprus,8.39,7.2,9.7,10.0,8.3,9.5,9.7,10.0,8.97,7.4,6.3,9.4,8.5,7.4,7.81
+Europe & Central Asia,2009,High,Cyprus,8.35,7.2,9.6,10.0,8.3,9.5,9.7,10.0,8.94,7.5,6.3,9.4,8.5,7.1,7.76
+Europe & Central Asia,2008,High,Cyprus,8.39,7.2,9.7,10.0,8.3,9.5,9.7,10.0,8.96,7.7,6.4,9.3,8.5,7.3,7.82
+Europe & Central Asia,2018,High,Czech Republic,8.29,7.5,9.9,10.0,7.8,8.5,9.6,8.2,8.76,6.6,6.6,9.0,8.3,8.4,7.81
+Europe & Central Asia,2017,High,Czech Republic,8.32,7.8,9.9,10.0,7.7,8.6,10.0,8.2,8.87,6.7,6.5,8.9,8.4,8.4,7.77
+Europe & Central Asia,2016,High,Czech Republic,8.42,7.8,9.9,10.0,7.9,8.8,9.7,9.0,8.97,6.7,6.5,9.4,8.4,8.3,7.87
+Europe & Central Asia,2015,High,Czech Republic,8.42,7.7,9.9,10.0,8.4,8.8,9.7,9.0,8.98,6.5,6.5,9.6,8.4,8.4,7.86
+Europe & Central Asia,2014,High,Czech Republic,8.43,7.4,9.7,10.0,8.8,8.8,9.7,10.0,9.02,6.5,6.3,9.6,8.6,8.2,7.84
+Europe & Central Asia,2013,High,Czech Republic,8.39,7.3,9.7,10.0,9.1,9.3,9.7,10.0,9.06,6.7,6.2,9.5,8.0,8.2,7.71
+Europe & Central Asia,2012,High,Czech Republic,8.43,7.3,9.7,10.0,9.3,9.4,9.7,10.0,9.08,6.7,6.3,9.4,8.2,8.2,7.78
+Europe & Central Asia,2011,High,Czech Republic,8.38,7.3,9.7,10.0,9.1,9.4,9.7,10.0,9.07,6.7,6.4,9.5,8.0,8.0,7.69
+Europe & Central Asia,2010,High,Czech Republic,8.35,7.3,9.7,10.0,9.1,9.3,9.7,10.0,9.05,6.5,6.4,9.4,8.1,7.8,7.64
+Europe & Central Asia,2009,High,Czech Republic,8.35,7.3,9.9,10.0,9.2,9.3,9.7,10.0,9.12,6.3,6.4,9.5,8.1,7.6,7.58
+Europe & Central Asia,2008,High,Czech Republic,8.37,7.3,9.8,10.0,9.1,9.5,9.7,10.0,9.11,6.6,6.4,9.1,8.1,7.8,7.62
+Europe & Central Asia,2018,High,Denmark,8.73,8.8,9.9,10.0,7.0,9.8,10.0,10.0,9.35,5.5,8.2,9.7,8.7,8.5,8.1
+Europe & Central Asia,2017,High,Denmark,8.68,8.7,9.8,10.0,7.8,9.8,9.0,10.0,9.3,5.1,8.1,9.9,8.7,8.5,8.05
+Europe & Central Asia,2016,High,Denmark,8.62,8.7,9.9,8.3,7.8,9.8,9.8,10.0,9.22,5.0,8.1,9.9,8.7,8.4,8.01
+Europe & Central Asia,2015,High,Denmark,8.68,8.7,9.8,10.0,7.9,9.8,9.8,10.0,9.39,4.9,8.2,9.6,8.6,8.5,7.96
+Europe & Central Asia,2014,High,Denmark,8.73,8.6,9.8,10.0,8.8,9.8,9.8,10.0,9.44,4.8,8.2,9.7,8.8,8.6,8.02
+Europe & Central Asia,2013,High,Denmark,8.74,8.6,9.9,10.0,9.1,9.8,9.8,10.0,9.5,4.8,8.2,9.8,8.6,8.5,7.98
+Europe & Central Asia,2012,High,Denmark,8.69,8.6,9.8,10.0,9.1,9.8,9.8,10.0,9.49,4.9,8.1,9.6,8.5,8.3,7.89
+Europe & Central Asia,2011,High,Denmark,8.71,8.6,9.8,10.0,9.1,9.8,9.8,10.0,9.48,4.8,8.2,9.7,8.6,8.5,7.93
+Europe & Central Asia,2010,High,Denmark,8.71,8.6,9.8,10.0,9.2,9.8,9.8,10.0,9.49,4.6,8.3,9.6,8.6,8.5,7.93
+Europe & Central Asia,2009,High,Denmark,8.67,8.6,9.8,10.0,9.1,9.8,9.9,10.0,9.48,4.4,8.2,9.5,8.6,8.5,7.85
+Europe & Central Asia,2008,High,Denmark,8.72,8.6,9.8,10.0,9.2,9.8,9.9,10.0,9.48,4.8,8.4,9.4,8.6,8.6,7.95
+Latin America & Caribbean,2018,Upper middle,Dominican Republic,7.37,4.4,8.5,8.3,8.1,7.9,9.2,5.8,7.16,8.8,4.8,9.6,8.1,6.6,7.58
+Latin America & Caribbean,2017,Upper middle,Dominican Republic,7.22,4.4,8.3,8.3,8.1,7.7,8.1,5.8,6.98,8.5,4.6,9.5,8.0,6.7,7.46
+Latin America & Caribbean,2016,Upper middle,Dominican Republic,7.36,4.4,7.8,10.0,8.2,7.9,9.3,6.7,7.24,8.7,4.5,9.5,8.0,6.7,7.48
+Latin America & Caribbean,2015,Upper middle,Dominican Republic,7.25,4.5,7.8,6.7,8.5,7.9,9.3,6.7,6.98,8.7,4.6,9.5,8.1,6.7,7.51
+Latin America & Caribbean,2014,Upper middle,Dominican Republic,7.44,4.6,7.5,6.7,9.1,8.1,9.3,10.0,7.36,8.6,4.7,9.5,8.0,6.7,7.52
+Latin America & Caribbean,2013,Upper middle,Dominican Republic,7.3,4.5,6.9,6.7,9.1,7.6,9.4,10.0,7.12,8.6,4.7,9.5,8.1,6.5,7.48
+Latin America & Caribbean,2012,Upper middle,Dominican Republic,7.18,4.5,6.9,6.7,9.1,7.8,9.4,10.0,7.13,8.2,4.6,9.4,7.8,6.1,7.23
+Latin America & Caribbean,2011,Upper middle,Dominican Republic,7.31,5.1,6.5,6.7,9.2,7.8,8.8,10.0,7.15,8.8,4.5,9.3,7.9,6.8,7.46
+Latin America & Caribbean,2010,Upper middle,Dominican Republic,7.34,5.1,6.5,6.7,9.1,8.4,9.4,10.0,7.25,8.7,4.5,9.2,7.9,6.7,7.42
+Latin America & Caribbean,2009,Upper middle,Dominican Republic,7.21,5.1,6.4,6.7,9.1,8.2,9.4,10.0,7.22,8.9,4.6,8.1,7.7,6.6,7.19
+Latin America & Caribbean,2008,Upper middle,Dominican Republic,6.96,5.1,6.7,6.7,9.1,8.2,8.8,10.0,7.23,8.4,4.6,5.9,7.8,6.7,6.68
+Latin America & Caribbean,2018,Upper middle,Ecuador,7.14,4.4,8.6,10.0,9.0,8.5,9.2,9.2,7.82,6.6,4.5,8.1,6.9,6.2,6.46
+Latin America & Caribbean,2017,Upper middle,Ecuador,7.02,4.3,8.6,10.0,9.0,7.2,9.1,9.2,7.67,6.6,4.4,7.9,6.8,6.2,6.37
+Latin America & Caribbean,2016,Upper middle,Ecuador,7.01,4.3,9.0,10.0,8.6,6.6,8.8,10.0,7.73,6.7,4.1,7.7,6.8,6.2,6.29
+Latin America & Caribbean,2015,Upper middle,Ecuador,7.03,4.2,8.8,10.0,8.4,6.6,8.8,10.0,7.63,6.8,4.2,8.1,6.8,6.2,6.42
+Latin America & Caribbean,2014,Upper middle,Ecuador,6.78,4.2,8.6,10.0,8.4,6.6,8.8,10.0,7.57,6.6,4.1,6.9,6.3,6.0,5.98
+Latin America & Caribbean,2013,Upper middle,Ecuador,6.78,4.0,8.2,10.0,8.1,6.8,8.9,10.0,7.43,6.4,4.0,6.8,7.1,6.4,6.13
+Latin America & Caribbean,2012,Upper middle,Ecuador,6.81,4.0,8.0,10.0,8.3,7.1,8.5,10.0,7.39,6.7,4.3,6.6,7.2,6.4,6.22
+Latin America & Caribbean,2011,Upper middle,Ecuador,6.8,4.6,7.6,10.0,8.2,7.1,8.9,10.0,7.48,6.6,4.0,6.5,7.1,6.3,6.11
+Latin America & Caribbean,2010,Upper middle,Ecuador,6.83,4.6,7.3,10.0,8.6,7.1,9.0,10.0,7.45,7.0,4.1,6.4,7.3,6.3,6.2
+Latin America & Caribbean,2009,Lower middle,Ecuador,6.82,4.6,7.3,10.0,8.5,7.4,9.1,10.0,7.47,7.1,4.0,6.4,7.2,6.2,6.16
+Latin America & Caribbean,2008,Lower middle,Ecuador,6.92,4.6,7.3,10.0,8.8,7.9,9.1,10.0,7.55,7.6,4.0,6.1,7.6,6.1,6.29
+Middle East & North Africa,2018,Lower middle,"Egypt, Arab Rep.",4.67,3.4,5.3,4.2,3.2,2.8,7.5,0.0,3.95,4.9,3.8,7.6,5.8,4.8,5.38
+Middle East & North Africa,2017,Lower middle,"Egypt, Arab Rep.",4.43,3.6,5.0,4.2,3.5,2.8,7.6,0.0,3.95,4.9,3.7,5.6,5.8,4.6,4.91
+Middle East & North Africa,2016,Lower middle,"Egypt, Arab Rep.",4.39,3.6,5.0,1.7,3.1,2.9,7.3,0.0,3.65,4.9,3.6,6.9,5.4,4.7,5.12
+Middle East & North Africa,2015,Lower middle,"Egypt, Arab Rep.",4.42,3.5,4.8,1.7,3.4,2.9,7.3,0.0,3.6,5.0,3.4,7.5,5.4,4.9,5.24
+Middle East & North Africa,2014,Lower middle,"Egypt, Arab Rep.",4.76,3.5,5.4,1.7,5.6,3.0,7.5,0.0,4.01,5.0,3.4,8.8,5.5,4.7,5.5
+Middle East & North Africa,2013,Lower middle,"Egypt, Arab Rep.",5.09,3.7,5.5,3.3,5.8,4.8,7.4,0.0,4.43,5.4,3.4,8.9,6.4,4.7,5.74
+Middle East & North Africa,2012,Lower middle,"Egypt, Arab Rep.",5.43,3.7,6.1,3.3,6.5,5.5,8.0,0.0,4.79,6.3,3.8,9.2,6.2,4.8,6.07
+Middle East & North Africa,2011,Lower middle,"Egypt, Arab Rep.",5.4,4.2,5.4,3.3,6.3,5.2,8.0,0.0,4.67,6.0,4.1,9.1,6.5,5.0,6.12
+Middle East & North Africa,2010,Lower middle,"Egypt, Arab Rep.",5.65,4.2,7.0,6.7,6.5,3.3,6.6,0.0,5.12,5.6,4.6,8.8,6.6,5.3,6.18
+Middle East & North Africa,2009,Lower middle,"Egypt, Arab Rep.",5.62,4.2,7.0,6.7,6.7,3.3,6.7,0.0,5.14,5.2,4.6,8.7,6.6,5.3,6.09
+Middle East & North Africa,2008,Lower middle,"Egypt, Arab Rep.",5.76,4.2,7.2,6.7,6.5,3.4,6.7,0.0,5.18,6.5,4.8,8.3,6.8,5.4,6.34
+Latin America & Caribbean,2018,Lower middle,El Salvador,7.03,4.5,5.8,8.3,8.4,8.3,9.2,6.7,6.64,8.8,4.3,9.9,7.6,6.5,7.41
+Latin America & Caribbean,2017,Lower middle,El Salvador,7.04,4.4,5.8,8.3,8.5,8.4,9.2,6.7,6.64,8.8,4.4,9.9,7.8,6.4,7.44
+Latin America & Caribbean,2016,Lower middle,El Salvador,7.15,4.4,6.5,10.0,8.5,8.5,8.5,6.7,6.92,8.5,4.4,9.8,7.8,6.3,7.38
+Latin America & Caribbean,2015,Lower middle,El Salvador,7.2,4.5,6.5,10.0,8.6,8.4,9.4,6.7,7.05,8.5,4.4,9.6,7.8,6.4,7.35
+Latin America & Caribbean,2014,Lower middle,El Salvador,7.51,4.8,6.5,10.0,8.8,8.4,9.4,10.0,7.5,8.6,4.8,9.7,8.0,6.5,7.51
+Latin America & Caribbean,2013,Lower middle,El Salvador,7.34,4.6,6.5,10.0,8.9,8.4,8.2,10.0,7.33,8.6,4.8,9.5,7.8,6.1,7.35
+Latin America & Caribbean,2012,Lower middle,El Salvador,7.35,4.6,6.5,10.0,9.1,8.6,8.1,10.0,7.36,8.8,4.6,9.3,7.4,6.6,7.34
+Latin America & Caribbean,2011,Lower middle,El Salvador,7.23,3.9,6.3,10.0,9.1,8.5,7.2,10.0,7.05,8.8,4.6,9.1,7.5,7.0,7.41
+Latin America & Caribbean,2010,Lower middle,El Salvador,7.34,3.9,6.5,10.0,8.6,8.8,8.7,10.0,7.2,8.8,4.5,9.3,7.7,7.0,7.47
+Latin America & Caribbean,2009,Lower middle,El Salvador,7.26,3.9,6.5,10.0,8.5,8.5,6.8,10.0,6.98,8.7,4.7,9.3,7.8,7.1,7.53
+Latin America & Caribbean,2008,Lower middle,El Salvador,7.46,3.9,6.5,10.0,8.6,8.3,8.7,10.0,7.16,8.9,4.9,9.3,8.1,7.6,7.76
+Europe & Central Asia,2018,High,Estonia,8.54,8.0,9.7,10.0,8.8,9.1,10.0,9.0,9.12,6.4,7.4,9.3,8.6,8.2,7.96
+Europe & Central Asia,2017,High,Estonia,8.5,7.8,9.7,10.0,8.8,9.1,10.0,9.0,9.07,6.3,7.4,9.1,8.6,8.3,7.93
+Europe & Central Asia,2016,High,Estonia,8.54,7.8,9.7,10.0,8.9,9.1,9.8,9.0,9.05,6.4,7.4,9.3,8.6,8.4,8.03
+Europe & Central Asia,2015,High,Estonia,8.53,7.6,9.5,10.0,8.9,9.1,9.8,9.0,8.96,6.4,7.5,9.5,8.7,8.4,8.09
+Europe & Central Asia,2014,High,Estonia,8.51,7.6,9.6,10.0,8.5,9.1,9.8,10.0,9.04,6.5,7.2,9.1,8.8,8.3,7.97
+Europe & Central Asia,2013,High,Estonia,8.45,7.6,9.5,10.0,8.8,9.0,9.8,10.0,9.02,6.6,7.2,8.8,8.5,8.4,7.87
+Europe & Central Asia,2012,High,Estonia,8.45,7.6,9.4,10.0,9.1,9.0,9.8,10.0,9.02,6.7,7.2,8.8,8.4,8.3,7.88
+Europe & Central Asia,2011,High,Estonia,8.48,7.5,9.3,10.0,9.2,9.0,9.7,10.0,9.01,6.8,7.2,8.9,8.5,8.2,7.95
+Europe & Central Asia,2010,High,Estonia,8.53,7.5,9.3,10.0,9.1,9.5,9.7,10.0,9.04,6.6,7.2,9.4,8.7,8.1,8.02
+Europe & Central Asia,2009,High,Estonia,8.44,7.5,9.1,10.0,9.4,9.5,9.8,10.0,9.02,6.1,7.1,9.5,8.6,7.9,7.86
+Europe & Central Asia,2008,High,Estonia,8.46,7.5,9.1,10.0,9.2,9.5,9.8,10.0,9.01,6.8,7.2,9.1,8.6,7.8,7.9
+Sub-Saharan Africa,2018,Lower middle,Eswatini,6.02,4.7,7.0,7.5,6.4,2.0,7.5,4.8,5.76,5.6,4.6,7.6,6.0,7.6,6.27
+Sub-Saharan Africa,2017,Lower middle,Eswatini,6.06,4.7,7.3,7.5,6.3,1.8,7.5,4.8,5.81,5.0,4.4,7.8,6.7,7.6,6.31
+Sub-Saharan Africa,2016,Lower middle,Eswatini,5.96,4.6,7.4,6.7,6.3,1.8,7.3,4.8,5.7,4.8,3.97,7.7,6.9,7.6,6.21
+Sub-Saharan Africa,2015,Lower middle,Eswatini,5.98,4.7,7.5,6.7,6.5,1.8,7.4,4.8,5.76,5.0,3.82,7.9,6.6,7.6,6.19
+Sub-Saharan Africa,2014,Lower middle,Eswatini,5.95,4.6,7.4,6.7,7.2,1.8,4.9,3.8,5.44,5.2,4.9,8.0,6.6,7.6,6.46
+Sub-Saharan Africa,2013,Lower middle,Eswatini,6.08,4.5,7.5,6.7,7.2,1.8,7.4,3.8,5.67,5.6,4.9,7.9,6.3,7.7,6.48
+Sub-Saharan Africa,2012,Lower middle,Eswatini,5.86,4.5,7.1,5.0,6.8,1.7,7.5,3.8,5.38,6.0,4.8,7.6,5.9,7.4,6.33
+Sub-Saharan Africa,2011,Lower middle,Eswatini,5.78,4.8,6.4,3.3,6.8,1.7,7.5,3.8,5.11,5.8,4.7,7.8,6.2,7.6,6.44
+Sub-Saharan Africa,2010,Lower middle,Eswatini,5.84,4.8,6.7,5.0,6.8,1.7,7.5,3.8,5.35,5.1,4.8,7.9,6.2,7.7,6.33
+Sub-Saharan Africa,2009,Lower middle,Eswatini,,,,,4.6,2.0,,,,1.5,4.8,,,,
+Sub-Saharan Africa,2008,Lower middle,Eswatini,,,,,4.6,2.0,,,,1.5,4.9,,,,
+Sub-Saharan Africa,2018,Low,Ethiopia,5.4,3.4,6.6,6.7,6.0,3.6,6.7,3.8,5.18,5.8,4.2,6.3,4.9,6.9,5.61
+Sub-Saharan Africa,2017,Low,Ethiopia,5.34,3.3,6.6,6.7,5.8,3.1,6.2,3.8,5.03,5.8,4.3,6.4,5.1,6.7,5.65
+Sub-Saharan Africa,2016,Low,Ethiopia,5.33,3.3,6.0,8.3,5.8,3.2,6.1,5.0,5.17,5.9,4.2,5.7,5.0,6.7,5.49
+Sub-Saharan Africa,2015,Low,Ethiopia,5.2,3.0,6.2,6.7,6.6,3.4,6.2,5.0,5.11,5.7,4.2,5.5,4.9,6.1,5.29
+Sub-Saharan Africa,2014,Low,Ethiopia,5.22,3.3,6.2,6.7,6.4,3.5,6.1,5.0,5.14,5.7,4.1,5.5,4.9,6.3,5.29
+Sub-Saharan Africa,2013,Low,Ethiopia,5.33,3.8,5.9,6.7,6.2,4.0,7.1,5.0,5.33,6.2,4.2,5.2,5.0,6.1,5.33
+Sub-Saharan Africa,2012,Low,Ethiopia,5.26,3.8,6.1,5.0,6.8,3.8,7.1,5.0,5.26,5.9,4.6,4.7,4.9,6.1,5.25
+Sub-Saharan Africa,2011,Low,Ethiopia,5.28,4.5,6.0,5.0,6.7,3.8,7.1,5.0,5.37,5.9,4.7,4.2,4.9,6.2,5.18
+Sub-Saharan Africa,2010,Low,Ethiopia,5.37,4.5,6.0,6.7,6.7,3.8,5.7,5.0,5.41,5.4,4.7,5.4,5.0,6.2,5.33
+Sub-Saharan Africa,2009,Low,Ethiopia,5.48,4.5,6.2,6.7,6.6,3.9,5.7,5.0,5.45,5.7,4.8,5.8,5.1,6.3,5.51
+Sub-Saharan Africa,2008,Low,Ethiopia,5.36,4.5,5.9,8.3,6.9,3.9,5.8,5.0,5.6,5.9,4.7,3.9,5.0,6.1,5.11
+East Asia & Pacific,2018,Upper middle,Fiji,6.98,4.9,9.3,5.8,7.7,7.3,8.3,10.0,7.46,5.7,5.0,7.0,5.9,8.9,6.5
+East Asia & Pacific,2017,Upper middle,Fiji,7.03,4.8,9.3,5.8,8.1,7.7,8.3,10.0,7.52,6.1,4.9,6.9,5.9,8.9,6.54
+East Asia & Pacific,2016,Upper middle,Fiji,7.13,4.7,8.9,10.0,8.1,7.5,8.4,10.0,7.81,5.8,5.0,6.4,6.2,8.7,6.44
+East Asia & Pacific,2015,Upper middle,Fiji,7.02,4.6,8.9,8.3,7.9,7.5,8.3,10.0,7.56,6.0,5.0,6.3,6.3,8.7,6.47
+East Asia & Pacific,2014,Upper middle,Fiji,6.99,4.4,8.9,8.3,7.3,6.9,8.1,10.0,7.37,6.1,5.9,6.1,6.3,8.6,6.6
+East Asia & Pacific,2013,Upper middle,Fiji,6.81,3.9,8.9,8.3,6.8,5.9,8.0,10.0,7.11,6.7,5.8,5.8,6.3,8.0,6.51
+East Asia & Pacific,2012,Upper middle,Fiji,6.92,4.0,8.9,8.3,6.6,5.9,7.9,10.0,7.1,6.4,5.8,6.4,6.4,8.6,6.74
+East Asia & Pacific,2011,Lower middle,Fiji,7.01,4.4,8.9,8.3,6.3,5.9,7.9,10.0,7.14,7.2,5.8,6.5,6.3,8.6,6.87
+East Asia & Pacific,2010,Lower middle,Fiji,7.07,4.3,9.7,8.3,6.5,5.9,7.9,10.0,7.37,6.9,5.8,6.7,6.4,8.0,6.77
+East Asia & Pacific,2009,Upper middle,Fiji,7.12,4.5,9.5,8.3,6.6,5.5,8.0,10.0,7.34,7.4,5.8,6.8,6.4,8.1,6.89
+East Asia & Pacific,2008,Upper middle,Fiji,7.27,4.7,9.7,8.3,7.2,5.9,8.5,10.0,7.61,7.6,6.1,6.4,6.3,8.2,6.93
+Europe & Central Asia,2018,High,Finland,8.49,8.7,9.8,10.0,7.9,9.1,10.0,9.0,9.21,4.9,8.1,9.4,8.4,8.0,7.76
+Europe & Central Asia,2017,High,Finland,8.47,8.6,9.8,10.0,7.9,9.1,10.0,9.0,9.21,4.9,8.2,9.2,8.4,7.9,7.73
+Europe & Central Asia,2016,High,Finland,8.46,8.6,9.8,10.0,8.0,9.0,9.8,9.0,9.2,4.8,8.2,9.4,8.4,7.8,7.71
+Europe & Central Asia,2015,High,Finland,8.52,8.7,9.8,10.0,8.8,9.0,9.8,9.0,9.28,4.8,8.2,9.6,8.4,7.8,7.75
+Europe & Central Asia,2014,High,Finland,8.62,8.6,9.8,10.0,8.9,9.4,9.8,10.0,9.42,5.0,8.2,9.5,8.5,7.9,7.82
+Europe & Central Asia,2013,High,Finland,8.59,8.6,9.8,10.0,9.1,9.4,9.8,10.0,9.42,4.9,8.3,9.5,8.3,7.8,7.76
+Europe & Central Asia,2012,High,Finland,8.67,8.6,9.8,10.0,9.2,9.3,9.8,10.0,9.42,5.2,8.3,9.4,8.6,8.0,7.91
+Europe & Central Asia,2011,High,Finland,8.72,8.7,9.7,10.0,9.3,9.3,9.9,10.0,9.46,5.3,8.3,9.5,8.7,8.1,7.98
+Europe & Central Asia,2010,High,Finland,8.68,8.7,9.7,10.0,9.2,9.3,9.9,10.0,9.44,5.3,8.3,9.6,8.4,7.9,7.92
+Europe & Central Asia,2009,High,Finland,8.63,8.7,9.7,10.0,9.3,9.3,9.9,10.0,9.45,5.2,8.3,9.6,8.3,7.6,7.8
+Europe & Central Asia,2008,High,Finland,8.63,8.7,9.7,10.0,9.3,9.3,9.9,10.0,9.44,5.6,8.3,9.5,8.3,7.6,7.82
+Europe & Central Asia,2018,High,France,8.05,6.8,9.4,10.0,7.4,9.0,10.0,10.0,8.7,5.0,6.7,9.4,8.5,7.6,7.4
+Europe & Central Asia,2017,High,France,8.08,6.8,9.4,10.0,7.4,9.4,10.0,10.0,8.72,5.2,6.8,9.3,8.4,7.5,7.44
+Europe & Central Asia,2016,High,France,8.11,6.8,9.7,10.0,7.3,9.5,9.6,10.0,8.75,5.2,6.8,9.5,8.4,7.4,7.46
+Europe & Central Asia,2015,High,France,8.13,6.9,9.7,10.0,7.4,9.5,8.8,10.0,8.72,5.2,6.9,9.8,8.4,7.4,7.54
+Europe & Central Asia,2014,High,France,8.15,7.1,9.7,8.3,8.0,9.5,9.6,10.0,8.73,5.1,6.9,9.7,8.7,7.4,7.57
+Europe & Central Asia,2013,High,France,8.08,6.9,9.7,8.3,8.1,9.5,9.7,10.0,8.71,5.1,6.9,9.8,8.3,7.3,7.45
+Europe & Central Asia,2012,High,France,8.08,6.9,9.6,8.3,8.1,9.5,9.7,10.0,8.68,5.1,6.9,9.7,8.2,7.4,7.47
+Europe & Central Asia,2011,High,France,8.1,7.0,9.6,8.3,8.1,9.5,9.6,10.0,8.7,5.3,6.9,9.6,8.3,7.4,7.5
+Europe & Central Asia,2010,High,France,8.15,7.0,9.6,8.3,8.1,9.5,9.6,10.0,8.71,5.4,7.0,9.7,8.3,7.6,7.59
+Europe & Central Asia,2009,High,France,8.25,7.0,9.7,10.0,8.4,9.5,9.6,10.0,8.94,5.4,7.1,9.7,8.4,7.2,7.55
+Europe & Central Asia,2008,High,France,8.27,7.0,9.5,10.0,8.6,9.5,9.6,10.0,8.91,5.7,7.2,9.5,8.4,7.4,7.63
+Sub-Saharan Africa,2018,Upper middle,Gabon,6.14,4.0,8.2,2.5,9.0,6.8,6.7,8.8,6.42,7.1,3.5,6.3,5.4,7.1,5.86
+Sub-Saharan Africa,2017,Upper middle,Gabon,6.16,4.1,8.2,2.5,9.4,6.8,6.7,8.8,6.47,6.2,3.9,6.2,5.8,7.2,5.85
+Sub-Saharan Africa,2016,Upper middle,Gabon,5.84,4.2,7.8,1.7,9.2,6.4,6.7,5.0,5.92,6.0,3.8,6.6,5.3,7.0,5.75
+Sub-Saharan Africa,2015,Upper middle,Gabon,5.75,4.3,8.2,0.0,8.9,6.4,6.8,5.0,5.84,5.9,3.8,6.4,5.3,6.9,5.66
+Sub-Saharan Africa,2014,Upper middle,Gabon,5.66,4.4,8.2,0.0,8.3,6.4,6.8,5.0,5.78,5.7,3.7,6.0,5.5,6.9,5.54
+Sub-Saharan Africa,2013,Upper middle,Gabon,5.69,4.4,8.3,0.0,8.3,7.4,8.0,5.0,6.05,4.8,3.5,5.4,6.0,6.9,5.32
+Sub-Saharan Africa,2012,Upper middle,Gabon,5.48,4.5,6.8,0.0,8.3,7.2,8.0,5.0,5.68,4.9,3.5,5.5,5.8,6.7,5.28
+Sub-Saharan Africa,2011,Upper middle,Gabon,5.7,4.9,6.8,3.3,8.2,7.3,8.0,5.0,6.11,4.9,3.6,5.4,5.7,6.8,5.29
+Sub-Saharan Africa,2010,Upper middle,Gabon,5.82,4.8,6.8,3.3,8.4,6.8,8.3,5.0,6.09,4.9,3.7,5.7,6.1,7.3,5.55
+Sub-Saharan Africa,2009,Upper middle,Gabon,5.98,4.8,7.0,3.3,7.9,6.5,8.3,5.0,6.04,6.3,3.7,5.7,6.1,7.7,5.91
+Sub-Saharan Africa,2008,Upper middle,Gabon,5.88,4.7,7.0,1.7,8.0,6.5,8.3,5.0,5.87,6.3,3.7,6.1,6.0,7.4,5.89
+Sub-Saharan Africa,2018,Low,"Gambia, The",6.27,4.6,5.5,4.2,8.1,8.2,8.3,0.0,5.4,6.9,5.1,9.5,7.2,7.1,7.14
+Sub-Saharan Africa,2017,Low,"Gambia, The",6.25,4.5,5.5,4.2,7.9,8.0,8.3,0.0,5.34,6.4,5.3,9.5,7.4,7.2,7.15
+Sub-Saharan Africa,2016,Low,"Gambia, The",6.06,3.9,5.2,6.7,6.3,5.6,3.6,3.8,4.87,7.4,5.0,9.3,7.7,6.8,7.24
+Sub-Saharan Africa,2015,Low,"Gambia, The",6.05,4.1,5.2,6.7,6.7,5.5,3.6,3.8,4.93,7.5,4.84,9.2,7.7,6.6,7.17
+Sub-Saharan Africa,2014,Low,"Gambia, The",6.14,4.1,4.8,6.7,7.3,5.5,5.3,3.8,5.09,7.4,4.8,9.2,7.8,6.7,7.18
+Sub-Saharan Africa,2013,Low,"Gambia, The",6.22,4.2,5.3,6.7,7.3,5.4,5.2,3.8,5.23,7.4,4.8,9.2,8.1,6.6,7.21
+Sub-Saharan Africa,2012,Low,"Gambia, The",6.14,4.3,5.2,8.3,7.5,5.5,5.1,3.8,5.41,6.8,4.8,8.2,7.8,6.8,6.87
+Sub-Saharan Africa,2011,Low,"Gambia, The",6.32,4.7,5.7,8.3,7.3,5.5,5.2,3.8,5.63,6.6,5.0,8.1,7.8,7.5,7.0
+Sub-Saharan Africa,2010,Low,"Gambia, The",6.38,4.7,6.2,8.3,7.2,5.5,5.1,3.8,5.73,6.9,4.9,7.9,7.8,7.5,7.02
+Sub-Saharan Africa,2009,Low,"Gambia, The",,,,,5.7,5.5,,,,6.3,4.9,,,,
+Sub-Saharan Africa,2008,Low,"Gambia, The",,,,,5.7,5.5,,,,6.2,5.0,,,,
+Europe & Central Asia,2018,Upper middle,Georgia,7.87,5.4,9.0,6.7,7.1,8.6,9.2,8.2,7.56,7.9,6.5,9.3,9.0,8.3,8.18
+Europe & Central Asia,2017,Lower middle,Georgia,7.88,5.4,9.1,6.7,7.1,8.9,9.2,8.2,7.62,8.0,6.4,9.0,9.0,8.3,8.14
+Europe & Central Asia,2016,Lower middle,Georgia,7.8,5.4,8.7,6.7,7.2,8.5,9.2,8.2,7.48,8.0,6.5,8.9,8.9,8.3,8.12
+Europe & Central Asia,2015,Upper middle,Georgia,8.01,6.0,8.7,8.3,7.9,8.4,9.2,8.2,7.87,8.0,6.5,9.0,9.0,8.2,8.14
+Europe & Central Asia,2014,Lower middle,Georgia,8.06,5.7,8.5,8.3,8.4,8.3,9.3,8.8,7.85,8.1,7.2,9.1,8.9,8.1,8.27
+Europe & Central Asia,2013,Lower middle,Georgia,7.96,5.3,8.5,8.3,8.4,8.4,8.9,8.8,7.72,7.9,7.1,8.9,9.0,8.1,8.19
+Europe & Central Asia,2012,Lower middle,Georgia,7.79,5.3,8.3,6.7,8.1,8.0,8.8,8.8,7.44,7.7,6.9,9.2,8.7,8.2,8.13
+Europe & Central Asia,2011,Lower middle,Georgia,7.78,6.0,8.1,6.7,8.1,8.1,8.8,8.8,7.56,7.6,6.8,9.0,8.3,8.2,7.99
+Europe & Central Asia,2010,Lower middle,Georgia,7.86,6.0,8.5,10.0,8.0,8.3,8.3,8.8,7.96,7.0,6.8,8.8,8.2,7.9,7.76
+Europe & Central Asia,2009,Lower middle,Georgia,7.79,6.0,8.6,10.0,8.4,8.1,8.1,8.8,7.99,6.3,6.7,9.2,8.5,7.2,7.59
+Europe & Central Asia,2008,Lower middle,Georgia,7.6,6.0,7.6,10.0,8.4,8.3,4.7,8.8,7.42,6.7,6.7,9.1,8.7,7.7,7.78
+Europe & Central Asia,2018,High,Germany,8.52,8.3,9.9,10.0,7.4,9.0,10.0,10.0,9.19,6.1,7.4,9.4,8.2,8.1,7.85
+Europe & Central Asia,2017,High,Germany,8.53,8.3,9.9,10.0,7.5,9.0,10.0,10.0,9.19,6.1,7.5,9.3,8.3,8.2,7.87
+Europe & Central Asia,2016,High,Germany,8.55,8.3,9.8,10.0,7.5,9.0,9.6,10.0,9.14,6.4,7.5,9.5,8.3,8.1,7.96
+Europe & Central Asia,2015,High,Germany,8.58,8.3,9.9,10.0,7.8,9.0,9.6,10.0,9.18,6.4,7.6,9.6,8.2,8.0,7.97
+Europe & Central Asia,2014,High,Germany,8.55,8.2,9.9,10.0,7.9,9.0,9.7,10.0,9.17,6.4,7.7,9.6,8.3,7.6,7.93
+Europe & Central Asia,2013,High,Germany,8.5,7.8,9.9,10.0,7.8,9.0,9.7,10.0,9.09,6.5,7.7,9.6,8.1,7.7,7.91
+Europe & Central Asia,2012,High,Germany,8.47,7.8,9.8,10.0,8.0,9.1,9.7,10.0,9.09,6.1,7.8,9.5,8.1,7.7,7.84
+Europe & Central Asia,2011,High,Germany,8.5,7.9,9.8,10.0,8.2,9.1,9.7,10.0,9.12,6.2,7.8,9.6,8.2,7.6,7.87
+Europe & Central Asia,2010,High,Germany,8.4,7.9,9.8,10.0,7.8,9.0,9.1,10.0,9.02,6.2,7.8,9.6,8.2,7.1,7.78
+Europe & Central Asia,2009,High,Germany,8.41,7.9,9.8,10.0,8.2,9.0,9.1,10.0,9.06,6.3,7.9,9.5,8.2,6.8,7.76
+Europe & Central Asia,2008,High,Germany,8.39,7.9,9.8,10.0,8.1,9.1,9.2,10.0,9.06,6.5,8.0,9.5,8.2,6.4,7.72
+Sub-Saharan Africa,2018,Lower middle,Ghana,7.04,5.3,8.2,10.0,8.6,8.9,9.2,3.8,7.43,8.6,5.1,6.3,6.1,7.1,6.65
+Sub-Saharan Africa,2017,Lower middle,Ghana,7.11,5.7,8.2,10.0,8.6,8.9,9.2,3.8,7.54,8.8,5.3,5.9,6.1,7.2,6.67
+Sub-Saharan Africa,2016,Lower middle,Ghana,7.24,5.8,8.7,10.0,8.6,8.7,9.1,6.3,7.87,8.7,5.4,5.7,6.0,7.1,6.6
+Sub-Saharan Africa,2015,Lower middle,Ghana,7.08,5.3,8.7,10.0,8.3,8.7,8.9,6.3,7.71,8.3,5.5,5.6,6.0,6.8,6.45
+Sub-Saharan Africa,2014,Lower middle,Ghana,7.08,5.8,8.7,10.0,8.1,8.8,9.2,6.3,7.85,8.3,5.3,5.6,5.8,6.6,6.31
+Sub-Saharan Africa,2013,Lower middle,Ghana,7.22,5.4,8.7,10.0,7.7,8.8,9.6,6.3,7.74,8.3,5.3,7.1,6.2,6.6,6.69
+Sub-Saharan Africa,2012,Lower middle,Ghana,7.24,5.4,8.6,10.0,8.4,8.7,9.6,6.3,7.79,8.4,5.5,7.2,6.2,6.3,6.69
+Sub-Saharan Africa,2011,Lower middle,Ghana,7.32,5.4,8.7,10.0,8.4,8.7,9.6,6.3,7.82,8.0,5.4,7.1,6.4,7.2,6.82
+Sub-Saharan Africa,2010,Lower middle,Ghana,7.36,5.4,8.4,10.0,8.4,9.2,9.6,6.3,7.8,8.6,5.5,7.1,6.5,6.8,6.91
+Sub-Saharan Africa,2009,Low,Ghana,7.45,5.4,8.4,10.0,8.7,9.2,9.6,6.3,7.83,8.5,5.4,8.2,6.5,6.8,7.07
+Sub-Saharan Africa,2008,Low,Ghana,7.42,5.4,8.4,10.0,8.5,9.2,9.6,6.3,7.81,8.5,5.4,8.4,6.6,6.3,7.02
+Europe & Central Asia,2018,High,Greece,7.38,5.8,8.7,10.0,6.5,9.7,9.6,8.3,8.04,5.0,5.7,7.9,7.8,7.2,6.71
+Europe & Central Asia,2017,High,Greece,7.44,5.8,8.7,10.0,6.4,9.7,9.6,8.3,8.04,5.2,5.9,7.8,7.9,7.4,6.83
+Europe & Central Asia,2016,High,Greece,7.3,5.8,8.6,10.0,6.7,9.7,9.3,7.3,7.9,4.8,5.9,8.0,7.9,6.8,6.69
+Europe & Central Asia,2015,High,Greece,7.33,6.0,8.7,10.0,7.3,9.7,9.2,7.3,8.02,4.1,6.1,8.3,7.8,6.8,6.63
+Europe & Central Asia,2014,High,Greece,7.59,5.8,8.7,10.0,8.2,9.7,9.1,7.5,8.08,4.5,6.0,9.7,8.4,6.9,7.09
+Europe & Central Asia,2013,High,Greece,7.54,5.8,8.6,10.0,8.2,9.7,9.2,7.5,8.07,4.4,5.9,9.5,8.2,7.0,7.01
+Europe & Central Asia,2012,High,Greece,7.67,5.8,9.6,10.0,7.8,9.6,9.3,7.5,8.28,6.0,5.6,9.6,8.0,6.1,7.06
+Europe & Central Asia,2011,High,Greece,7.76,6.1,9.6,10.0,8.1,9.6,9.4,7.5,8.39,6.3,5.6,9.6,8.0,6.1,7.12
+Europe & Central Asia,2010,High,Greece,7.72,6.1,9.6,10.0,7.9,9.6,8.9,7.5,8.32,6.3,5.8,9.7,8.0,5.8,7.12
+Europe & Central Asia,2009,High,Greece,7.72,6.1,9.6,10.0,8.1,9.6,9.5,7.5,8.4,6.2,5.8,9.6,8.0,5.6,7.03
+Europe & Central Asia,2008,High,Greece,7.79,6.1,9.7,10.0,8.1,9.6,9.5,7.5,8.41,6.5,6.2,9.6,7.9,5.6,7.17
+Latin America & Caribbean,2018,Upper middle,Guatemala,7.21,4.0,6.2,10.0,7.8,7.7,9.2,6.7,6.71,9.5,4.7,9.5,8.3,6.5,7.7
+Latin America & Caribbean,2017,Upper middle,Guatemala,7.19,4.0,5.9,10.0,8.0,8.1,9.1,6.7,6.66,9.4,4.8,9.4,8.3,6.6,7.72
+Latin America & Caribbean,2016,Lower middle,Guatemala,7.23,4.0,6.3,10.0,7.9,8.3,8.7,5.8,6.66,9.5,4.9,9.6,8.5,6.6,7.79
+Latin America & Caribbean,2015,Lower middle,Guatemala,7.24,3.9,6.3,10.0,8.4,8.3,8.3,5.8,6.65,9.4,4.9,9.6,8.5,6.7,7.83
+Latin America & Caribbean,2014,Lower middle,Guatemala,7.44,4.1,6.3,10.0,8.6,8.3,9.0,8.8,7.07,9.4,4.8,9.6,8.4,6.7,7.8
+Latin America & Caribbean,2013,Lower middle,Guatemala,7.34,4.1,6.3,10.0,8.6,8.3,7.0,8.8,6.87,9.4,4.8,9.5,8.6,6.8,7.81
+Latin America & Caribbean,2012,Lower middle,Guatemala,7.26,4.1,6.3,10.0,8.4,8.0,7.8,8.8,6.9,8.6,4.8,9.4,8.5,6.7,7.62
+Latin America & Caribbean,2011,Lower middle,Guatemala,7.25,4.6,6.2,10.0,8.4,8.1,7.4,8.8,6.96,8.5,4.7,9.3,8.5,6.6,7.53
+Latin America & Caribbean,2010,Lower middle,Guatemala,7.35,4.6,6.3,10.0,8.4,8.6,9.0,8.8,7.21,8.3,4.6,9.4,8.5,6.6,7.49
+Latin America & Caribbean,2009,Lower middle,Guatemala,7.31,4.6,6.5,10.0,8.5,8.6,8.2,8.8,7.18,8.1,4.6,9.4,8.5,6.5,7.43
+Latin America & Caribbean,2008,Lower middle,Guatemala,7.35,4.6,6.5,10.0,8.5,8.6,8.2,8.8,7.19,8.6,4.9,8.9,8.5,6.6,7.51
+Sub-Saharan Africa,2018,Low,Guinea,5.45,3.6,5.8,6.7,7.6,7.5,7.9,0.0,5.32,4.5,3.7,7.4,5.3,6.9,5.57
+Sub-Saharan Africa,2017,Low,Guinea,5.33,3.2,5.8,6.7,7.7,7.5,7.5,0.0,5.19,4.0,3.3,7.7,5.4,7.0,5.46
+Sub-Saharan Africa,2016,Low,Guinea,5.56,3.2,6.6,5.0,7.8,7.4,7.1,1.3,5.33,6.3,3.25,7.8,4.5,7.0,5.78
+Sub-Saharan Africa,2015,Low,Guinea,5.24,3.3,6.6,3.3,7.9,7.4,7.6,1.3,5.24,3.7,3.26,7.8,4.6,6.8,5.23
+Sub-Saharan Africa,2014,Low,Guinea,5.17,3.1,6.6,5.0,8.1,7.4,6.2,1.3,5.22,3.8,3.24,7.5,4.4,6.6,5.11
+Sub-Saharan Africa,2013,Low,Guinea,5.52,3.1,6.6,5.0,8.1,7.4,7.6,6.3,5.88,4.0,3.27,6.9,4.8,6.8,5.15
+Sub-Saharan Africa,2012,Low,Guinea,,,,,7.8,6.6,,,,5.2,3.28,,,4.2,
+Sub-Saharan Africa,2011,Low,Guinea,,,,,7.8,6.6,,,,5.8,3.3,,,4.6,
+Sub-Saharan Africa,2010,Low,Guinea,,,,,8.2,6.7,,,,4.5,3.3,,,,
+Sub-Saharan Africa,2009,Low,Guinea,,,,,7.6,5.5,,,,2.9,3.2,,,,
+Sub-Saharan Africa,2008,Low,Guinea,,,,,7.6,5.6,,,,7.9,3.2,,,,
+Sub-Saharan Africa,2018,Low,Guinea-Bissau,6.15,3.1,7.5,10.0,9.1,6.8,8.3,7.5,6.84,6.1,3.0,6.8,5.8,5.7,5.46
+Sub-Saharan Africa,2017,Low,Guinea-Bissau,6.02,2.9,7.5,10.0,9.1,7.0,7.5,7.5,6.72,6.0,3.0,6.3,5.8,5.6,5.32
+Sub-Saharan Africa,2016,Low,Guinea-Bissau,5.91,2.8,7.1,10.0,9.3,7.3,8.1,8.8,6.82,4.9,3.1,6.0,5.8,5.2,5.0
+Sub-Saharan Africa,2015,Low,Guinea-Bissau,6.04,3.1,7.2,10.0,8.9,7.3,8.0,8.8,6.89,5.3,3.1,6.4,6.1,5.0,5.18
+Sub-Saharan Africa,2014,Low,Guinea-Bissau,5.95,3.1,6.7,10.0,8.2,7.3,8.1,8.8,6.7,5.2,2.9,6.3,6.0,5.6,5.2
+Sub-Saharan Africa,2013,Low,Guinea-Bissau,5.76,2.8,6.8,10.0,8.5,7.3,7.7,3.8,6.12,5.6,2.6,6.6,6.3,5.9,5.4
+Sub-Saharan Africa,2012,Low,Guinea-Bissau,5.76,2.9,6.1,8.3,7.8,6.5,7.7,3.8,5.67,8.3,2.5,6.6,6.2,5.6,5.84
+Sub-Saharan Africa,2011,Low,Guinea-Bissau,5.72,3.7,6.1,10.0,8.0,6.5,8.1,3.8,6.09,6.4,2.2,6.1,6.3,5.7,5.34
+Sub-Saharan Africa,2010,Low,Guinea-Bissau,5.81,3.7,5.6,10.0,8.0,6.5,8.1,8.8,6.46,5.3,2.3,6.3,6.3,5.7,5.16
+Sub-Saharan Africa,2009,Low,Guinea-Bissau,5.89,3.7,5.6,10.0,8.5,6.5,8.2,8.8,6.5,5.3,2.5,6.3,6.3,6.1,5.28
+Sub-Saharan Africa,2008,Low,Guinea-Bissau,5.83,3.6,6.1,10.0,8.3,6.5,8.3,8.8,6.62,5.3,2.5,5.7,6.3,5.4,5.03
+Latin America & Caribbean,2018,Upper middle,Guyana,7.0,4.6,7.9,7.5,8.6,9.0,9.2,7.5,7.31,6.1,5.2,8.3,6.7,7.0,6.68
+Latin America & Caribbean,2017,Upper middle,Guyana,6.99,4.7,7.9,7.5,8.7,9.1,9.2,7.5,7.33,5.8,5.2,8.4,6.8,7.1,6.64
+Latin America & Caribbean,2016,Upper middle,Guyana,6.87,4.7,7.4,10.0,8.8,9.1,8.7,5.0,7.17,6.2,4.8,8.3,6.8,6.7,6.57
+Latin America & Caribbean,2015,Upper middle,Guyana,6.94,4.3,7.2,10.0,9.1,9.3,8.8,5.0,7.09,7.2,4.8,8.3,6.8,7.0,6.79
+Latin America & Caribbean,2014,Lower middle,Guyana,6.75,4.2,7.2,10.0,9.1,8.7,8.8,5.0,7.01,6.1,4.7,8.0,6.8,6.8,6.49
+Latin America & Caribbean,2013,Lower middle,Guyana,6.93,4.4,7.1,10.0,9.2,8.6,8.9,10.0,7.54,4.7,4.7,7.9,7.5,6.8,6.32
+Latin America & Caribbean,2012,Lower middle,Guyana,7.04,4.4,7.4,10.0,9.1,8.4,8.9,10.0,7.59,4.9,4.8,7.9,7.4,7.4,6.48
+Latin America & Caribbean,2011,Lower middle,Guyana,7.11,4.8,7.5,10.0,9.1,8.4,8.9,10.0,7.72,4.8,4.7,7.8,7.4,7.7,6.49
+Latin America & Caribbean,2010,Lower middle,Guyana,6.86,4.9,7.3,10.0,9.1,8.3,9.1,5.0,7.19,4.8,4.8,8.0,7.4,7.6,6.52
+Latin America & Caribbean,2009,Lower middle,Guyana,6.91,4.7,7.7,10.0,9.2,8.3,9.1,5.0,7.29,4.9,4.9,7.9,7.4,7.6,6.53
+Latin America & Caribbean,2008,Lower middle,Guyana,6.72,4.7,6.3,10.0,9.1,8.3,9.1,5.0,6.91,5.3,4.8,7.8,7.5,7.4,6.53
+Latin America & Caribbean,2018,Low,Haiti,6.68,3.5,8.4,7.5,7.3,8.0,8.8,6.7,6.78,8.4,2.6,7.0,7.8,7.1,6.58
+Latin America & Caribbean,2017,Low,Haiti,6.64,3.4,8.0,7.5,7.3,7.8,8.8,6.7,6.66,8.3,2.8,7.0,8.0,7.0,6.62
+Latin America & Caribbean,2016,Low,Haiti,6.83,3.6,7.6,10.0,8.1,7.8,8.8,6.7,6.92,8.4,2.9,7.2,8.0,7.2,6.73
+Latin America & Caribbean,2015,Low,Haiti,6.84,3.3,7.5,10.0,8.7,7.8,8.8,6.7,6.9,8.0,2.8,7.8,8.3,7.0,6.78
+Latin America & Caribbean,2014,Low,Haiti,6.99,3.3,7.5,8.3,9.0,7.8,8.8,10.0,7.1,7.8,2.8,8.2,8.5,7.0,6.87
+Latin America & Caribbean,2013,Low,Haiti,6.75,3.2,7.5,8.3,9.0,7.8,9.2,7.5,6.87,7.2,2.8,7.8,8.4,7.0,6.63
+Latin America & Caribbean,2012,Low,Haiti,6.5,3.2,7.5,8.3,8.6,7.8,9.3,7.5,6.84,6.9,2.7,7.1,7.6,6.5,6.15
+Latin America & Caribbean,2011,Low,Haiti,6.75,3.6,7.3,10.0,8.7,7.7,9.2,7.5,7.03,7.3,2.6,8.0,7.4,7.0,6.47
+Latin America & Caribbean,2010,Low,Haiti,6.95,3.6,7.9,10.0,8.6,7.7,9.3,10.0,7.44,7.3,2.7,8.0,7.4,6.8,6.45
+Latin America & Caribbean,2009,Low,Haiti,7.27,3.7,8.0,10.0,8.8,7.7,9.2,10.0,7.51,7.9,3.2,8.6,7.5,7.9,7.03
+Latin America & Caribbean,2008,Low,Haiti,7.28,3.8,8.3,10.0,8.7,7.8,9.2,10.0,7.59,8.3,3.2,8.1,7.6,7.6,6.97
+Latin America & Caribbean,2018,Lower middle,Honduras,6.94,3.1,6.5,10.0,8.2,8.2,8.8,6.7,6.59,9.0,4.2,9.4,6.8,7.0,7.28
+Latin America & Caribbean,2017,Lower middle,Honduras,6.84,3.2,6.5,10.0,8.2,8.1,7.1,6.7,6.43,9.1,4.1,9.1,6.9,7.0,7.24
+Latin America & Caribbean,2016,Lower middle,Honduras,6.73,3.2,5.7,8.3,8.2,7.9,8.8,6.7,6.2,9.2,3.9,9.3,6.9,7.0,7.25
+Latin America & Caribbean,2015,Lower middle,Honduras,6.8,3.3,5.7,8.3,8.1,7.9,8.8,6.7,6.22,9.2,4.2,9.4,7.0,7.0,7.37
+Latin America & Caribbean,2014,Lower middle,Honduras,6.88,3.4,5.7,8.3,8.3,7.9,7.5,10.0,6.46,9.2,4.3,9.2,6.9,6.8,7.29
+Latin America & Caribbean,2013,Lower middle,Honduras,6.76,3.4,5.2,8.3,8.5,7.9,6.3,10.0,6.25,8.8,4.2,9.4,7.3,6.6,7.26
+Latin America & Caribbean,2012,Lower middle,Honduras,6.88,3.5,5.9,8.3,8.6,7.8,7.0,10.0,6.53,8.9,4.0,9.4,7.2,6.7,7.22
+Latin America & Caribbean,2011,Lower middle,Honduras,6.84,4.2,5.6,6.7,8.5,7.8,6.0,10.0,6.36,8.8,4.3,9.3,7.2,6.8,7.31
+Latin America & Caribbean,2010,Lower middle,Honduras,7.1,4.3,6.0,10.0,8.7,7.6,6.7,10.0,6.88,8.8,4.5,9.4,7.2,6.9,7.32
+Latin America & Caribbean,2009,Lower middle,Honduras,7.11,4.3,6.2,10.0,8.8,7.5,7.0,10.0,6.95,8.5,4.3,9.2,7.5,6.8,7.27
+Latin America & Caribbean,2008,Lower middle,Honduras,7.27,4.2,6.2,10.0,8.8,8.2,8.5,10.0,7.15,8.9,4.4,8.9,7.7,7.0,7.39
+East Asia & Pacific,2018,High,"Hong Kong SAR, China",8.74,7.1,9.9,10.0,8.3,6.5,9.2,9.0,8.53,8.5,7.5,9.8,9.5,9.5,8.94
+East Asia & Pacific,2017,High,"Hong Kong SAR, China",8.76,7.1,10.0,10.0,8.5,6.8,9.2,9.0,8.62,8.4,7.5,9.7,9.5,9.4,8.9
+East Asia & Pacific,2016,High,"Hong Kong SAR, China",8.69,7.1,9.5,10.0,8.5,6.8,9.2,9.0,8.52,8.3,7.5,9.6,9.5,9.4,8.86
+East Asia & Pacific,2015,High,"Hong Kong SAR, China",8.77,7.8,9.5,10.0,8.4,7.1,9.3,9.0,8.7,8.4,7.6,9.5,9.3,9.4,8.84
+East Asia & Pacific,2014,High,"Hong Kong SAR, China",8.83,7.8,9.5,10.0,8.1,7.3,9.3,10.0,8.8,8.5,7.4,9.4,9.5,9.4,8.85
+East Asia & Pacific,2013,High,"Hong Kong SAR, China",8.79,7.4,9.5,10.0,8.3,7.8,9.3,10.0,8.76,8.6,7.4,9.4,9.4,9.4,8.81
+East Asia & Pacific,2012,High,"Hong Kong SAR, China",8.87,7.4,9.9,10.0,8.2,8.0,9.4,10.0,8.89,8.7,7.4,9.2,9.5,9.4,8.84
+East Asia & Pacific,2011,High,"Hong Kong SAR, China",8.91,7.5,10.0,10.0,8.1,8.3,9.4,10.0,8.94,8.8,7.5,9.2,9.5,9.4,8.88
+East Asia & Pacific,2010,High,"Hong Kong SAR, China",8.93,7.5,9.9,10.0,8.2,8.3,9.4,10.0,8.94,8.8,7.5,9.3,9.5,9.4,8.91
+East Asia & Pacific,2009,High,"Hong Kong SAR, China",8.94,7.5,9.9,10.0,8.3,8.4,9.4,10.0,8.97,8.8,7.6,9.3,9.5,9.3,8.9
+East Asia & Pacific,2008,High,"Hong Kong SAR, China",8.99,7.5,9.8,10.0,8.9,8.5,9.4,10.0,9.0,8.9,7.5,9.5,9.6,9.3,8.97
+Europe & Central Asia,2018,High,Hungary,7.61,5.4,8.7,10.0,7.3,6.2,9.2,10.0,7.78,5.7,6.3,9.5,8.3,7.4,7.44
+Europe & Central Asia,2017,High,Hungary,7.68,5.4,8.7,10.0,7.3,6.5,9.2,10.0,7.82,5.9,6.2,9.7,8.3,7.5,7.53
+Europe & Central Asia,2016,High,Hungary,7.88,5.4,9.6,10.0,7.4,7.4,9.3,10.0,8.16,6.1,6.2,9.7,8.3,7.7,7.59
+Europe & Central Asia,2015,High,Hungary,7.86,5.9,9.5,10.0,8.0,7.4,9.4,10.0,8.32,5.2,6.3,9.5,8.2,7.7,7.39
+Europe & Central Asia,2014,High,Hungary,7.98,6.0,9.6,10.0,8.5,7.6,9.4,10.0,8.46,5.5,6.4,9.5,8.6,7.5,7.5
+Europe & Central Asia,2013,Upper middle,Hungary,7.94,5.7,9.6,10.0,8.3,8.1,9.4,10.0,8.41,5.7,6.4,9.5,8.1,7.7,7.46
+Europe & Central Asia,2012,Upper middle,Hungary,7.97,5.7,9.6,10.0,8.1,8.3,9.4,10.0,8.41,6.0,6.2,9.5,7.9,7.9,7.52
+Europe & Central Asia,2011,High,Hungary,8.12,6.4,9.6,10.0,8.6,8.4,9.4,10.0,8.62,6.2,6.3,9.6,8.0,8.0,7.62
+Europe & Central Asia,2010,High,Hungary,8.17,6.4,9.6,10.0,9.4,8.6,9.5,10.0,8.73,5.8,6.4,9.6,8.2,8.0,7.6
+Europe & Central Asia,2009,High,Hungary,8.19,6.4,9.6,10.0,9.6,9.2,9.6,10.0,8.84,5.8,6.5,9.5,8.2,7.8,7.54
+Europe & Central Asia,2008,High,Hungary,8.14,6.4,9.5,10.0,9.6,9.2,9.7,10.0,8.83,5.8,6.4,9.2,8.1,7.7,7.45
+Europe & Central Asia,2018,High,Iceland,8.39,7.9,9.9,10.0,8.0,9.5,9.6,9.0,9.06,6.0,8.1,9.4,7.4,7.7,7.71
+Europe & Central Asia,2017,High,Iceland,8.39,7.8,9.9,10.0,8.0,9.6,9.6,9.0,9.02,6.2,8.0,9.2,7.5,7.8,7.76
+Europe & Central Asia,2016,High,Iceland,8.37,7.6,10.0,10.0,7.7,9.6,9.8,9.0,8.99,6.2,8.0,9.6,7.2,7.8,7.75
+Europe & Central Asia,2015,High,Iceland,8.18,7.9,9.9,10.0,7.7,9.5,9.8,9.0,9.05,6.2,8.1,7.2,6.9,8.2,7.3
+Europe & Central Asia,2014,High,Iceland,8.2,7.7,9.9,10.0,8.1,9.5,9.8,10.0,9.15,6.1,7.9,7.2,6.9,8.2,7.25
+Europe & Central Asia,2013,High,Iceland,8.12,7.7,10.0,10.0,8.4,9.5,9.8,10.0,9.18,6.0,7.8,6.9,6.6,8.0,7.06
+Europe & Central Asia,2012,High,Iceland,8.12,7.7,10.0,10.0,8.7,9.7,9.8,10.0,9.23,6.0,7.9,6.7,6.6,7.8,7.0
+Europe & Central Asia,2011,High,Iceland,8.08,7.8,9.9,10.0,8.9,9.7,9.8,10.0,9.26,5.8,7.9,6.8,6.4,7.6,6.9
+Europe & Central Asia,2010,High,Iceland,7.87,7.8,9.9,10.0,8.8,9.6,9.7,10.0,9.24,5.4,7.9,5.9,6.3,6.9,6.5
+Europe & Central Asia,2009,High,Iceland,7.97,7.8,10.0,10.0,9.1,9.6,9.7,10.0,9.29,5.4,7.9,6.5,6.5,7.0,6.65
+Europe & Central Asia,2008,High,Iceland,8.19,8.0,10.0,10.0,8.9,9.6,9.8,10.0,9.32,6.7,8.0,7.6,6.6,6.4,7.05
+South Asia,2018,Lower middle,India,6.43,4.3,8.1,6.7,5.0,6.3,8.3,5.7,6.3,7.2,5.1,8.3,5.7,6.5,6.56
+South Asia,2017,Lower middle,India,6.52,4.3,8.0,6.7,5.1,6.6,8.7,5.7,6.36,7.6,5.1,8.4,5.7,6.7,6.68
+South Asia,2016,Lower middle,India,6.42,4.3,8.0,6.7,5.2,7.0,8.4,5.7,6.38,7.6,5.1,7.9,5.2,6.5,6.46
+South Asia,2015,Lower middle,India,6.39,4.2,7.7,6.7,5.6,7.0,8.4,5.7,6.31,7.5,5.1,8.1,5.2,6.5,6.47
+South Asia,2014,Lower middle,India,6.28,4.4,7.7,6.7,6.3,7.3,8.4,5.0,6.38,7.7,4.9,6.9,5.1,6.3,6.17
+South Asia,2013,Lower middle,India,6.47,4.1,7.7,6.7,6.4,7.9,8.0,7.5,6.6,7.8,4.9,6.7,5.8,6.5,6.34
+South Asia,2012,Lower middle,India,6.56,4.1,7.6,6.7,6.5,7.9,8.1,7.5,6.61,7.8,5.5,6.7,5.8,6.8,6.51
+South Asia,2011,Lower middle,India,6.7,4.3,7.6,8.3,6.8,8.1,8.1,7.5,6.87,7.6,5.5,6.7,5.9,6.9,6.52
+South Asia,2010,Lower middle,India,6.54,4.3,7.6,6.7,6.6,7.6,8.8,7.5,6.71,7.4,5.4,6.4,5.9,6.7,6.37
+South Asia,2009,Lower middle,India,6.54,4.3,7.6,6.7,6.7,7.6,8.9,7.5,6.71,7.2,5.5,6.6,5.9,6.6,6.36
+South Asia,2008,Lower middle,India,6.55,4.3,7.6,6.7,6.7,7.6,8.8,7.5,6.7,7.3,5.8,6.7,5.8,6.3,6.4
+East Asia & Pacific,2018,Lower middle,Indonesia,7.07,4.3,8.1,7.5,5.2,7.8,8.3,7.5,6.74,8.7,5.1,9.7,6.9,6.6,7.39
+East Asia & Pacific,2017,Lower middle,Indonesia,7.0,4.1,8.1,7.5,5.5,8.0,8.3,7.5,6.73,8.3,5.0,9.7,6.8,6.5,7.27
+East Asia & Pacific,2016,Lower middle,Indonesia,7.1,4.1,8.9,8.3,5.5,8.2,7.9,6.7,6.92,8.4,5.0,9.7,6.9,6.5,7.28
+East Asia & Pacific,2015,Lower middle,Indonesia,6.96,4.1,8.9,6.7,5.8,8.2,7.9,6.7,6.79,8.2,4.7,9.4,6.9,6.4,7.12
+East Asia & Pacific,2014,Lower middle,Indonesia,6.84,4.0,8.6,6.7,6.5,8.4,7.9,5.0,6.6,8.1,4.7,9.3,7.0,6.3,7.08
+East Asia & Pacific,2013,Lower middle,Indonesia,6.92,4.2,8.9,6.7,6.2,8.4,8.3,5.0,6.75,8.1,4.7,9.1,7.2,6.3,7.09
+East Asia & Pacific,2012,Lower middle,Indonesia,6.8,4.2,8.9,6.7,5.7,8.5,8.3,5.0,6.71,7.9,4.5,8.9,6.7,6.4,6.88
+East Asia & Pacific,2011,Lower middle,Indonesia,6.88,4.6,8.9,6.7,5.7,8.5,8.3,5.0,6.8,8.1,4.5,9.1,6.6,6.5,6.95
+East Asia & Pacific,2010,Lower middle,Indonesia,7.08,4.6,8.8,8.3,5.5,8.0,9.0,7.5,7.18,8.2,4.4,9.0,6.9,6.4,6.97
+East Asia & Pacific,2009,Lower middle,Indonesia,6.95,4.6,8.8,8.3,5.8,8.0,9.1,7.5,7.22,8.0,4.4,7.7,6.9,6.4,6.68
+East Asia & Pacific,2008,Lower middle,Indonesia,6.88,4.6,8.8,8.3,6.1,8.0,9.1,7.5,7.24,7.8,3.9,7.5,6.9,6.4,6.52
+Middle East & North Africa,2018,Upper middle,"Iran, Islamic Rep.",4.53,3.9,7.1,0.0,3.5,2.8,6.5,2.3,4.26,5.9,4.2,6.2,2.3,5.5,4.8
+Middle East & North Africa,2017,Upper middle,"Iran, Islamic Rep.",4.97,4.4,7.1,0.0,3.8,2.9,6.6,2.3,4.44,5.7,4.4,7.1,4.6,5.7,5.49
+Middle East & North Africa,2016,Upper middle,"Iran, Islamic Rep.",4.98,4.4,6.8,0.0,4.1,3.1,6.2,3.2,4.45,5.8,4.3,7.2,4.5,5.8,5.51
+Middle East & North Africa,2015,Upper middle,"Iran, Islamic Rep.",4.9,4.3,6.8,0.0,4.0,3.1,5.9,3.2,4.4,6.1,4.3,6.9,4.5,5.2,5.4
+Middle East & North Africa,2014,Upper middle,"Iran, Islamic Rep.",4.61,3.9,6.8,0.0,4.0,3.1,5.7,1.3,4.08,6.3,4.2,7.1,3.0,5.2,5.14
+Middle East & North Africa,2013,Upper middle,"Iran, Islamic Rep.",4.64,3.8,6.8,0.0,3.9,2.6,4.3,1.3,3.85,6.5,4.0,8.0,4.1,4.4,5.42
+Middle East & North Africa,2012,Upper middle,"Iran, Islamic Rep.",4.58,3.8,7.2,0.0,4.1,2.1,4.0,1.3,3.89,6.7,4.0,8.6,2.6,4.4,5.26
+Middle East & North Africa,2011,Upper middle,"Iran, Islamic Rep.",4.71,4.3,7.2,0.0,4.0,2.1,4.1,1.3,4.02,6.2,4.1,7.2,5.2,4.3,5.4
+Middle East & North Africa,2010,Upper middle,"Iran, Islamic Rep.",4.94,4.3,7.5,1.7,4.0,1.9,5.3,1.3,4.34,6.1,4.1,7.6,5.2,4.7,5.54
+Middle East & North Africa,2009,Upper middle,"Iran, Islamic Rep.",5.02,4.3,7.5,1.7,4.1,2.2,5.6,1.3,4.44,6.3,4.1,7.32,5.2,5.2,5.6
+Middle East & North Africa,2008,Lower middle,"Iran, Islamic Rep.",5.22,4.3,8.0,1.7,4.3,2.6,6.7,1.3,4.73,6.0,4.2,7.0,5.4,6.0,5.71
+Middle East & North Africa,2018,Upper middle,Iraq,4.9,2.3,5.2,4.2,4.2,7.2,7.5,0.0,4.18,5.0,3.3,7.8,5.8,6.1,5.61
+Middle East & North Africa,2017,Upper middle,Iraq,4.58,2.6,3.6,4.2,3.8,6.6,6.0,0.0,3.59,5.0,3.3,8.0,5.5,6.1,5.57
+Middle East & North Africa,2016,Upper middle,Iraq,4.5,2.6,3.6,1.7,3.8,7.0,5.8,0.0,3.36,5.0,3.2,8.4,5.2,6.3,5.63
+Middle East & North Africa,2015,Upper middle,Iraq,,,,,3.3,6.7,,,,1.8,3.1,,,,
+Middle East & North Africa,2014,Upper middle,Iraq,,,,,3.2,6.7,,,,1.8,3.9,,,,
+Middle East & North Africa,2013,Upper middle,Iraq,,,,,3.8,6.8,,,,1.8,3.9,,,,
+Middle East & North Africa,2012,Upper middle,Iraq,,,,,4.4,6.9,,,,2.2,3.9,,,,
+Middle East & North Africa,2011,Lower middle,Iraq,,,,,4.4,6.9,,,,2.2,3.9,,,,
+Middle East & North Africa,2010,Lower middle,Iraq,,,,,4.4,6.9,,,,2.2,3.9,,,,
+Middle East & North Africa,2009,Lower middle,Iraq,,,,,4.6,6.8,,,,2.2,4.9,,,,
+Middle East & North Africa,2008,Lower middle,Iraq,,,,,4.6,6.8,,,,2.2,4.9,,,,
+Europe & Central Asia,2018,High,Ireland,8.62,7.5,9.7,10.0,8.3,9.7,10.0,10.0,9.11,6.5,7.4,9.4,8.7,8.5,8.13
+Europe & Central Asia,2017,High,Ireland,8.65,7.5,9.7,10.0,8.9,9.6,10.0,10.0,9.15,6.7,7.4,9.3,8.7,8.5,8.14
+Europe & Central Asia,2016,High,Ireland,8.67,7.6,9.7,10.0,8.9,9.4,9.7,10.0,9.13,6.7,7.6,9.3,8.8,8.6,8.2
+Europe & Central Asia,2015,High,Ireland,8.79,8.1,9.8,10.0,8.6,9.4,9.7,10.0,9.25,6.7,7.8,9.5,8.9,8.7,8.32
+Europe & Central Asia,2014,High,Ireland,8.62,7.8,9.7,10.0,7.3,9.4,9.7,10.0,9.03,6.4,7.8,9.6,8.9,8.3,8.2
+Europe & Central Asia,2013,High,Ireland,8.58,7.8,9.7,10.0,7.3,9.4,9.7,10.0,9.01,6.2,7.8,9.7,8.8,8.2,8.14
+Europe & Central Asia,2012,High,Ireland,8.56,7.8,9.7,10.0,7.2,9.6,9.7,10.0,9.01,6.1,7.8,9.7,8.7,8.1,8.1
+Europe & Central Asia,2011,High,Ireland,8.57,7.9,9.7,10.0,7.5,9.6,9.8,10.0,9.09,6.2,7.8,9.6,8.8,7.8,8.04
+Europe & Central Asia,2010,High,Ireland,8.48,7.9,9.7,10.0,7.5,9.6,9.7,10.0,9.07,5.9,7.7,9.5,8.9,7.4,7.89
+Europe & Central Asia,2009,High,Ireland,8.43,7.9,9.7,10.0,7.3,9.6,9.8,10.0,9.05,6.0,7.7,9.1,8.9,7.2,7.8
+Europe & Central Asia,2008,High,Ireland,8.51,7.8,9.7,10.0,7.3,9.6,9.8,10.0,9.04,6.2,7.7,9.5,8.8,7.7,7.98
+Middle East & North Africa,2018,High,Israel,7.44,6.8,8.5,6.7,6.0,7.8,7.7,6.3,7.26,6.6,5.9,9.8,8.5,7.4,7.62
+Middle East & North Africa,2017,High,Israel,7.58,6.8,9.0,6.7,6.0,7.9,8.8,6.3,7.53,6.5,5.9,9.8,8.5,7.4,7.62
+Middle East & North Africa,2016,High,Israel,7.83,6.9,9.2,8.3,6.2,8.2,8.1,10.0,8.09,6.3,5.8,9.7,8.5,7.5,7.56
+Middle East & North Africa,2015,High,Israel,7.6,7.1,9.2,1.7,6.8,8.2,9.3,10.0,7.68,6.3,5.8,9.6,8.4,7.5,7.52
+Middle East & North Africa,2014,High,Israel,7.37,6.8,8.3,1.7,7.9,8.2,7.0,10.0,7.24,6.4,5.5,9.5,8.6,7.5,7.5
+Middle East & North Africa,2013,High,Israel,7.58,6.7,9.4,1.7,7.9,8.2,8.9,10.0,7.69,6.4,5.5,9.6,8.4,7.4,7.46
+Middle East & North Africa,2012,High,Israel,7.51,6.6,9.0,3.3,8.1,8.1,8.2,10.0,7.66,6.4,5.7,9.4,8.1,7.2,7.36
+Middle East & North Africa,2011,High,Israel,7.56,6.9,9.0,3.3,8.3,8.1,8.6,10.0,7.79,6.4,5.8,9.1,8.2,7.2,7.32
+Middle East & North Africa,2010,High,Israel,7.62,6.7,9.2,3.3,8.4,8.1,9.5,10.0,7.92,6.2,5.7,9.0,8.5,7.2,7.31
+Middle East & North Africa,2009,High,Israel,7.39,6.7,8.6,3.3,8.4,8.2,8.8,10.0,7.69,6.1,5.5,8.8,8.6,6.4,7.09
+Middle East & North Africa,2008,High,Israel,7.29,6.6,8.0,3.3,8.3,8.2,7.8,10.0,7.41,6.3,5.4,9.1,8.5,6.5,7.16
+Europe & Central Asia,2018,High,Italy,8.12,6.6,9.9,10.0,7.8,9.4,9.6,9.0,8.72,5.5,6.3,9.3,8.6,7.7,7.51
+Europe & Central Asia,2017,High,Italy,8.16,6.5,9.9,10.0,7.9,9.6,9.6,9.0,8.71,6.1,6.3,9.2,8.7,7.7,7.6
+Europe & Central Asia,2016,High,Italy,8.17,6.5,9.9,10.0,7.7,9.6,9.5,9.0,8.67,6.2,6.3,9.4,8.7,7.7,7.66
+Europe & Central Asia,2015,High,Italy,8.21,6.6,9.9,10.0,7.8,9.6,9.5,9.0,8.7,6.2,6.2,9.7,8.7,7.7,7.71
+Europe & Central Asia,2014,High,Italy,8.21,6.6,9.9,10.0,7.0,9.6,9.5,10.0,8.74,6.0,6.3,9.8,8.7,7.6,7.68
+Europe & Central Asia,2013,High,Italy,8.19,6.7,9.9,10.0,7.0,9.6,9.4,10.0,8.75,6.2,6.3,9.8,8.2,7.5,7.62
+Europe & Central Asia,2012,High,Italy,8.17,6.7,9.8,10.0,6.8,9.8,9.4,10.0,8.72,6.3,6.4,9.7,8.1,7.7,7.61
+Europe & Central Asia,2011,High,Italy,8.17,6.7,9.8,10.0,6.9,9.8,9.4,10.0,8.73,6.2,6.4,9.7,8.2,7.7,7.61
+Europe & Central Asia,2010,High,Italy,8.17,6.7,9.8,10.0,7.2,9.8,9.4,10.0,8.76,6.1,6.4,9.7,8.3,7.5,7.57
+Europe & Central Asia,2009,High,Italy,8.1,6.7,9.8,10.0,7.4,9.8,9.4,10.0,8.79,6.0,6.3,9.6,8.2,6.9,7.41
+Europe & Central Asia,2008,High,Italy,8.13,6.7,9.8,10.0,7.4,9.8,9.5,10.0,8.79,6.5,6.3,9.5,8.2,6.9,7.47
+Latin America & Caribbean,2018,Upper middle,Jamaica,7.44,5.4,6.5,10.0,9.0,9.1,10.0,4.2,7.19,8.5,5.7,9.1,7.1,8.1,7.69
+Latin America & Caribbean,2017,Upper middle,Jamaica,7.37,5.4,6.5,10.0,9.0,9.1,10.0,4.2,7.2,8.1,5.6,8.8,7.1,8.1,7.54
+Latin America & Caribbean,2016,Upper middle,Jamaica,7.35,5.4,6.5,8.3,9.0,9.2,9.7,5.0,7.1,8.1,5.6,8.8,7.3,8.2,7.6
+Latin America & Caribbean,2015,Upper middle,Jamaica,7.37,5.2,6.5,8.3,9.1,9.2,9.8,5.0,7.07,8.2,5.7,9.0,7.4,8.1,7.67
+Latin America & Caribbean,2014,Upper middle,Jamaica,7.37,5.0,6.3,8.3,9.1,9.2,9.8,7.5,7.23,8.1,5.5,8.7,7.1,8.1,7.51
+Latin America & Caribbean,2013,Upper middle,Jamaica,7.37,4.6,6.3,8.3,9.1,9.2,9.8,7.5,7.11,8.3,5.5,8.8,7.5,8.1,7.63
+Latin America & Caribbean,2012,Upper middle,Jamaica,7.26,4.6,6.3,8.3,8.6,9.4,9.7,7.5,7.08,8.2,5.4,8.6,7.3,7.7,7.44
+Latin America & Caribbean,2011,Upper middle,Jamaica,7.18,4.6,6.3,8.3,8.7,9.4,9.7,7.5,7.1,8.0,5.5,8.2,7.3,7.3,7.25
+Latin America & Caribbean,2010,Upper middle,Jamaica,7.23,4.6,6.3,10.0,8.9,9.2,9.5,7.5,7.25,7.8,5.5,8.0,7.3,7.5,7.21
+Latin America & Caribbean,2009,Upper middle,Jamaica,7.25,4.6,6.5,10.0,9.0,9.2,9.5,7.5,7.3,7.9,5.4,8.2,7.4,7.1,7.2
+Latin America & Caribbean,2008,Upper middle,Jamaica,7.21,4.6,6.3,10.0,9.1,9.2,9.6,7.5,7.27,7.9,5.6,7.7,7.8,6.7,7.14
+East Asia & Pacific,2018,High,Japan,8.49,7.9,10.0,10.0,9.0,9.5,9.6,8.2,9.1,5.9,7.3,9.5,8.3,8.4,7.88
+East Asia & Pacific,2017,High,Japan,8.44,7.6,10.0,10.0,9.0,9.3,9.6,8.2,9.01,5.8,7.2,9.5,8.4,8.3,7.86
+East Asia & Pacific,2016,High,Japan,8.45,7.6,10.0,10.0,8.9,9.2,9.5,9.0,9.06,5.8,7.3,9.5,8.4,8.3,7.84
+East Asia & Pacific,2015,High,Japan,8.44,7.6,10.0,10.0,8.8,9.2,9.5,9.0,9.03,5.7,7.3,9.6,8.3,8.3,7.85
+East Asia & Pacific,2014,High,Japan,8.47,7.5,10.0,10.0,9.2,9.2,9.6,10.0,9.16,6.0,7.4,9.5,8.2,7.9,7.78
+East Asia & Pacific,2013,High,Japan,8.45,7.2,10.0,10.0,9.1,9.2,9.6,10.0,9.08,5.9,7.3,9.8,8.0,8.0,7.81
+East Asia & Pacific,2012,High,Japan,8.44,7.2,10.0,10.0,9.3,9.2,9.6,10.0,9.1,6.0,7.3,9.8,7.7,8.0,7.77
+East Asia & Pacific,2011,High,Japan,8.42,7.3,10.0,10.0,9.1,9.4,9.7,10.0,9.13,6.0,7.3,9.9,7.5,8.0,7.71
+East Asia & Pacific,2010,High,Japan,8.46,7.3,10.0,10.0,9.0,9.4,9.7,10.0,9.12,5.9,7.4,9.9,7.7,8.1,7.79
+East Asia & Pacific,2009,High,Japan,8.44,7.3,9.9,10.0,9.4,9.4,9.7,10.0,9.16,6.0,7.4,9.8,7.7,7.8,7.72
+East Asia & Pacific,2008,High,Japan,8.49,7.3,9.9,10.0,9.2,9.2,9.7,10.0,9.12,6.3,7.6,9.8,7.5,8.1,7.85
+Middle East & North Africa,2018,Upper middle,Jordan,6.92,5.6,8.0,5.0,4.8,6.2,7.1,5.0,6.21,7.9,4.7,9.6,8.0,8.0,7.62
+Middle East & North Africa,2017,Upper middle,Jordan,6.9,5.8,8.0,5.0,4.8,6.2,7.1,5.0,6.25,7.6,4.7,9.6,7.9,7.9,7.54
+Middle East & North Africa,2016,Lower middle,Jordan,7.01,5.8,7.7,8.3,4.8,6.2,7.2,5.0,6.52,7.5,4.5,9.6,8.0,7.9,7.49
+Middle East & North Africa,2015,Upper middle,Jordan,6.99,5.7,7.9,6.7,5.3,6.2,7.2,5.0,6.44,7.6,4.5,9.7,8.0,7.9,7.54
+Middle East & North Africa,2014,Upper middle,Jordan,6.88,5.7,7.9,5.0,5.4,6.2,7.2,5.0,6.27,7.8,4.5,9.5,8.1,7.5,7.49
+Middle East & North Africa,2013,Upper middle,Jordan,7.05,5.4,8.1,6.7,5.3,6.7,7.6,5.0,6.49,8.0,4.5,9.4,8.2,7.9,7.61
+Middle East & North Africa,2012,Upper middle,Jordan,6.9,5.4,8.0,5.0,5.2,6.7,8.1,5.0,6.33,7.8,4.5,9.2,8.2,7.6,7.47
+Middle East & North Africa,2011,Upper middle,Jordan,6.95,5.3,7.7,6.7,5.2,6.7,8.1,5.0,6.41,7.7,4.5,9.1,8.2,8.0,7.48
+Middle East & North Africa,2010,Upper middle,Jordan,6.93,5.3,8.9,5.0,5.0,5.2,8.4,5.0,6.4,7.4,4.5,9.1,8.2,8.1,7.46
+Middle East & North Africa,2009,Lower middle,Jordan,6.85,5.3,8.9,5.0,5.5,5.2,8.4,5.0,6.46,6.4,4.5,9.2,8.2,7.8,7.23
+Middle East & North Africa,2008,Lower middle,Jordan,6.79,5.3,8.8,5.0,5.0,5.2,8.4,5.0,6.4,6.5,4.9,8.3,8.2,7.9,7.17
+Europe & Central Asia,2018,Upper middle,Kazakhstan,6.99,5.1,9.0,8.3,5.2,3.7,7.1,9.0,6.85,7.7,5.0,8.8,6.2,8.0,7.12
+Europe & Central Asia,2017,Upper middle,Kazakhstan,6.87,4.5,9.0,8.3,4.8,3.7,6.9,9.0,6.65,7.7,4.9,8.8,6.3,7.7,7.09
+Europe & Central Asia,2016,Upper middle,Kazakhstan,6.78,4.5,9.0,6.7,4.9,3.9,7.0,9.0,6.53,7.7,5.1,8.6,6.2,7.5,7.02
+Europe & Central Asia,2015,Upper middle,Kazakhstan,6.78,4.5,9.0,5.0,5.0,4.1,7.3,9.0,6.43,7.6,5.2,8.9,6.1,7.8,7.13
+Europe & Central Asia,2014,Upper middle,Kazakhstan,6.7,4.5,9.0,3.3,5.0,4.1,7.3,10.0,6.34,7.3,5.2,9.0,5.8,7.9,7.05
+Europe & Central Asia,2013,Upper middle,Kazakhstan,6.7,4.5,8.8,5.0,5.2,3.6,6.8,10.0,6.39,7.7,5.1,9.0,5.4,7.9,7.01
+Europe & Central Asia,2012,Upper middle,Kazakhstan,6.78,4.5,8.8,6.7,5.1,3.6,6.9,10.0,6.56,7.6,5.7,8.5,5.4,7.9,7.0
+Europe & Central Asia,2011,Upper middle,Kazakhstan,6.58,4.6,8.0,6.7,5.3,3.7,6.8,10.0,6.4,7.4,5.6,8.2,5.1,7.5,6.76
+Europe & Central Asia,2010,Upper middle,Kazakhstan,6.77,4.6,8.7,6.7,5.8,4.3,7.4,10.0,6.74,7.6,5.4,8.2,5.3,7.5,6.79
+Europe & Central Asia,2009,Upper middle,Kazakhstan,6.77,4.6,8.4,6.7,6.1,4.4,7.1,10.0,6.67,7.4,5.4,8.3,5.5,7.8,6.87
+Europe & Central Asia,2008,Upper middle,Kazakhstan,6.79,4.6,8.3,6.7,6.3,4.4,7.5,10.0,6.71,7.3,5.5,8.5,5.3,7.7,6.87
+Sub-Saharan Africa,2018,Lower middle,Kenya,6.75,3.9,7.0,10.0,6.8,6.8,9.2,6.7,6.66,6.4,5.0,9.3,6.7,6.8,6.84
+Sub-Saharan Africa,2017,Lower middle,Kenya,6.77,4.0,6.9,10.0,6.6,7.2,9.2,6.7,6.68,6.3,5.2,9.2,6.8,6.7,6.86
+Sub-Saharan Africa,2016,Lower middle,Kenya,6.92,4.0,7.3,10.0,6.7,7.3,9.0,7.5,6.88,6.4,5.0,9.2,6.8,7.4,6.96
+Sub-Saharan Africa,2015,Lower middle,Kenya,6.75,3.7,6.9,6.7,6.8,7.5,8.9,7.5,6.37,7.5,4.9,9.1,6.7,7.3,7.12
+Sub-Saharan Africa,2014,Lower middle,Kenya,6.75,3.6,7.1,6.7,6.7,7.5,9.0,6.3,6.29,7.9,5.2,9.0,6.7,7.3,7.2
+Sub-Saharan Africa,2013,Low,Kenya,6.62,3.6,7.1,5.0,6.7,7.8,8.5,6.3,6.08,7.5,5.1,8.9,6.8,7.3,7.15
+Sub-Saharan Africa,2012,Low,Kenya,6.64,3.6,7.0,5.0,7.3,7.4,8.7,6.3,6.1,7.8,5.0,8.8,6.8,7.6,7.18
+Sub-Saharan Africa,2011,Low,Kenya,6.72,4.3,7.4,5.0,7.1,7.4,8.7,6.3,6.39,7.8,4.8,8.4,6.8,7.4,7.05
+Sub-Saharan Africa,2010,Low,Kenya,6.7,4.3,7.3,5.0,6.9,7.4,9.1,6.3,6.37,7.7,4.4,8.7,6.9,7.3,7.02
+Sub-Saharan Africa,2009,Low,Kenya,6.66,4.3,7.0,5.0,7.4,7.3,8.9,6.3,6.31,7.7,4.2,8.6,7.0,7.5,7.01
+Sub-Saharan Africa,2008,Low,Kenya,6.63,4.3,7.2,5.0,7.4,7.3,8.8,6.3,6.35,7.9,4.6,7.7,6.9,7.5,6.9
+East Asia & Pacific,2018,High,"Korea, Rep.",8.27,7.7,9.8,8.3,9.1,8.8,9.6,9.0,8.85,6.8,6.6,9.6,8.0,7.5,7.69
+East Asia & Pacific,2017,High,"Korea, Rep.",8.25,7.4,9.8,8.3,9.1,8.8,9.6,9.0,8.78,7.0,6.5,9.6,8.0,7.5,7.72
+East Asia & Pacific,2016,High,"Korea, Rep.",8.26,7.4,9.7,10.0,8.8,8.2,9.4,9.0,8.84,7.0,6.4,9.6,7.9,7.5,7.68
+East Asia & Pacific,2015,High,"Korea, Rep.",8.17,7.6,9.7,8.3,8.8,8.2,9.4,9.0,8.7,7.0,6.4,9.7,7.7,7.4,7.63
+East Asia & Pacific,2014,High,"Korea, Rep.",8.2,7.7,9.7,8.3,8.4,8.2,9.4,10.0,8.81,6.9,6.2,9.6,7.8,7.5,7.58
+East Asia & Pacific,2013,High,"Korea, Rep.",8.15,7.6,9.7,8.3,8.5,8.4,9.0,10.0,8.76,6.9,6.1,9.6,7.6,7.4,7.53
+East Asia & Pacific,2012,High,"Korea, Rep.",8.17,7.6,9.7,8.3,8.5,8.4,9.1,10.0,8.76,6.9,6.3,9.5,7.7,7.4,7.58
+East Asia & Pacific,2011,High,"Korea, Rep.",8.17,7.5,9.7,8.3,8.5,8.4,9.0,10.0,8.73,7.2,6.4,9.5,7.7,7.3,7.6
+East Asia & Pacific,2010,High,"Korea, Rep.",8.18,7.5,9.7,8.3,8.8,8.4,8.9,10.0,8.75,7.1,6.4,9.6,7.6,7.3,7.6
+East Asia & Pacific,2009,High,"Korea, Rep.",8.09,7.5,9.7,8.3,8.6,8.4,8.6,10.0,8.7,6.9,6.4,9.5,7.6,7.0,7.47
+East Asia & Pacific,2008,High,"Korea, Rep.",8.13,7.5,9.7,8.3,8.8,8.4,8.9,10.0,8.76,7.2,6.6,9.5,7.4,6.8,7.5
+Middle East & North Africa,2018,High,Kuwait,6.39,5.5,7.9,6.7,5.2,4.8,7.9,3.8,6.18,5.7,4.9,8.2,7.3,7.0,6.6
+Middle East & North Africa,2017,High,Kuwait,6.36,5.3,7.9,6.7,5.1,4.8,7.9,3.8,6.15,5.7,4.9,8.4,7.1,6.8,6.56
+Middle East & North Africa,2016,High,Kuwait,6.27,5.2,7.9,6.7,5.0,3.8,8.1,2.5,5.89,5.4,4.8,8.3,7.2,7.5,6.64
+Middle East & North Africa,2015,High,Kuwait,5.97,5.2,7.1,5.0,5.3,3.8,7.7,2.5,5.51,5.3,4.8,7.6,7.1,7.4,6.43
+Middle East & North Africa,2014,High,Kuwait,6.15,5.2,7.6,5.0,6.2,3.8,7.7,2.5,5.7,5.3,4.8,8.3,7.1,7.5,6.6
+Middle East & North Africa,2013,High,Kuwait,6.28,5.7,7.9,5.0,6.2,4.3,6.4,2.5,5.86,5.5,4.8,7.8,7.7,7.6,6.69
+Middle East & North Africa,2012,High,Kuwait,6.29,5.7,8.3,3.3,6.3,4.2,6.9,2.5,5.85,5.3,5.3,7.9,7.6,7.4,6.72
+Middle East & North Africa,2011,High,Kuwait,6.31,6.2,8.3,3.3,6.4,4.2,6.9,2.5,5.98,5.0,5.3,7.9,7.8,7.2,6.64
+Middle East & North Africa,2010,High,Kuwait,6.43,6.3,8.7,5.0,6.6,3.2,6.8,2.5,6.17,5.0,5.2,8.1,7.9,7.2,6.68
+Middle East & North Africa,2009,High,Kuwait,6.55,6.3,8.8,5.0,6.7,3.2,7.1,2.5,6.22,5.6,5.2,7.9,7.8,7.9,6.87
+Middle East & North Africa,2008,High,Kuwait,6.51,6.3,9.0,3.3,6.3,3.2,7.4,2.5,6.09,5.2,5.2,8.5,7.7,8.0,6.92
+Europe & Central Asia,2018,Lower middle,Kyrgyz Republic,7.05,4.1,8.8,8.3,5.8,6.9,7.8,10.0,7.1,7.1,4.3,9.2,7.2,7.0,6.99
+Europe & Central Asia,2017,Lower middle,Kyrgyz Republic,6.96,3.8,8.5,8.3,5.6,6.2,7.8,10.0,6.87,7.3,4.4,9.3,7.4,6.8,7.05
+Europe & Central Asia,2016,Lower middle,Kyrgyz Republic,6.78,3.8,8.1,8.3,5.6,6.1,7.2,8.2,6.5,7.2,4.5,9.4,7.4,6.7,7.06
+Europe & Central Asia,2015,Lower middle,Kyrgyz Republic,6.49,4.0,7.6,5.0,5.3,6.3,7.2,8.2,6.1,7.2,4.5,8.6,7.3,6.8,6.88
+Europe & Central Asia,2014,Lower middle,Kyrgyz Republic,6.6,3.9,7.5,5.0,5.4,6.6,7.2,8.8,6.14,7.7,4.5,8.7,7.3,7.0,7.05
+Europe & Central Asia,2013,Lower middle,Kyrgyz Republic,6.46,3.8,7.5,5.0,5.3,6.7,7.2,8.8,6.14,7.6,4.6,8.3,6.6,6.8,6.78
+Europe & Central Asia,2012,Low,Kyrgyz Republic,6.42,3.8,7.3,5.0,5.4,7.1,7.1,8.8,6.11,7.6,4.8,8.4,6.4,6.4,6.72
+Europe & Central Asia,2011,Low,Kyrgyz Republic,6.42,4.0,6.8,5.0,5.6,7.3,7.1,8.8,6.07,7.6,4.7,7.9,6.8,6.8,6.76
+Europe & Central Asia,2010,Low,Kyrgyz Republic,6.38,4.0,6.0,6.7,5.8,7.0,6.4,8.8,5.96,7.5,4.7,8.2,6.8,6.9,6.8
+Europe & Central Asia,2009,Low,Kyrgyz Republic,6.6,4.0,7.6,6.7,5.5,5.7,7.2,8.8,6.28,7.5,4.6,8.3,6.7,7.4,6.91
+Europe & Central Asia,2008,Low,Kyrgyz Republic,6.62,4.0,8.1,6.7,5.4,5.6,7.5,8.8,6.42,7.5,4.8,7.6,7.1,7.2,6.81
+East Asia & Pacific,2018,Lower middle,Lao PDR,6.16,3.8,8.5,5.0,4.7,1.7,6.3,8.8,5.7,7.1,4.8,7.5,7.3,6.4,6.62
+East Asia & Pacific,2017,Lower middle,Lao PDR,6.07,3.8,8.5,5.0,4.5,1.1,6.3,8.8,5.62,6.8,4.8,7.4,7.3,6.4,6.52
+East Asia & Pacific,2016,Lower middle,Lao PDR,6.06,3.9,8.0,5.0,4.5,1.0,6.5,10.0,5.68,6.7,5.1,7.3,6.5,6.4,6.43
+East Asia & Pacific,2015,Lower middle,Lao PDR,6.05,3.9,7.9,5.0,5.0,1.0,6.5,10.0,5.71,6.8,5.14,7.3,6.5,6.2,6.39
+East Asia & Pacific,2014,Lower middle,Lao PDR,6.07,4.0,7.7,5.0,5.1,1.0,6.5,10.0,5.69,6.6,5.76,7.2,6.5,6.2,6.44
+East Asia & Pacific,2013,Lower middle,Lao PDR,,,,,2.7,1.3,,,,4.2,5.75,,,3.1,
+East Asia & Pacific,2012,Lower middle,Lao PDR,,,,,2.6,1.3,,,,2.7,5.73,,,,
+East Asia & Pacific,2011,Lower middle,Lao PDR,,,,,2.6,1.3,,,,3.6,5.72,,,,
+East Asia & Pacific,2010,Lower middle,Lao PDR,,,,,2.6,1.3,,,,2.9,5.7,,,,
+East Asia & Pacific,2009,Low,Lao PDR,,,,,2.6,1.0,,,,3.3,5.7,,,,
+East Asia & Pacific,2008,Low,Lao PDR,,,,,2.6,1.0,,,,3.5,5.7,,,,
+Europe & Central Asia,2018,High,Latvia,8.34,6.7,9.4,10.0,8.5,9.5,9.6,10.0,8.78,6.6,6.8,9.3,8.6,8.2,7.89
+Europe & Central Asia,2017,High,Latvia,8.39,6.7,9.6,10.0,8.5,9.5,9.6,10.0,8.81,7.2,6.6,9.1,8.6,8.2,7.97
+Europe & Central Asia,2016,High,Latvia,8.42,6.7,9.6,10.0,8.3,9.5,9.6,10.0,8.81,7.4,6.6,9.3,8.6,8.2,8.02
+Europe & Central Asia,2015,High,Latvia,8.45,6.5,9.6,10.0,8.5,9.5,9.6,10.0,8.77,7.3,6.7,9.5,8.6,8.5,8.12
+Europe & Central Asia,2014,High,Latvia,8.4,6.5,9.6,10.0,7.7,9.5,9.6,10.0,8.69,7.4,6.8,9.3,8.8,8.3,8.11
+Europe & Central Asia,2013,High,Latvia,8.35,6.3,9.7,10.0,8.1,9.5,9.6,10.0,8.72,7.4,6.8,9.2,8.5,8.1,7.97
+Europe & Central Asia,2012,High,Latvia,8.29,6.4,9.5,10.0,8.3,9.3,9.6,10.0,8.69,7.4,6.7,9.0,8.4,8.0,7.88
+Europe & Central Asia,2011,Upper middle,Latvia,8.26,6.5,9.6,10.0,8.5,9.3,9.6,10.0,8.75,7.1,6.7,9.0,8.4,7.7,7.76
+Europe & Central Asia,2010,Upper middle,Latvia,8.22,6.6,9.6,10.0,8.3,8.8,9.6,10.0,8.7,7.0,6.7,8.9,8.4,7.6,7.74
+Europe & Central Asia,2009,High,Latvia,8.15,6.6,9.2,10.0,8.0,8.7,9.1,10.0,8.52,7.2,6.6,8.9,8.4,7.7,7.78
+Europe & Central Asia,2008,Upper middle,Latvia,8.27,6.6,9.2,10.0,8.5,8.7,9.7,10.0,8.65,7.5,6.7,8.9,8.4,7.8,7.88
+Middle East & North Africa,2018,Upper middle,Lebanon,6.7,4.2,7.6,10.0,7.1,7.4,8.9,2.5,6.52,8.3,3.9,9.0,6.7,6.5,6.88
+Middle East & North Africa,2017,Upper middle,Lebanon,6.73,4.3,7.0,10.0,7.3,7.4,9.6,2.5,6.5,8.3,3.9,9.4,6.7,6.4,6.95
+Middle East & North Africa,2016,Upper middle,Lebanon,6.78,4.3,7.0,8.3,7.7,7.6,9.0,3.8,6.49,8.5,4.01,9.6,6.8,6.5,7.07
+Middle East & North Africa,2015,Upper middle,Lebanon,6.52,4.1,5.9,6.7,7.7,7.6,9.0,3.8,5.97,8.5,4.02,9.6,6.8,6.4,7.06
+Middle East & North Africa,2014,Upper middle,Lebanon,6.45,4.5,5.3,5.0,8.1,7.8,9.0,3.8,5.81,8.3,3.9,9.7,6.9,6.5,7.08
+Middle East & North Africa,2013,Upper middle,Lebanon,6.65,4.9,5.9,8.3,8.2,7.8,9.1,1.3,6.17,8.2,3.8,9.6,7.4,6.6,7.12
+Middle East & North Africa,2012,Upper middle,Lebanon,6.84,4.9,7.9,8.3,8.5,8.1,7.9,1.3,6.6,8.2,3.9,9.4,7.2,6.6,7.07
+Middle East & North Africa,2011,Upper middle,Lebanon,6.84,5.3,7.8,5.0,8.3,8.1,9.1,1.3,6.45,8.8,4.0,9.4,7.2,6.8,7.23
+Middle East & North Africa,2010,Upper middle,Lebanon,6.74,5.3,8.1,5.0,8.3,8.0,7.2,1.3,6.34,8.8,4.0,9.3,7.3,6.2,7.13
+Middle East & North Africa,2009,Upper middle,Lebanon,,,,,8.6,7.4,,,,8.6,4.0,,,,
+Middle East & North Africa,2008,Upper middle,Lebanon,,,,,8.6,7.3,,,,8.6,4.0,,,,
+Sub-Saharan Africa,2018,Lower middle,Lesotho,6.6,4.6,5.5,10.0,8.7,8.3,8.3,5.0,6.55,6.2,4.9,8.0,6.6,7.5,6.65
+Sub-Saharan Africa,2017,Lower middle,Lesotho,6.66,4.7,5.7,10.0,8.7,8.5,8.3,5.0,6.65,6.1,5.2,7.8,6.6,7.5,6.67
+Sub-Saharan Africa,2016,Lower middle,Lesotho,6.66,4.9,5.3,10.0,8.9,8.5,8.4,5.8,6.72,5.6,5.2,7.8,6.8,7.5,6.59
+Sub-Saharan Africa,2015,Lower middle,Lesotho,6.76,4.9,5.6,10.0,8.8,8.5,8.4,5.8,6.8,5.9,5.4,7.9,6.7,7.6,6.71
+Sub-Saharan Africa,2014,Lower middle,Lesotho,6.74,4.8,5.5,10.0,7.6,8.5,8.5,8.8,6.91,5.7,5.0,7.7,6.7,7.7,6.57
+Sub-Saharan Africa,2013,Lower middle,Lesotho,6.64,4.9,5.7,10.0,7.8,8.5,8.5,6.3,6.74,5.8,4.9,8.2,6.2,7.7,6.54
+Sub-Saharan Africa,2012,Lower middle,Lesotho,6.32,4.8,4.4,10.0,7.4,8.4,8.4,6.3,6.36,5.4,4.7,7.9,5.7,7.6,6.27
+Sub-Saharan Africa,2011,Lower middle,Lesotho,6.4,5.1,4.4,10.0,7.5,8.4,8.4,6.3,6.45,5.9,4.5,8.0,6.0,7.3,6.35
+Sub-Saharan Africa,2010,Lower middle,Lesotho,6.18,5.1,4.0,8.3,7.6,8.4,8.4,6.3,6.18,5.5,4.4,7.8,5.8,7.3,6.17
+Sub-Saharan Africa,2009,Lower middle,Lesotho,6.22,5.2,4.0,8.3,7.8,8.4,8.1,6.3,6.19,5.9,4.5,7.7,5.8,7.3,6.24
+Sub-Saharan Africa,2008,Lower middle,Lesotho,6.25,5.2,4.2,8.3,7.9,8.4,8.4,6.3,6.27,6.4,4.5,7.4,5.6,7.3,6.23
+Sub-Saharan Africa,2018,Low,Liberia,6.4,4.0,7.8,8.3,8.6,9.0,8.3,1.3,6.51,6.5,4.3,8.1,6.4,6.2,6.28
+Sub-Saharan Africa,2017,Low,Liberia,6.49,3.8,7.7,8.3,9.1,8.8,8.3,1.3,6.46,6.6,4.4,8.9,6.3,6.3,6.51
+Sub-Saharan Africa,2016,Low,Liberia,6.53,3.8,7.6,6.7,9.1,8.9,8.1,2.5,6.38,7.4,4.27,9.3,6.3,6.1,6.67
+Sub-Saharan Africa,2015,Low,Liberia,6.53,3.7,7.6,6.7,9.0,8.9,8.2,2.5,6.36,7.1,4.4,9.1,6.5,6.3,6.7
+Sub-Saharan Africa,2014,Low,Liberia,6.75,4.1,7.6,6.7,9.1,8.9,8.1,2.5,6.44,8.2,4.48,9.1,6.0,7.6,7.06
+Sub-Saharan Africa,2013,Low,Liberia,,,,,9.1,8.9,,,,8.1,4.51,,,5.4,
+Sub-Saharan Africa,2012,Low,Liberia,,,,,8.8,8.8,,,,8.1,4.5,,,4.9,
+Sub-Saharan Africa,2011,Low,Liberia,,,,,8.8,8.8,,,,7.8,4.49,,,5.8,
+Sub-Saharan Africa,2010,Low,Liberia,,,,,8.8,8.8,,,,9.1,4.5,,,5.5,
+Sub-Saharan Africa,2009,Low,Liberia,,,,,8.7,8.8,,,,9.1,4.5,,,,
+Sub-Saharan Africa,2008,Low,Liberia,,,,,8.7,8.9,,,,9.1,4.2,,,,
+Middle East & North Africa,2018,Upper middle,Libya,4.83,2.2,7.1,5.8,4.7,5.4,6.3,3.8,4.93,4.7,3.8,7.2,2.0,6.0,4.72
+Middle East & North Africa,2017,Upper middle,Libya,4.85,2.3,6.9,5.8,5.1,6.2,7.1,3.8,5.1,4.9,3.8,6.4,2.0,6.0,4.6
+Middle East & North Africa,2016,Upper middle,Libya,4.69,2.3,5.3,6.7,5.1,6.1,5.3,1.3,4.35,4.6,3.36,6.4,4.4,6.4,5.02
+Middle East & North Africa,2015,Upper middle,Libya,4.68,2.6,5.0,5.0,5.2,6.1,6.1,1.3,4.26,4.6,3.37,7.0,4.4,6.2,5.1
+Middle East & North Africa,2014,Upper middle,Libya,4.77,2.8,5.0,5.0,6.4,5.9,6.1,1.3,4.43,4.9,4.07,6.0,4.3,6.2,5.11
+Middle East & North Africa,2013,Upper middle,Libya,5.03,3.2,5.8,5.0,6.2,7.1,7.6,1.3,4.97,3.7,4.08,5.8,5.4,6.5,5.09
+Middle East & North Africa,2012,Upper middle,Libya,,,,,4.0,7.2,,,,1.7,4.18,,,,
+Middle East & North Africa,2011,Upper middle,Libya,,,,,2.1,5.9,,,,1.1,4.0,,,,
+Middle East & North Africa,2010,Upper middle,Libya,,,,,0.6,0.5,,,,0.5,3.9,,,,
+Middle East & North Africa,2009,Upper middle,Libya,,,,,0.6,0.5,,,,0.1,3.9,,,,
+Middle East & North Africa,2008,Upper middle,Libya,,,,,0.6,0.6,,,,0.1,3.9,,,,
+Europe & Central Asia,2018,High,Lithuania,8.37,6.7,9.4,10.0,8.2,8.8,10.0,9.2,8.64,7.5,7.0,9.3,8.5,8.2,8.1
+Europe & Central Asia,2017,High,Lithuania,8.35,6.8,9.4,10.0,8.2,8.7,10.0,9.2,8.65,7.7,6.9,9.0,8.4,8.2,8.05
+Europe & Central Asia,2016,High,Lithuania,8.4,6.8,9.3,10.0,8.2,8.8,9.7,10.0,8.7,7.7,6.8,9.3,8.4,8.2,8.09
+Europe & Central Asia,2015,High,Lithuania,8.42,6.9,9.2,10.0,8.8,8.9,9.7,10.0,8.76,7.5,6.8,9.4,8.3,8.2,8.07
+Europe & Central Asia,2014,High,Lithuania,8.39,6.6,9.3,10.0,8.5,8.9,9.6,10.0,8.66,7.6,6.8,9.4,8.2,8.6,8.12
+Europe & Central Asia,2013,High,Lithuania,8.27,6.4,9.1,10.0,8.5,8.9,9.7,10.0,8.6,7.6,6.7,9.1,7.9,8.4,7.94
+Europe & Central Asia,2012,High,Lithuania,8.17,6.5,9.1,10.0,8.7,9.1,9.7,10.0,8.64,7.3,6.7,8.9,7.7,7.8,7.69
+Europe & Central Asia,2011,Upper middle,Lithuania,8.17,6.6,9.1,10.0,8.9,9.1,9.7,10.0,8.68,7.1,6.8,9.2,7.9,7.2,7.65
+Europe & Central Asia,2010,Upper middle,Lithuania,8.11,6.6,9.1,10.0,9.0,8.6,9.7,10.0,8.63,6.6,6.8,9.4,7.9,7.2,7.58
+Europe & Central Asia,2009,Upper middle,Lithuania,8.05,6.5,8.9,10.0,9.1,8.6,9.9,10.0,8.62,6.8,6.7,9.2,7.9,6.8,7.48
+Europe & Central Asia,2008,Upper middle,Lithuania,8.01,6.5,8.8,10.0,8.8,8.6,9.7,10.0,8.53,7.0,6.8,9.0,8.2,6.4,7.49
+Europe & Central Asia,2018,High,Luxembourg,8.49,8.1,10.0,10.0,8.6,9.5,10.0,9.0,9.22,5.5,7.8,9.3,8.2,8.0,7.75
+Europe & Central Asia,2017,High,Luxembourg,8.47,8.0,10.0,10.0,8.6,9.5,10.0,9.0,9.2,5.6,7.8,9.2,8.1,8.0,7.73
+Europe & Central Asia,2016,High,Luxembourg,8.44,8.0,9.9,10.0,8.6,9.5,9.8,9.0,9.16,5.4,7.8,9.3,8.1,8.0,7.71
+Europe & Central Asia,2015,High,Luxembourg,8.48,8.3,9.9,10.0,8.5,9.5,9.8,9.0,9.22,5.3,7.8,9.5,8.1,8.0,7.73
+Europe & Central Asia,2014,High,Luxembourg,8.55,8.0,9.9,10.0,8.6,9.5,9.9,10.0,9.27,5.7,7.8,9.5,8.3,7.9,7.83
+Europe & Central Asia,2013,High,Luxembourg,8.45,7.9,10.0,10.0,8.4,9.4,9.7,10.0,9.23,5.5,7.7,9.2,8.0,7.8,7.67
+Europe & Central Asia,2012,High,Luxembourg,8.37,7.9,10.0,10.0,8.3,9.4,9.7,10.0,9.21,5.0,7.7,9.3,7.9,7.8,7.52
+Europe & Central Asia,2011,High,Luxembourg,8.39,8.0,9.9,10.0,8.4,9.4,9.8,10.0,9.23,5.1,7.7,9.4,8.0,7.7,7.55
+Europe & Central Asia,2010,High,Luxembourg,8.37,8.0,9.7,10.0,8.6,9.4,9.8,10.0,9.21,4.8,7.7,9.4,8.1,7.7,7.53
+Europe & Central Asia,2009,High,Luxembourg,8.35,8.0,9.9,10.0,8.4,9.4,8.6,10.0,9.1,5.2,7.7,9.6,8.1,7.4,7.59
+Europe & Central Asia,2008,High,Luxembourg,8.41,7.9,9.6,10.0,8.3,9.4,9.8,10.0,9.13,5.8,7.8,9.4,8.1,7.4,7.69
+Sub-Saharan Africa,2018,Low,Madagascar,6.54,3.7,8.4,7.5,8.3,7.3,9.2,6.3,6.88,7.5,2.9,7.7,6.7,6.2,6.2
+Sub-Saharan Africa,2017,Low,Madagascar,6.49,3.6,8.4,7.5,8.1,7.3,9.2,6.3,6.83,7.6,3.2,7.6,6.4,5.9,6.14
+Sub-Saharan Africa,2016,Low,Madagascar,6.67,3.6,7.9,10.0,8.1,7.5,9.0,7.5,7.09,7.9,3.1,7.9,6.6,5.8,6.25
+Sub-Saharan Africa,2015,Low,Madagascar,6.76,3.7,8.0,10.0,8.1,7.4,9.0,7.5,7.12,8.3,3.1,8.0,6.8,5.8,6.4
+Sub-Saharan Africa,2014,Low,Madagascar,6.86,4.9,8.0,8.3,8.6,7.4,9.0,7.5,7.28,8.1,3.1,8.0,7.0,5.9,6.43
+Sub-Saharan Africa,2013,Low,Madagascar,6.79,3.5,8.0,8.3,8.0,7.9,8.9,7.5,6.93,8.7,3.0,8.1,7.2,6.2,6.64
+Sub-Saharan Africa,2012,Low,Madagascar,6.42,3.5,6.8,8.3,7.1,7.2,8.8,7.5,6.46,8.6,3.1,8.0,6.1,6.0,6.37
+Sub-Saharan Africa,2011,Low,Madagascar,6.52,4.9,6.8,8.3,7.1,7.2,8.9,7.5,6.82,8.1,3.1,7.9,6.1,5.9,6.21
+Sub-Saharan Africa,2010,Low,Madagascar,6.72,4.9,8.1,8.3,7.1,7.2,8.8,7.5,7.15,8.1,3.1,7.9,6.2,6.2,6.29
+Sub-Saharan Africa,2009,Low,Madagascar,6.72,4.9,8.3,8.3,6.9,7.3,8.8,7.5,7.19,8.6,3.2,7.5,6.2,5.6,6.24
+Sub-Saharan Africa,2008,Low,Madagascar,6.83,4.9,8.3,10.0,7.3,7.9,9.2,7.5,7.47,7.9,3.2,7.7,6.3,5.8,6.18
+Sub-Saharan Africa,2018,Low,Malawi,6.57,5.1,8.8,7.5,8.5,7.8,9.2,5.8,7.35,5.9,5.3,6.9,4.6,6.2,5.79
+Sub-Saharan Africa,2017,Low,Malawi,6.69,4.9,8.8,7.5,8.0,8.4,9.2,5.8,7.32,5.9,5.0,7.0,6.3,6.1,6.06
+Sub-Saharan Africa,2016,Low,Malawi,6.71,4.9,8.8,8.3,8.3,8.3,8.5,6.7,7.44,6.5,4.9,6.6,5.7,6.1,5.98
+Sub-Saharan Africa,2015,Low,Malawi,6.63,4.9,8.8,8.3,8.5,8.5,8.5,6.7,7.47,6.3,4.9,6.2,5.6,5.9,5.79
+Sub-Saharan Africa,2014,Low,Malawi,6.69,5.6,8.8,8.3,8.1,8.4,8.4,5.0,7.42,6.6,5.3,5.8,5.6,6.4,5.95
+Sub-Saharan Africa,2013,Low,Malawi,6.69,5.2,8.8,6.7,8.2,8.5,8.3,7.5,7.4,6.1,5.4,5.7,6.0,6.7,5.98
+Sub-Saharan Africa,2012,Low,Malawi,6.83,5.2,9.5,6.7,8.5,7.9,8.3,7.5,7.56,6.1,5.3,6.6,5.9,6.6,6.09
+Sub-Saharan Africa,2011,Low,Malawi,7.01,4.8,9.5,8.3,8.6,7.7,8.0,7.5,7.58,6.6,5.2,7.4,6.2,6.8,6.43
+Sub-Saharan Africa,2010,Low,Malawi,6.73,4.8,8.2,8.3,8.5,7.7,8.2,7.5,7.29,7.1,5.4,5.7,5.8,6.8,6.17
+Sub-Saharan Africa,2009,Low,Malawi,6.75,4.8,8.4,8.3,8.6,7.8,7.7,7.5,7.29,7.0,5.6,5.7,5.7,7.0,6.2
+Sub-Saharan Africa,2008,Low,Malawi,6.67,4.8,8.0,8.3,8.4,7.8,8.2,7.5,7.21,6.7,5.7,5.6,5.7,6.9,6.12
+East Asia & Pacific,2018,Upper middle,Malaysia,6.9,5.7,8.5,5.0,4.8,6.1,8.3,2.3,6.21,6.5,5.5,9.7,7.6,8.5,7.58
+East Asia & Pacific,2017,Upper middle,Malaysia,6.77,5.4,8.5,5.0,4.4,5.1,7.9,2.3,5.97,6.7,5.3,9.6,7.6,8.6,7.56
+East Asia & Pacific,2016,Upper middle,Malaysia,6.75,5.4,8.0,5.0,4.5,5.1,7.5,4.0,5.98,6.5,5.6,9.7,7.3,8.5,7.52
+East Asia & Pacific,2015,Upper middle,Malaysia,6.74,5.4,8.1,5.0,4.9,5.1,7.5,4.0,6.03,6.3,5.5,9.5,7.3,8.6,7.44
+East Asia & Pacific,2014,Upper middle,Malaysia,6.57,4.4,8.0,5.0,6.5,5.1,7.6,2.5,5.78,6.1,5.5,9.3,7.3,8.5,7.36
+East Asia & Pacific,2013,Upper middle,Malaysia,6.56,5.2,8.0,5.0,6.5,5.1,6.8,2.5,5.88,5.8,5.4,9.1,7.3,8.6,7.24
+East Asia & Pacific,2012,Upper middle,Malaysia,6.38,5.2,8.9,5.0,6.4,5.3,6.8,2.5,6.12,5.7,5.3,6.5,7.2,8.4,6.63
+East Asia & Pacific,2011,Upper middle,Malaysia,6.46,5.8,8.9,5.0,6.7,5.3,6.8,2.5,6.31,5.7,5.4,6.5,7.2,8.3,6.61
+East Asia & Pacific,2010,Upper middle,Malaysia,6.42,5.8,8.9,5.0,6.5,5.8,6.1,2.5,6.26,5.7,5.3,6.5,7.0,8.3,6.57
+East Asia & Pacific,2009,Upper middle,Malaysia,6.42,5.8,8.9,6.7,6.7,5.8,6.4,2.5,6.47,5.4,5.1,6.5,6.9,7.9,6.37
+East Asia & Pacific,2008,Upper middle,Malaysia,6.37,5.8,8.9,5.0,6.5,5.8,6.1,2.5,6.26,5.5,5.3,6.6,7.2,7.8,6.47
+Sub-Saharan Africa,2018,Low,Mali,5.92,3.6,3.7,10.0,8.0,7.5,7.9,7.5,5.9,5.7,3.5,7.3,6.7,6.4,5.93
+Sub-Saharan Africa,2017,Low,Mali,5.95,3.9,4.1,10.0,7.9,7.2,7.9,7.5,6.05,5.4,3.6,7.2,6.6,6.3,5.85
+Sub-Saharan Africa,2016,Low,Mali,5.92,3.9,4.9,8.3,7.7,7.3,8.1,6.3,5.98,5.5,3.6,7.2,6.6,6.3,5.85
+Sub-Saharan Africa,2015,Low,Mali,5.87,4.0,4.7,8.3,7.4,7.3,8.1,6.3,5.9,5.7,3.7,7.0,6.6,6.3,5.84
+Sub-Saharan Africa,2014,Low,Mali,5.8,4.1,4.8,8.3,6.0,7.3,8.1,6.3,5.83,5.4,3.7,6.9,6.7,6.1,5.77
+Sub-Saharan Africa,2013,Low,Mali,5.69,4.1,4.4,6.7,6.0,7.8,6.6,6.3,5.45,6.3,3.6,6.9,6.6,6.3,5.93
+Sub-Saharan Africa,2012,Low,Mali,5.84,4.2,4.4,6.7,6.4,8.1,7.1,6.3,5.62,7.5,3.9,6.4,6.1,6.4,6.06
+Sub-Saharan Africa,2011,Low,Mali,5.92,4.8,4.8,6.7,6.4,8.2,7.5,6.3,5.9,6.7,4.1,6.6,6.1,6.1,5.93
+Sub-Saharan Africa,2010,Low,Mali,6.24,4.9,4.6,10.0,6.6,8.2,9.6,6.3,6.44,7.1,3.9,6.9,6.2,6.2,6.04
+Sub-Saharan Africa,2009,Low,Mali,6.17,5.0,4.4,8.3,6.7,8.2,9.7,6.3,6.27,6.6,4.0,6.8,6.1,6.9,6.07
+Sub-Saharan Africa,2008,Low,Mali,6.12,5.1,4.3,8.3,6.8,8.2,9.6,6.3,6.26,7.1,3.6,6.3,6.1,6.8,5.98
+Middle East & North Africa,2018,High,Malta,8.33,6.9,9.8,10.0,7.5,9.3,9.6,9.2,8.72,6.9,6.1,9.5,8.6,8.5,7.94
+Middle East & North Africa,2017,High,Malta,8.3,7.0,9.8,10.0,7.5,9.4,7.9,9.2,8.61,7.0,6.3,9.4,8.7,8.5,7.98
+Middle East & North Africa,2016,High,Malta,8.42,6.8,9.9,10.0,7.5,9.6,9.7,10.0,8.84,7.0,6.5,9.5,8.7,8.3,8.0
+Middle East & North Africa,2015,High,Malta,8.44,7.1,9.9,10.0,7.6,9.6,9.7,10.0,8.93,6.7,6.5,9.7,8.6,8.3,7.95
+Middle East & North Africa,2014,High,Malta,8.36,6.9,9.8,10.0,6.7,9.6,9.7,10.0,8.78,6.4,6.8,9.6,8.8,8.1,7.94
+Middle East & North Africa,2013,High,Malta,8.36,7.2,9.8,10.0,6.7,9.6,9.7,10.0,8.85,6.7,6.8,9.5,8.4,7.9,7.87
+Middle East & North Africa,2012,High,Malta,8.29,7.2,9.6,10.0,6.3,9.6,9.7,10.0,8.77,6.5,6.9,9.5,8.4,7.8,7.8
+Middle East & North Africa,2011,High,Malta,8.37,7.3,9.9,10.0,6.5,9.6,9.7,10.0,8.87,6.8,6.8,9.5,8.5,7.7,7.86
+Middle East & North Africa,2010,High,Malta,8.34,7.4,9.9,10.0,6.7,9.6,9.7,10.0,8.93,6.8,6.8,9.5,8.4,7.2,7.75
+Middle East & North Africa,2009,High,Malta,8.34,7.5,9.9,10.0,6.9,9.6,9.8,10.0,8.99,6.8,6.6,9.5,8.4,7.2,7.69
+Middle East & North Africa,2008,High,Malta,8.3,7.7,9.8,10.0,6.9,9.4,9.7,10.0,8.97,6.6,6.7,9.5,8.4,7.0,7.62
+Sub-Saharan Africa,2018,Lower middle,Mauritania,5.39,3.6,5.6,6.7,4.3,5.5,6.3,0.0,4.56,6.2,4.0,8.0,6.0,7.0,6.22
+Sub-Saharan Africa,2017,Lower middle,Mauritania,5.46,4.2,5.6,6.7,4.2,5.4,6.3,0.0,4.7,6.3,4.0,8.0,5.9,6.9,6.21
+Sub-Saharan Africa,2016,Lower middle,Mauritania,5.38,4.0,5.5,5.0,5.0,5.9,6.2,0.0,4.58,6.2,3.9,8.1,5.8,6.9,6.17
+Sub-Saharan Africa,2015,Lower middle,Mauritania,5.34,3.8,5.1,8.3,5.4,5.9,6.2,0.0,4.83,5.6,3.5,7.7,5.8,6.5,5.84
+Sub-Saharan Africa,2014,Lower middle,Mauritania,5.38,3.8,5.1,8.3,6.1,5.9,6.3,0.0,4.9,5.7,3.6,7.0,6.3,6.7,5.85
+Sub-Saharan Africa,2013,Lower middle,Mauritania,5.3,3.7,5.5,5.0,6.2,6.0,8.0,0.0,4.8,6.1,3.6,6.9,6.0,6.5,5.8
+Sub-Saharan Africa,2012,Lower middle,Mauritania,5.4,3.8,5.0,5.0,6.2,7.0,8.0,0.0,4.83,6.3,3.9,6.9,6.0,6.7,5.97
+Sub-Saharan Africa,2011,Low,Mauritania,5.55,4.2,4.8,6.7,6.3,7.0,7.9,0.0,5.05,6.3,4.0,6.8,6.2,6.9,6.04
+Sub-Saharan Africa,2010,Lower middle,Mauritania,5.51,4.3,6.0,5.0,6.2,6.5,8.0,0.0,5.14,6.5,4.0,6.5,5.9,6.6,5.88
+Sub-Saharan Africa,2009,Low,Mauritania,5.66,4.4,6.0,5.0,6.4,6.5,8.1,0.0,5.19,6.9,3.9,6.7,5.8,7.2,6.12
+Sub-Saharan Africa,2008,Low,Mauritania,5.59,4.0,6.0,5.0,6.5,6.5,7.9,0.0,5.07,7.2,3.3,6.8,5.9,7.3,6.1
+Sub-Saharan Africa,2018,Upper middle,Mauritius,7.55,6.0,8.8,4.2,8.2,8.8,9.6,1.3,6.89,8.1,6.5,9.5,8.5,8.4,8.21
+Sub-Saharan Africa,2017,Upper middle,Mauritius,7.49,6.3,8.9,4.2,8.4,8.5,9.6,1.3,6.99,8.1,6.4,9.3,8.5,7.6,7.99
+Sub-Saharan Africa,2016,Upper middle,Mauritius,7.72,6.4,8.9,6.7,7.7,8.5,9.6,3.8,7.45,7.9,6.3,9.6,8.5,7.7,7.98
+Sub-Saharan Africa,2015,Upper middle,Mauritius,7.76,6.6,8.9,6.7,7.9,8.5,9.6,3.8,7.53,8.0,5.9,9.6,8.4,8.1,7.99
+Sub-Saharan Africa,2014,Upper middle,Mauritius,7.88,6.5,9.0,10.0,8.9,8.5,9.6,3.8,7.94,7.7,5.4,9.6,8.5,7.9,7.82
+Sub-Saharan Africa,2013,Upper middle,Mauritius,8.03,6.6,8.8,10.0,8.9,8.5,9.6,6.3,8.18,7.8,5.4,9.7,8.5,8.0,7.88
+Sub-Saharan Africa,2012,Upper middle,Mauritius,8.22,6.7,9.7,10.0,9.3,8.7,9.6,6.3,8.47,8.1,5.5,9.4,8.5,8.3,7.97
+Sub-Saharan Africa,2011,Upper middle,Mauritius,8.2,6.7,9.6,10.0,9.3,8.7,9.6,6.3,8.48,8.1,5.5,9.2,8.5,8.3,7.92
+Sub-Saharan Africa,2010,Upper middle,Mauritius,8.17,6.7,9.6,10.0,9.3,8.7,9.1,6.3,8.41,8.0,5.4,9.3,8.5,8.4,7.92
+Sub-Saharan Africa,2009,Upper middle,Mauritius,8.11,6.8,9.5,10.0,9.3,8.7,8.4,6.3,8.33,8.2,5.4,9.2,8.5,8.1,7.89
+Sub-Saharan Africa,2008,Upper middle,Mauritius,8.17,6.9,9.5,10.0,9.2,8.7,9.1,6.3,8.41,8.7,5.4,9.0,8.5,7.9,7.92
+Latin America & Caribbean,2018,Upper middle,Mexico,6.85,3.8,5.4,10.0,8.1,8.2,9.0,6.7,6.49,8.4,4.7,8.1,7.7,7.1,7.21
+Latin America & Caribbean,2017,Upper middle,Mexico,6.82,3.9,5.4,10.0,7.9,8.0,8.8,6.7,6.48,8.4,4.7,7.9,7.6,7.1,7.16
+Latin America & Caribbean,2016,Upper middle,Mexico,6.93,3.9,5.8,10.0,8.0,8.0,8.4,10.0,6.87,8.0,4.6,8.1,7.3,6.9,6.98
+Latin America & Caribbean,2015,Upper middle,Mexico,7.01,3.8,6.1,10.0,8.0,8.0,8.6,10.0,6.95,7.9,4.7,8.2,7.5,7.0,7.07
+Latin America & Caribbean,2014,Upper middle,Mexico,6.92,4.2,6.2,8.3,7.6,7.9,8.7,10.0,6.84,7.7,4.8,8.1,7.6,6.8,7.0
+Latin America & Caribbean,2013,Upper middle,Mexico,6.87,3.5,6.1,10.0,7.4,7.9,8.8,10.0,6.82,7.1,4.9,8.1,7.4,7.1,6.91
+Latin America & Caribbean,2012,Upper middle,Mexico,6.83,3.5,6.2,10.0,7.3,8.2,8.6,10.0,6.84,7.0,4.9,8.1,7.1,7.0,6.82
+Latin America & Caribbean,2011,Upper middle,Mexico,6.87,4.2,6.0,10.0,7.5,8.2,8.5,10.0,6.98,6.9,5.0,8.1,7.1,6.8,6.75
+Latin America & Caribbean,2010,Upper middle,Mexico,6.92,4.2,6.5,10.0,7.4,7.7,8.4,10.0,7.03,7.0,5.0,8.1,7.0,6.9,6.8
+Latin America & Caribbean,2009,Upper middle,Mexico,6.98,4.2,7.1,10.0,7.6,7.7,9.4,10.0,7.3,6.6,5.0,8.0,7.1,6.7,6.66
+Latin America & Caribbean,2008,Upper middle,Mexico,7.06,4.2,7.8,10.0,7.6,7.7,8.7,10.0,7.39,6.9,5.1,8.0,7.0,6.6,6.72
+Europe & Central Asia,2018,Lower middle,Moldova,7.18,4.6,9.1,8.3,6.8,6.2,7.9,10.0,7.37,7.3,4.7,8.2,7.3,7.5,6.99
+Europe & Central Asia,2017,Lower middle,Moldova,7.14,4.5,9.2,8.3,6.8,7.0,7.9,10.0,7.43,7.2,4.7,8.1,7.2,7.1,6.85
+Europe & Central Asia,2016,Lower middle,Moldova,7.09,4.5,8.4,10.0,6.5,7.0,7.8,10.0,7.35,7.2,4.7,8.0,7.2,7.1,6.82
+Europe & Central Asia,2015,Lower middle,Moldova,7.0,4.5,8.4,8.3,6.7,7.0,7.8,10.0,7.21,7.2,4.6,7.8,7.2,7.1,6.79
+Europe & Central Asia,2014,Lower middle,Moldova,7.06,4.1,8.4,8.3,7.6,7.5,7.9,10.0,7.26,7.3,4.7,7.8,7.2,7.3,6.86
+Europe & Central Asia,2013,Lower middle,Moldova,7.02,4.0,8.3,8.3,7.5,8.1,8.4,10.0,7.29,7.3,4.8,7.6,6.8,7.3,6.75
+Europe & Central Asia,2012,Lower middle,Moldova,7.11,4.0,8.5,8.3,7.7,8.5,8.4,10.0,7.4,7.4,5.4,7.7,6.6,7.0,6.82
+Europe & Central Asia,2011,Lower middle,Moldova,7.1,4.2,8.3,8.3,7.8,8.5,8.3,10.0,7.41,7.4,5.5,7.6,6.6,7.0,6.79
+Europe & Central Asia,2010,Lower middle,Moldova,7.08,4.2,8.8,8.3,7.7,8.6,7.3,10.0,7.45,7.2,5.5,7.4,6.5,7.0,6.71
+Europe & Central Asia,2009,Lower middle,Moldova,6.97,4.2,8.4,8.3,7.4,7.3,9.5,10.0,7.4,6.4,5.5,7.7,6.5,6.5,6.54
+Europe & Central Asia,2008,Lower middle,Moldova,6.97,4.2,8.9,8.3,7.4,6.6,7.8,10.0,7.28,6.8,5.7,7.2,6.8,6.7,6.65
+East Asia & Pacific,2018,Lower middle,Mongolia,7.61,5.2,9.2,8.3,8.5,8.3,8.8,8.2,7.79,7.4,6.0,8.9,7.1,7.7,7.43
+East Asia & Pacific,2017,Lower middle,Mongolia,7.66,5.3,9.2,8.3,8.2,8.6,8.8,8.2,7.81,7.4,6.0,9.2,7.0,7.8,7.5
+East Asia & Pacific,2016,Lower middle,Mongolia,7.6,5.3,9.2,10.0,8.5,8.7,8.6,9.0,8.1,5.8,5.7,9.4,7.1,7.4,7.1
+East Asia & Pacific,2015,Lower middle,Mongolia,7.66,5.3,8.8,10.0,8.8,8.6,8.6,9.0,8.04,7.1,5.7,9.0,7.2,7.3,7.28
+East Asia & Pacific,2014,Upper middle,Mongolia,7.61,5.0,9.0,8.3,9.2,8.7,8.6,10.0,7.99,7.2,5.7,8.5,7.5,7.2,7.22
+East Asia & Pacific,2013,Lower middle,Mongolia,7.7,5.2,9.0,10.0,9.1,8.2,9.4,10.0,8.23,7.6,5.6,7.9,7.4,7.3,7.17
+East Asia & Pacific,2012,Lower middle,Mongolia,7.66,5.2,8.9,10.0,9.5,8.6,9.4,10.0,8.27,7.3,5.8,7.6,7.1,7.5,7.04
+East Asia & Pacific,2011,Lower middle,Mongolia,7.7,5.3,8.5,10.0,9.7,8.6,9.4,10.0,8.23,7.3,5.8,7.8,7.0,7.9,7.17
+East Asia & Pacific,2010,Lower middle,Mongolia,7.59,5.3,8.7,10.0,9.7,8.1,8.2,10.0,8.09,7.7,5.7,7.2,7.0,7.8,7.09
+East Asia & Pacific,2009,Lower middle,Mongolia,7.59,5.3,8.6,10.0,9.6,8.1,8.3,10.0,8.06,7.1,5.7,8.0,7.1,7.6,7.11
+East Asia & Pacific,2008,Lower middle,Mongolia,7.47,5.3,8.6,10.0,9.6,8.1,8.2,10.0,8.06,7.0,5.9,7.5,6.7,7.4,6.87
+Europe & Central Asia,2018,Upper middle,Montenegro,7.46,5.3,9.1,10.0,8.5,7.9,8.3,9.0,7.97,5.7,5.2,8.3,8.3,7.1,6.94
+Europe & Central Asia,2017,Upper middle,Montenegro,7.39,5.2,9.1,10.0,8.4,7.8,8.3,9.0,7.92,5.8,5.0,8.1,8.3,7.1,6.86
+Europe & Central Asia,2016,Upper middle,Montenegro,7.27,5.2,9.2,10.0,8.6,7.9,5.2,9.0,7.67,5.7,5.1,8.1,8.3,7.0,6.86
+Europe & Central Asia,2015,Upper middle,Montenegro,7.53,5.3,9.5,10.0,8.1,7.9,8.6,9.0,8.06,5.7,5.0,8.4,8.3,7.4,6.99
+Europe & Central Asia,2014,Upper middle,Montenegro,7.75,5.3,9.4,10.0,8.2,7.9,8.7,10.0,8.15,6.7,5.3,8.6,8.4,7.7,7.34
+Europe & Central Asia,2013,Upper middle,Montenegro,7.82,5.3,9.6,10.0,7.7,7.9,8.7,10.0,8.15,7.2,5.3,9.8,8.1,7.0,7.49
+Europe & Central Asia,2012,Upper middle,Montenegro,7.69,5.2,9.5,10.0,7.0,7.9,8.8,10.0,8.04,7.4,5.8,8.0,7.7,7.8,7.34
+Europe & Central Asia,2011,Upper middle,Montenegro,7.67,5.5,9.4,10.0,7.1,7.9,8.8,10.0,8.1,7.1,5.9,7.7,7.7,7.7,7.24
+Europe & Central Asia,2010,Upper middle,Montenegro,7.74,5.5,9.5,10.0,7.3,7.9,8.7,10.0,8.14,6.7,6.0,8.3,7.8,7.9,7.34
+Europe & Central Asia,2009,Upper middle,Montenegro,7.62,5.6,9.4,10.0,7.4,7.9,7.6,10.0,8.04,6.2,5.9,8.2,7.9,7.8,7.2
+Europe & Central Asia,2008,Upper middle,Montenegro,7.63,5.4,9.3,10.0,7.2,7.9,8.7,10.0,8.06,6.7,5.8,7.8,8.1,7.6,7.19
+Middle East & North Africa,2018,Lower middle,Morocco,6.28,4.1,7.8,9.2,4.4,6.2,7.7,1.3,5.86,6.4,5.6,7.2,6.9,7.4,6.7
+Middle East & North Africa,2017,Lower middle,Morocco,6.18,4.2,7.7,9.2,4.3,5.1,7.7,1.3,5.74,6.4,5.4,7.3,6.7,7.3,6.61
+Middle East & North Africa,2016,Lower middle,Morocco,6.26,4.2,7.8,10.0,4.2,5.5,8.0,2.5,6.02,6.4,5.2,7.2,6.5,7.2,6.5
+Middle East & North Africa,2015,Lower middle,Morocco,6.15,4.0,7.8,8.3,4.4,5.5,8.0,2.5,5.82,6.3,5.4,7.3,6.4,7.0,6.48
+Middle East & North Africa,2014,Lower middle,Morocco,6.11,3.7,7.5,8.3,5.6,5.5,8.0,2.5,5.81,6.4,5.1,7.4,6.2,6.9,6.4
+Middle East & North Africa,2013,Lower middle,Morocco,6.24,3.7,7.8,8.3,5.6,6.6,8.0,2.5,5.99,6.4,5.1,7.3,6.7,6.9,6.48
+Middle East & North Africa,2012,Lower middle,Morocco,6.22,3.7,7.8,8.3,5.5,6.5,7.9,2.5,5.98,6.4,5.2,7.1,6.7,6.8,6.46
+Middle East & North Africa,2011,Lower middle,Morocco,6.25,4.0,7.5,8.3,5.5,6.5,7.8,2.5,5.94,6.9,5.2,7.2,6.5,7.0,6.55
+Middle East & North Africa,2010,Lower middle,Morocco,6.31,4.0,8.6,8.3,5.5,5.9,7.7,2.5,6.15,7.0,5.2,7.1,6.4,6.7,6.46
+Middle East & North Africa,2009,Lower middle,Morocco,6.29,4.0,8.7,8.3,5.4,5.9,8.2,2.5,6.19,6.9,5.2,7.0,6.2,6.6,6.39
+Middle East & North Africa,2008,Lower middle,Morocco,6.19,4.0,8.7,8.3,5.2,5.8,7.7,2.5,6.13,6.8,5.1,6.7,6.2,6.4,6.25
+Sub-Saharan Africa,2018,Low,Mozambique,6.64,3.5,8.6,10.0,8.8,6.3,7.9,10.0,7.34,5.5,4.4,7.5,6.2,6.2,5.94
+Sub-Saharan Africa,2017,Low,Mozambique,6.52,3.6,8.8,10.0,8.9,6.3,7.9,10.0,7.4,5.5,4.5,6.9,6.2,5.1,5.64
+Sub-Saharan Africa,2016,Low,Mozambique,6.27,3.5,7.9,8.3,8.8,6.2,8.0,10.0,6.99,5.0,4.2,7.2,6.1,5.2,5.55
+Sub-Saharan Africa,2015,Low,Mozambique,6.36,3.8,8.4,8.3,8.8,6.5,8.0,10.0,7.22,5.5,4.2,6.4,6.1,5.3,5.49
+Sub-Saharan Africa,2014,Low,Mozambique,6.22,3.9,8.3,5.0,8.4,6.4,8.1,10.0,6.84,5.5,4.2,6.5,6.1,5.7,5.6
+Sub-Saharan Africa,2013,Low,Mozambique,6.13,4.0,8.1,5.0,8.4,7.9,9.3,5.0,6.58,5.9,4.1,6.4,6.3,5.6,5.68
+Sub-Saharan Africa,2012,Low,Mozambique,6.13,4.3,7.5,5.0,8.3,7.8,9.3,5.0,6.51,5.8,4.2,6.4,6.2,6.1,5.75
+Sub-Saharan Africa,2011,Low,Mozambique,6.07,4.7,7.7,5.0,8.1,7.8,9.3,5.0,6.62,5.2,4.3,6.1,6.1,5.9,5.51
+Sub-Saharan Africa,2010,Low,Mozambique,6.01,4.9,7.5,5.0,8.3,7.3,9.3,5.0,6.58,5.1,4.3,5.9,6.1,5.8,5.44
+Sub-Saharan Africa,2009,Low,Mozambique,6.03,4.7,7.5,5.0,8.3,7.4,8.4,5.0,6.46,5.5,4.3,6.5,6.0,5.6,5.59
+Sub-Saharan Africa,2008,Low,Mozambique,6.17,4.7,7.4,5.0,8.4,7.4,9.4,5.0,6.53,5.6,4.2,7.6,6.0,5.6,5.8
+East Asia & Pacific,2018,Lower middle,Myanmar,5.45,2.7,8.4,0.8,4.9,6.1,8.7,2.5,5.08,7.5,3.7,6.7,4.9,6.2,5.81
+East Asia & Pacific,2017,Lower middle,Myanmar,5.43,3.0,8.3,0.8,4.6,6.1,9.0,2.5,5.12,7.2,3.7,6.8,4.9,6.1,5.74
+East Asia & Pacific,2016,Lower middle,Myanmar,5.55,3.0,7.7,3.3,4.8,6.3,8.6,4.2,5.39,7.0,3.7,6.5,5.4,6.0,5.7
+East Asia & Pacific,2015,Lower middle,Myanmar,5.43,3.2,7.5,1.7,5.6,6.5,8.6,4.2,5.32,6.7,3.6,6.3,5.4,5.8,5.54
+East Asia & Pacific,2014,Lower middle,Myanmar,5.64,3.1,7.5,1.7,6.5,6.4,8.4,6.3,5.56,7.0,3.5,6.6,5.5,5.9,5.71
+East Asia & Pacific,2013,Low,Myanmar,5.4,3.1,7.1,1.7,6.5,4.8,7.2,6.3,5.2,6.4,3.3,6.5,6.1,5.7,5.59
+East Asia & Pacific,2012,Low,Myanmar,5.33,3.1,7.7,1.7,6.7,4.4,7.2,6.3,5.33,6.2,3.3,6.5,5.9,4.8,5.33
+East Asia & Pacific,2011,Low,Myanmar,4.8,3.5,8.2,1.7,6.6,4.0,6.5,6.3,5.42,5.6,3.1,5.9,1.8,4.4,4.18
+East Asia & Pacific,2010,Low,Myanmar,4.74,3.4,8.5,3.3,6.3,3.8,5.9,6.3,5.55,4.8,3.0,5.7,1.8,4.3,3.93
+East Asia & Pacific,2009,Low,Myanmar,4.83,3.4,8.5,3.3,6.4,3.0,8.4,6.3,5.71,4.7,3.0,6.3,1.8,4.0,3.94
+East Asia & Pacific,2008,Low,Myanmar,4.54,3.4,8.6,3.3,6.3,3.0,5.8,6.3,5.47,4.8,3.0,4.9,1.8,3.6,3.61
+Sub-Saharan Africa,2018,Upper middle,Namibia,6.92,6.1,7.1,7.5,9.1,8.4,8.8,6.5,7.32,5.6,6.2,6.7,5.9,8.2,6.52
+Sub-Saharan Africa,2017,Upper middle,Namibia,6.82,5.6,7.1,7.5,9.2,8.7,8.8,6.5,7.23,5.6,6.3,6.5,5.8,7.9,6.4
+Sub-Saharan Africa,2016,Upper middle,Namibia,6.97,5.8,6.7,10.0,8.9,8.9,8.6,7.3,7.5,5.6,6.3,6.1,6.1,8.0,6.43
+Sub-Saharan Africa,2015,Upper middle,Namibia,7.04,5.5,6.7,10.0,9.0,8.9,8.6,7.3,7.44,6.1,6.3,6.6,6.0,8.0,6.63
+Sub-Saharan Africa,2014,Upper middle,Namibia,7.02,5.4,6.7,10.0,8.8,9.0,8.6,7.5,7.4,6.4,6.1,6.7,5.9,8.0,6.63
+Sub-Saharan Africa,2013,Upper middle,Namibia,7.04,5.6,6.7,10.0,9.0,9.0,8.3,7.5,7.44,6.5,6.1,6.6,6.1,7.9,6.63
+Sub-Saharan Africa,2012,Upper middle,Namibia,7.05,5.6,6.7,10.0,8.9,9.1,8.3,7.5,7.44,6.8,6.1,6.7,6.0,7.8,6.66
+Sub-Saharan Africa,2011,Upper middle,Namibia,7.08,5.7,7.1,10.0,9.0,9.1,8.2,7.5,7.58,6.9,6.3,6.3,6.1,7.4,6.58
+Sub-Saharan Africa,2010,Upper middle,Namibia,7.07,5.7,6.2,10.0,9.0,9.1,8.9,7.5,7.44,6.8,6.5,6.4,6.1,7.7,6.69
+Sub-Saharan Africa,2009,Upper middle,Namibia,7.06,5.8,5.7,10.0,9.2,9.0,9.1,7.5,7.36,7.0,6.8,6.1,5.9,8.0,6.75
+Sub-Saharan Africa,2008,Upper middle,Namibia,7.09,6.0,5.9,10.0,9.0,9.1,9.0,7.5,7.43,6.9,6.7,6.1,6.0,7.9,6.75
+South Asia,2018,Low,Nepal,6.76,4.3,9.1,8.3,6.6,8.1,7.1,6.7,7.03,6.9,4.6,6.9,6.6,7.4,6.48
+South Asia,2017,Low,Nepal,6.85,4.3,9.1,8.3,6.7,8.4,7.5,6.7,7.11,7.5,4.7,7.0,6.4,7.3,6.59
+South Asia,2016,Low,Nepal,6.87,4.3,9.2,6.7,6.6,8.5,7.0,10.0,7.25,7.5,4.8,6.4,6.4,7.2,6.48
+South Asia,2015,Low,Nepal,7.01,4.2,9.5,8.3,7.3,8.4,7.0,10.0,7.53,7.9,4.8,6.4,6.6,6.8,6.49
+South Asia,2014,Low,Nepal,7.18,4.3,9.6,8.3,8.3,8.6,7.0,10.0,7.69,7.8,5.7,6.4,6.5,6.9,6.66
+South Asia,2013,Low,Nepal,7.07,4.5,9.5,6.7,8.6,8.8,6.6,10.0,7.54,7.9,5.6,6.4,6.3,6.8,6.6
+South Asia,2012,Low,Nepal,7.06,4.5,9.5,8.3,8.4,8.8,6.3,10.0,7.67,7.4,5.5,6.4,6.2,6.8,6.44
+South Asia,2011,Low,Nepal,7.16,5.1,9.4,8.3,8.6,8.8,6.6,10.0,7.87,7.5,5.4,6.3,6.1,6.8,6.44
+South Asia,2010,Low,Nepal,7.18,5.1,8.6,8.3,8.8,8.6,8.4,10.0,7.83,8.2,5.3,6.3,6.2,6.7,6.52
+South Asia,2009,Low,Nepal,7.09,5.1,8.5,8.3,8.9,8.7,9.6,10.0,7.95,7.4,5.2,6.1,6.3,6.0,6.22
+South Asia,2008,Low,Nepal,7.09,5.1,8.3,8.3,8.9,8.7,8.8,10.0,7.83,7.8,5.3,6.4,6.2,6.1,6.34
+Europe & Central Asia,2018,High,Netherlands,8.48,8.2,9.9,10.0,8.6,9.3,10.0,8.2,9.14,5.2,7.9,9.3,8.6,8.0,7.82
+Europe & Central Asia,2017,High,Netherlands,8.45,8.5,9.9,10.0,8.6,9.0,10.0,8.2,9.18,4.7,7.9,9.2,8.6,8.1,7.72
+Europe & Central Asia,2016,High,Netherlands,8.55,8.5,9.9,10.0,8.6,9.1,9.8,9.0,9.27,4.8,7.9,9.5,8.9,8.0,7.82
+Europe & Central Asia,2015,High,Netherlands,8.55,8.5,9.9,10.0,8.4,9.1,9.8,9.0,9.24,4.8,8.0,9.8,8.8,7.9,7.85
+Europe & Central Asia,2014,High,Netherlands,8.49,8.2,9.7,10.0,7.6,9.2,9.8,10.0,9.15,4.6,7.9,9.8,9.0,7.9,7.82
+Europe & Central Asia,2013,High,Netherlands,8.41,8.2,9.7,10.0,7.4,9.0,9.9,10.0,9.11,4.5,7.8,9.7,8.8,7.8,7.71
+Europe & Central Asia,2012,High,Netherlands,8.42,8.2,9.6,10.0,7.7,8.9,9.8,10.0,9.1,4.5,7.9,9.5,8.7,8.1,7.73
+Europe & Central Asia,2011,High,Netherlands,8.46,8.3,9.6,10.0,8.0,8.9,9.8,10.0,9.16,4.5,7.9,9.5,8.8,8.0,7.75
+Europe & Central Asia,2010,High,Netherlands,8.43,8.3,9.6,10.0,7.9,9.1,9.8,10.0,9.16,4.4,7.9,9.6,8.8,7.9,7.7
+Europe & Central Asia,2009,High,Netherlands,8.42,8.3,9.8,10.0,7.8,9.1,9.8,10.0,9.18,4.5,7.8,9.5,8.8,7.7,7.66
+Europe & Central Asia,2008,High,Netherlands,8.49,8.3,9.6,10.0,8.2,9.1,9.8,10.0,9.19,5.0,7.9,9.5,8.7,7.8,7.79
+East Asia & Pacific,2018,High,New Zealand,8.87,7.8,9.9,10.0,9.4,9.4,10.0,9.0,9.21,6.6,8.2,9.8,8.9,9.1,8.53
+East Asia & Pacific,2017,High,New Zealand,8.86,7.9,9.9,10.0,9.4,9.6,10.0,9.0,9.24,6.4,8.3,9.6,8.9,9.2,8.48
+East Asia & Pacific,2016,High,New Zealand,8.87,7.9,9.9,10.0,9.4,9.6,9.7,9.0,9.2,6.7,8.4,9.5,8.9,9.2,8.53
+East Asia & Pacific,2015,High,New Zealand,8.85,7.8,9.9,10.0,9.4,9.6,9.7,9.0,9.19,6.6,8.4,9.5,8.8,9.2,8.5
+East Asia & Pacific,2014,High,New Zealand,8.89,7.9,9.9,10.0,9.4,9.6,9.7,10.0,9.31,6.6,8.2,9.5,9.0,9.0,8.46
+East Asia & Pacific,2013,High,New Zealand,8.86,7.7,9.9,10.0,9.5,9.6,9.8,10.0,9.28,6.5,8.2,9.5,8.9,9.1,8.44
+East Asia & Pacific,2012,High,New Zealand,8.87,7.7,9.9,10.0,9.5,9.7,9.8,10.0,9.3,6.4,8.2,9.6,8.8,9.2,8.43
+East Asia & Pacific,2011,High,New Zealand,8.84,8.1,9.9,10.0,9.5,9.7,9.8,10.0,9.39,6.1,8.2,9.6,8.9,8.7,8.28
+East Asia & Pacific,2010,High,New Zealand,8.82,8.1,9.9,10.0,9.5,9.7,9.8,10.0,9.39,5.6,8.1,9.6,8.9,9.0,8.24
+East Asia & Pacific,2009,High,New Zealand,8.79,8.1,9.8,10.0,9.7,9.7,9.2,10.0,9.33,5.7,8.1,9.7,8.9,8.8,8.24
+East Asia & Pacific,2008,High,New Zealand,8.85,8.1,9.8,10.0,9.5,9.7,9.8,10.0,9.38,6.1,8.2,9.6,8.9,8.8,8.32
+Latin America & Caribbean,2018,Lower middle,Nicaragua,6.54,3.1,8.5,10.0,5.6,2.7,6.2,6.7,6.02,6.6,4.3,9.4,8.1,6.8,7.05
+Latin America & Caribbean,2017,Lower middle,Nicaragua,6.88,3.8,8.9,10.0,7.1,3.9,7.1,6.7,6.63,6.8,4.5,9.2,8.1,7.0,7.12
+Latin America & Caribbean,2016,Lower middle,Nicaragua,6.76,3.8,8.0,8.3,7.5,4.0,7.4,6.7,6.34,7.0,4.5,9.1,8.1,7.1,7.17
+Latin America & Caribbean,2015,Lower middle,Nicaragua,6.73,3.4,7.9,8.3,7.9,4.2,7.5,6.7,6.28,7.1,4.4,8.9,8.1,7.3,7.17
+Latin America & Caribbean,2014,Lower middle,Nicaragua,6.99,3.6,7.8,8.3,8.5,4.2,7.5,10.0,6.68,8.0,4.3,8.9,7.9,7.3,7.29
+Latin America & Caribbean,2013,Lower middle,Nicaragua,7.15,3.8,7.7,8.3,8.5,5.3,8.8,10.0,6.95,8.1,4.4,8.6,8.2,7.3,7.34
+Latin America & Caribbean,2012,Lower middle,Nicaragua,7.17,3.8,7.5,8.3,8.7,6.4,8.8,10.0,7.03,8.0,4.7,8.5,8.2,7.2,7.31
+Latin America & Caribbean,2011,Lower middle,Nicaragua,7.12,4.3,7.3,6.7,8.8,6.5,8.8,10.0,6.98,7.9,4.6,8.5,8.2,7.1,7.26
+Latin America & Caribbean,2010,Lower middle,Nicaragua,7.3,4.3,8.0,10.0,8.7,6.5,8.1,10.0,7.42,7.7,4.5,8.3,8.2,7.2,7.18
+Latin America & Caribbean,2009,Lower middle,Nicaragua,7.23,4.3,7.9,10.0,8.7,6.5,7.7,10.0,7.36,7.2,4.3,8.7,8.1,7.1,7.1
+Latin America & Caribbean,2008,Lower middle,Nicaragua,7.29,4.3,8.1,10.0,8.6,6.5,8.1,10.0,7.42,7.8,4.4,8.0,8.1,7.4,7.15
+Sub-Saharan Africa,2018,Low,Niger,5.97,3.9,7.0,8.3,7.5,7.2,5.4,5.0,6.09,6.3,3.9,6.9,5.8,6.3,5.85
+Sub-Saharan Africa,2017,Low,Niger,6.03,4.1,6.8,8.3,7.6,7.6,5.3,5.0,6.11,6.5,3.8,7.2,5.8,6.4,5.94
+Sub-Saharan Africa,2016,Low,Niger,5.87,4.1,6.6,5.0,8.1,7.9,5.4,5.0,5.83,6.7,3.8,7.0,5.5,6.5,5.9
+Sub-Saharan Africa,2015,Low,Niger,5.81,4.3,6.3,6.7,7.8,7.8,5.4,5.0,5.9,6.5,3.7,6.8,5.5,6.1,5.71
+Sub-Saharan Africa,2014,Low,Niger,5.85,4.1,7.2,5.0,8.4,8.1,5.4,5.0,6.02,6.6,3.6,6.8,5.3,6.1,5.68
+Sub-Saharan Africa,2013,Low,Niger,6.06,4.2,7.3,5.0,8.0,9.1,9.2,5.0,6.49,6.7,3.6,6.7,5.3,5.8,5.62
+Sub-Saharan Africa,2012,Low,Niger,6.0,4.2,7.4,5.0,7.8,8.5,9.2,5.0,6.46,7.1,3.9,6.6,4.6,5.6,5.54
+Sub-Saharan Africa,2011,Low,Niger,6.08,5.0,7.3,3.3,7.6,8.6,9.2,5.0,6.44,8.0,3.8,6.7,4.5,5.5,5.72
+Sub-Saharan Africa,2010,Low,Niger,6.4,4.8,8.1,8.3,7.8,8.0,8.4,5.0,6.99,8.3,3.9,6.6,4.5,5.7,5.8
+Sub-Saharan Africa,2009,Low,Niger,6.31,4.9,8.1,6.7,7.8,7.7,8.6,5.0,6.82,7.8,4.0,6.5,4.5,6.1,5.79
+Sub-Saharan Africa,2008,Low,Niger,6.08,4.6,8.0,6.7,7.7,7.8,8.3,5.0,6.69,7.8,2.8,6.2,4.5,5.9,5.47
+Sub-Saharan Africa,2018,Lower middle,Nigeria,6.05,4.1,4.1,5.8,6.3,7.6,8.8,2.5,5.16,8.2,3.6,9.0,6.0,7.9,6.93
+Sub-Saharan Africa,2017,Lower middle,Nigeria,6.28,4.3,6.1,5.8,6.3,7.6,8.7,2.5,5.72,8.2,3.6,8.6,5.8,7.9,6.83
+Sub-Saharan Africa,2016,Lower middle,Nigeria,6.29,4.3,5.1,8.3,6.3,7.7,8.7,2.5,5.7,8.5,3.9,8.7,5.6,7.7,6.87
+Sub-Saharan Africa,2015,Lower middle,Nigeria,5.96,4.2,3.9,6.7,7.1,7.5,8.7,2.5,5.29,8.5,3.8,7.9,5.6,7.3,6.63
+Sub-Saharan Africa,2014,Lower middle,Nigeria,6.0,4.0,3.9,6.7,8.4,7.5,8.7,2.5,5.35,8.4,3.7,7.9,5.8,7.5,6.65
+Sub-Saharan Africa,2013,Lower middle,Nigeria,6.13,3.6,5.2,6.7,8.3,7.5,9.1,2.5,5.6,8.2,3.4,7.6,6.7,7.3,6.65
+Sub-Saharan Africa,2012,Lower middle,Nigeria,5.97,3.6,5.6,5.0,8.0,7.6,9.1,2.5,5.51,7.7,3.5,7.5,6.4,7.0,6.42
+Sub-Saharan Africa,2011,Lower middle,Nigeria,5.85,3.7,5.5,1.7,8.1,7.6,9.1,2.5,5.2,7.8,3.8,7.2,6.3,7.4,6.49
+Sub-Saharan Africa,2010,Lower middle,Nigeria,5.83,3.7,6.2,3.3,8.0,7.1,9.1,2.5,5.49,7.5,3.6,6.6,6.1,7.1,6.17
+Sub-Saharan Africa,2009,Lower middle,Nigeria,5.87,3.7,6.6,5.0,8.2,7.2,8.3,2.5,5.71,7.5,3.7,6.2,5.5,7.3,6.03
+Sub-Saharan Africa,2008,Lower middle,Nigeria,6.1,3.7,7.1,6.7,8.2,7.2,9.1,2.5,6.05,7.1,3.8,6.0,6.2,7.5,6.14
+Europe & Central Asia,2018,Upper middle,North Macedonia,7.4,5.2,9.1,8.3,6.8,7.9,8.8,9.0,7.65,7.2,4.6,8.1,7.7,8.1,7.15
+Europe & Central Asia,2017,Upper middle,North Macedonia,7.37,5.0,9.1,8.3,6.9,7.7,8.8,9.0,7.58,7.1,4.7,8.2,7.8,8.1,7.15
+Europe & Central Asia,2016,Upper middle,North Macedonia,7.29,5.0,8.7,8.3,6.7,6.8,8.5,9.0,7.36,6.9,5.0,8.1,7.8,8.2,7.21
+Europe & Central Asia,2015,Upper middle,North Macedonia,7.27,5.1,8.7,6.7,7.1,7.1,8.6,9.0,7.29,6.9,5.0,8.3,7.8,8.2,7.24
+Europe & Central Asia,2014,Upper middle,North Macedonia,7.03,3.3,8.7,6.7,7.3,7.1,7.8,10.0,6.91,6.8,4.4,8.3,7.8,8.3,7.14
+Europe & Central Asia,2013,Upper middle,North Macedonia,7.23,5.5,8.9,6.7,7.3,7.0,6.6,10.0,7.34,6.9,4.5,8.3,7.7,8.2,7.11
+Europe & Central Asia,2012,Upper middle,North Macedonia,7.4,5.5,9.6,6.7,7.5,7.2,8.1,10.0,7.72,6.7,4.6,8.2,7.6,8.3,7.07
+Europe & Central Asia,2011,Upper middle,North Macedonia,7.63,5.6,9.6,10.0,7.9,7.2,8.2,10.0,8.15,6.8,4.8,8.1,7.5,8.3,7.1
+Europe & Central Asia,2010,Upper middle,North Macedonia,7.49,5.6,8.7,10.0,7.5,7.3,8.5,10.0,7.91,6.8,4.7,8.0,7.5,8.3,7.06
+Europe & Central Asia,2009,Upper middle,North Macedonia,7.47,5.6,8.8,10.0,7.6,7.3,7.8,10.0,7.87,7.2,4.7,8.0,7.5,7.9,7.06
+Europe & Central Asia,2008,Upper middle,North Macedonia,7.5,5.6,8.7,10.0,7.8,7.5,8.5,10.0,7.96,7.4,4.8,7.6,7.4,8.1,7.03
+Europe & Central Asia,2018,High,Norway,8.45,8.6,9.8,10.0,8.3,9.2,10.0,9.2,9.29,5.2,8.1,9.1,7.8,7.7,7.6
+Europe & Central Asia,2017,High,Norway,8.51,8.6,9.9,10.0,8.3,9.2,10.0,9.2,9.29,5.2,8.3,9.6,7.8,7.7,7.72
+Europe & Central Asia,2016,High,Norway,8.56,8.6,9.9,10.0,8.3,9.2,9.9,10.0,9.37,5.2,8.4,9.5,7.9,7.9,7.75
+Europe & Central Asia,2015,High,Norway,8.37,8.6,9.9,10.0,8.7,9.2,9.9,10.0,9.42,5.3,8.5,7.0,7.9,7.9,7.31
+Europe & Central Asia,2014,High,Norway,8.63,8.6,9.9,10.0,9.8,9.3,9.9,10.0,9.53,5.6,8.4,9.6,7.4,7.6,7.73
+Europe & Central Asia,2013,High,Norway,8.63,8.7,9.9,10.0,9.7,9.3,9.9,10.0,9.53,5.5,8.4,9.4,7.8,7.6,7.73
+Europe & Central Asia,2012,High,Norway,8.66,8.7,9.8,10.0,9.9,9.7,9.9,10.0,9.59,5.6,8.4,9.4,7.7,7.5,7.72
+Europe & Central Asia,2011,High,Norway,8.53,8.7,9.1,10.0,9.8,9.7,9.9,10.0,9.39,5.5,8.3,9.4,7.6,7.5,7.67
+Europe & Central Asia,2010,High,Norway,8.59,8.7,9.8,10.0,9.6,9.7,9.8,10.0,9.55,5.5,8.4,9.3,7.6,7.4,7.62
+Europe & Central Asia,2009,High,Norway,8.53,8.7,9.8,10.0,9.9,9.7,8.7,10.0,9.47,5.2,8.4,9.2,7.7,7.4,7.59
+Europe & Central Asia,2008,High,Norway,8.59,8.7,9.8,10.0,9.5,9.7,9.9,10.0,9.54,5.6,8.4,9.3,7.6,7.2,7.64
+Middle East & North Africa,2018,High,Oman,6.03,5.9,8.1,4.2,5.3,2.2,5.8,0.0,5.26,5.0,5.6,8.4,8.2,6.8,6.79
+Middle East & North Africa,2017,High,Oman,6.0,5.9,8.1,4.2,5.1,2.1,5.8,0.0,5.21,4.9,5.6,8.6,8.1,6.8,6.79
+Middle East & North Africa,2016,High,Oman,6.02,5.8,8.1,5.0,5.4,2.2,5.8,0.0,5.32,4.3,5.4,8.8,8.1,6.8,6.71
+Middle East & North Africa,2015,High,Oman,6.06,5.8,8.1,6.7,5.8,2.2,5.8,0.0,5.53,4.3,5.5,8.3,8.0,6.7,6.58
+Middle East & North Africa,2014,High,Oman,6.24,5.9,7.8,6.7,6.6,2.2,5.8,0.0,5.53,4.3,5.1,8.8,8.3,8.2,6.95
+Middle East & North Africa,2013,High,Oman,6.22,5.9,7.5,6.7,6.7,2.2,6.7,0.0,5.57,4.3,5.1,8.0,8.4,8.4,6.86
+Middle East & North Africa,2012,High,Oman,6.23,6.0,7.5,6.7,6.7,2.2,6.7,0.0,5.59,4.4,5.2,7.6,8.5,8.6,6.87
+Middle East & North Africa,2011,High,Oman,6.19,6.1,7.5,6.7,6.6,2.1,6.7,0.0,5.62,4.4,5.2,7.6,8.4,8.2,6.76
+Middle East & North Africa,2010,High,Oman,6.15,6.2,8.6,5.0,6.5,1.4,4.9,0.0,5.49,4.7,5.2,7.3,8.4,8.4,6.8
+Middle East & North Africa,2009,High,Oman,6.24,6.3,8.8,5.0,7.0,1.5,5.0,0.0,5.62,4.9,5.2,7.3,8.3,8.5,6.86
+Middle East & North Africa,2008,High,Oman,6.27,6.3,8.8,5.0,6.9,1.4,4.9,0.0,5.59,5.5,5.2,7.9,8.2,7.9,6.94
+South Asia,2018,Lower middle,Pakistan,5.64,3.3,6.5,4.2,3.5,6.3,7.9,5.8,5.21,7.7,3.8,6.6,5.7,6.5,6.07
+South Asia,2017,Lower middle,Pakistan,5.6,3.5,6.3,4.2,4.0,6.4,8.2,5.8,5.31,7.3,3.7,6.6,5.6,6.2,5.88
+South Asia,2016,Lower middle,Pakistan,5.51,3.5,6.2,3.3,4.1,6.5,7.9,5.0,5.12,7.6,3.5,6.6,5.6,6.2,5.9
+South Asia,2015,Lower middle,Pakistan,5.57,3.5,5.9,5.0,4.7,6.6,8.0,5.0,5.29,7.6,3.5,6.4,5.5,6.2,5.84
+South Asia,2014,Lower middle,Pakistan,5.4,3.2,5.3,5.0,6.3,7.3,7.8,2.5,5.02,7.5,3.6,6.2,5.5,6.1,5.77
+South Asia,2013,Lower middle,Pakistan,5.34,3.2,5.2,5.0,6.2,7.2,7.8,0.0,4.72,7.8,3.6,6.0,6.1,6.3,5.95
+South Asia,2012,Lower middle,Pakistan,5.39,3.2,5.9,3.3,6.3,7.3,7.8,0.0,4.76,8.0,3.7,6.0,6.1,6.3,6.02
+South Asia,2011,Lower middle,Pakistan,5.52,3.5,6.4,3.3,6.2,7.3,7.7,0.0,4.92,8.2,3.7,6.2,6.0,6.4,6.11
+South Asia,2010,Lower middle,Pakistan,5.53,3.5,5.8,5.0,6.0,7.3,8.6,0.0,5.01,8.3,3.8,6.0,5.5,6.5,6.04
+South Asia,2009,Lower middle,Pakistan,5.61,3.5,5.8,5.0,6.5,7.3,9.6,0.0,5.17,8.3,3.6,6.0,6.0,6.4,6.04
+South Asia,2008,Lower middle,Pakistan,5.4,3.5,6.2,3.3,6.5,7.0,8.7,0.0,4.98,7.9,3.6,5.7,5.8,6.1,5.82
+Latin America & Caribbean,2018,High,Panama,7.87,4.7,8.7,10.0,8.1,9.0,9.6,9.0,7.93,7.8,5.4,9.9,8.9,7.0,7.8
+Latin America & Caribbean,2017,High,Panama,7.82,4.4,8.7,10.0,8.1,9.1,9.6,9.0,7.86,7.9,5.5,9.5,8.9,7.1,7.78
+Latin America & Caribbean,2016,Upper middle,Panama,7.81,4.4,8.7,10.0,8.2,9.2,8.8,9.0,7.78,7.8,5.6,9.7,8.9,7.1,7.84
+Latin America & Caribbean,2015,Upper middle,Panama,7.82,4.4,8.4,10.0,8.3,9.2,9.2,9.0,7.77,8.2,5.7,9.4,8.9,7.2,7.86
+Latin America & Caribbean,2014,Upper middle,Panama,7.74,4.6,7.9,10.0,8.0,9.0,9.1,10.0,7.76,8.0,5.5,9.2,8.8,7.0,7.72
+Latin America & Caribbean,2013,Upper middle,Panama,7.64,4.6,7.7,10.0,7.8,9.0,9.1,10.0,7.67,7.5,5.5,9.0,8.8,7.2,7.61
+Latin America & Caribbean,2012,Upper middle,Panama,7.58,4.6,7.7,10.0,7.7,8.8,9.1,10.0,7.66,7.5,5.5,8.9,8.4,7.1,7.5
+Latin America & Caribbean,2011,Upper middle,Panama,7.54,4.9,8.0,10.0,7.7,8.8,7.6,10.0,7.65,7.4,5.4,8.7,8.4,7.2,7.42
+Latin America & Caribbean,2010,Upper middle,Panama,7.64,4.9,7.8,10.0,7.7,8.8,9.1,10.0,7.75,7.6,5.3,9.1,8.5,7.1,7.52
+Latin America & Caribbean,2009,Upper middle,Panama,7.65,4.9,7.7,10.0,8.0,8.9,9.7,10.0,7.82,7.7,5.2,9.1,8.5,6.9,7.48
+Latin America & Caribbean,2008,Upper middle,Panama,7.62,4.9,8.0,10.0,7.9,8.9,9.1,10.0,7.82,7.9,5.2,8.7,8.3,6.9,7.42
+East Asia & Pacific,2018,Lower middle,Papua New Guinea,6.72,3.9,7.7,10.0,8.3,9.1,9.2,5.0,7.05,5.8,4.5,6.5,7.5,7.7,6.39
+East Asia & Pacific,2017,Lower middle,Papua New Guinea,6.68,3.9,7.7,10.0,8.4,8.4,9.2,5.0,6.98,5.8,4.5,6.5,7.3,7.7,6.37
+East Asia & Pacific,2016,Lower middle,Papua New Guinea,6.74,3.9,7.7,10.0,8.4,8.5,9.1,7.5,7.25,5.9,4.4,6.4,7.2,7.2,6.22
+East Asia & Pacific,2015,Lower middle,Papua New Guinea,6.74,3.8,7.7,10.0,8.3,8.5,9.1,7.5,7.21,5.6,4.4,6.5,7.6,7.2,6.26
+East Asia & Pacific,2014,Lower middle,Papua New Guinea,6.75,3.9,7.7,10.0,7.4,8.4,9.1,7.5,7.13,5.0,4.4,7.8,7.3,7.3,6.37
+East Asia & Pacific,2013,Lower middle,Papua New Guinea,6.92,3.8,7.7,10.0,7.0,8.4,9.1,7.5,7.06,5.9,5.3,7.6,7.6,7.5,6.78
+East Asia & Pacific,2012,Lower middle,Papua New Guinea,6.97,4.0,7.7,8.3,6.9,8.4,9.2,7.5,6.93,7.0,5.4,7.6,7.2,7.9,7.01
+East Asia & Pacific,2011,Lower middle,Papua New Guinea,7.02,4.4,7.7,8.3,6.9,8.4,9.2,7.5,7.04,7.1,5.4,7.3,7.2,7.9,7.0
+East Asia & Pacific,2010,Lower middle,Papua New Guinea,7.19,4.3,8.5,10.0,7.1,8.4,9.3,7.5,7.42,7.0,5.4,7.3,7.2,8.0,6.96
+East Asia & Pacific,2009,Lower middle,Papua New Guinea,7.1,4.3,8.5,10.0,7.1,8.4,8.0,7.5,7.3,6.9,5.4,7.0,7.1,8.1,6.9
+East Asia & Pacific,2008,Lower middle,Papua New Guinea,7.16,4.3,8.8,10.0,7.1,8.4,9.3,7.5,7.5,6.8,5.6,6.7,7.1,8.0,6.82
+Latin America & Caribbean,2018,Upper middle,Paraguay,7.19,4.3,7.9,10.0,8.5,8.4,9.2,5.0,7.14,8.5,4.3,9.5,7.2,6.6,7.23
+Latin America & Caribbean,2017,Upper middle,Paraguay,7.08,4.1,7.6,10.0,8.5,8.7,8.4,5.0,6.99,8.5,4.3,9.4,7.2,6.5,7.17
+Latin America & Caribbean,2016,Upper middle,Paraguay,7.15,4.0,7.6,10.0,8.4,8.6,9.1,6.7,7.18,8.4,4.3,9.3,7.1,6.4,7.11
+Latin America & Caribbean,2015,Upper middle,Paraguay,7.04,4.1,7.6,8.3,8.8,8.3,9.1,6.7,7.03,8.4,4.3,9.2,7.2,6.2,7.04
+Latin America & Caribbean,2014,Upper middle,Paraguay,7.07,4.1,7.6,6.7,9.3,8.4,7.4,10.0,7.11,8.3,4.3,9.2,6.9,6.3,7.02
+Latin America & Caribbean,2013,Lower middle,Paraguay,7.24,4.0,7.2,10.0,9.2,7.8,9.0,10.0,7.39,8.3,4.2,9.2,7.2,6.4,7.08
+Latin America & Caribbean,2012,Lower middle,Paraguay,7.31,3.9,8.3,8.3,9.3,8.0,9.0,10.0,7.52,8.7,4.2,9.1,7.0,6.5,7.1
+Latin America & Caribbean,2011,Lower middle,Paraguay,7.47,4.3,8.3,10.0,9.3,8.4,8.1,10.0,7.73,9.0,4.3,8.9,7.2,6.6,7.2
+Latin America & Caribbean,2010,Lower middle,Paraguay,7.37,4.3,8.1,10.0,9.3,8.6,7.3,10.0,7.62,9.0,4.2,8.6,7.2,6.4,7.11
+Latin America & Caribbean,2009,Lower middle,Paraguay,7.23,4.3,7.9,8.3,9.3,8.6,7.5,10.0,7.41,8.9,4.2,8.7,7.3,6.1,7.04
+Latin America & Caribbean,2008,Lower middle,Paraguay,7.26,4.2,8.0,10.0,8.9,8.3,7.4,10.0,7.51,9.1,4.1,8.6,7.4,5.9,7.01
+Latin America & Caribbean,2018,Upper middle,Peru,7.68,4.6,8.4,10.0,7.9,8.5,9.6,7.5,7.6,7.7,5.2,9.8,8.6,7.4,7.76
+Latin America & Caribbean,2017,Upper middle,Peru,7.67,4.7,8.4,10.0,8.0,8.1,9.6,7.5,7.6,7.7,5.3,9.7,8.5,7.4,7.73
+Latin America & Caribbean,2016,Upper middle,Peru,7.67,4.7,8.0,10.0,8.2,8.0,9.0,9.2,7.62,7.6,5.3,9.7,8.5,7.5,7.72
+Latin America & Caribbean,2015,Upper middle,Peru,7.7,4.6,8.0,10.0,8.4,8.0,9.2,9.2,7.64,7.7,5.3,9.6,8.5,7.7,7.76
+Latin America & Caribbean,2014,Upper middle,Peru,7.63,4.3,8.1,10.0,7.8,8.5,9.0,8.8,7.52,7.8,5.3,9.4,8.6,7.6,7.73
+Latin America & Caribbean,2013,Upper middle,Peru,7.68,4.8,8.1,10.0,7.7,8.5,9.1,8.8,7.64,7.7,5.2,9.3,8.7,7.6,7.71
+Latin America & Caribbean,2012,Upper middle,Peru,7.8,4.8,9.0,10.0,7.7,8.4,9.2,8.8,7.85,7.9,5.3,9.3,8.7,7.5,7.74
+Latin America & Caribbean,2011,Upper middle,Peru,7.91,5.4,9.1,10.0,7.7,8.4,8.7,8.8,7.98,8.0,5.3,9.4,8.8,7.6,7.83
+Latin America & Caribbean,2010,Upper middle,Peru,7.79,5.4,9.0,10.0,7.9,8.2,9.2,6.3,7.76,7.7,5.4,9.3,8.9,7.8,7.81
+Latin America & Caribbean,2009,Upper middle,Peru,7.72,5.4,9.0,10.0,7.8,8.2,9.1,6.3,7.73,7.8,5.5,9.2,8.8,7.2,7.7
+Latin America & Caribbean,2008,Upper middle,Peru,7.68,5.4,8.7,10.0,7.7,8.3,9.1,6.3,7.65,8.2,5.4,9.0,8.6,7.3,7.7
+East Asia & Pacific,2018,Lower middle,Philippines,6.9,3.4,7.2,7.5,6.8,7.1,9.1,6.7,6.37,8.6,4.6,9.4,7.1,7.4,7.43
+East Asia & Pacific,2017,Lower middle,Philippines,6.86,3.4,6.7,7.5,7.3,7.5,9.0,6.7,6.33,8.3,4.6,9.5,7.1,7.4,7.39
+East Asia & Pacific,2016,Lower middle,Philippines,7.0,3.4,6.9,8.3,7.4,7.8,9.0,7.5,6.59,8.3,4.7,9.4,7.1,7.5,7.4
+East Asia & Pacific,2015,Lower middle,Philippines,7.12,3.9,6.7,8.3,8.2,8.0,8.8,7.5,6.75,8.6,4.8,9.4,7.0,7.5,7.49
+East Asia & Pacific,2014,Lower middle,Philippines,6.94,4.1,6.4,6.7,8.3,8.1,9.0,6.3,6.44,8.5,4.8,9.4,7.0,7.5,7.43
+East Asia & Pacific,2013,Lower middle,Philippines,6.93,3.7,6.8,6.7,8.4,8.1,7.9,6.3,6.35,8.5,4.8,9.4,7.2,7.6,7.5
+East Asia & Pacific,2012,Lower middle,Philippines,7.03,3.7,7.8,8.3,8.4,8.1,8.1,6.3,6.8,8.6,4.6,9.4,6.3,7.3,7.25
+East Asia & Pacific,2011,Lower middle,Philippines,7.07,4.2,7.8,8.3,8.4,8.1,8.1,6.3,6.92,8.6,4.5,9.3,6.4,7.3,7.22
+East Asia & Pacific,2010,Lower middle,Philippines,7.11,4.2,7.8,8.3,8.5,8.6,9.0,6.3,7.05,8.5,4.4,9.3,6.3,7.3,7.16
+East Asia & Pacific,2009,Lower middle,Philippines,6.89,4.2,7.5,8.3,9.0,8.1,7.9,6.3,6.9,8.4,4.5,8.0,6.6,7.0,6.88
+East Asia & Pacific,2008,Lower middle,Philippines,7.03,4.2,8.1,8.3,9.0,8.1,8.9,6.3,7.13,8.6,4.7,7.8,6.5,7.0,6.92
+Europe & Central Asia,2018,High,Poland,7.72,6.3,9.7,10.0,7.7,7.9,9.2,9.0,8.39,5.7,6.0,8.3,7.9,7.3,7.04
+Europe & Central Asia,2017,High,Poland,7.84,6.4,9.7,10.0,7.2,7.9,9.2,9.0,8.36,5.4,6.3,9.7,7.9,7.3,7.31
+Europe & Central Asia,2016,High,Poland,7.88,6.4,9.7,10.0,7.4,8.5,9.0,9.0,8.42,5.7,5.9,9.6,8.0,7.4,7.33
+Europe & Central Asia,2015,High,Poland,8.12,7.1,9.9,10.0,8.2,9.3,9.0,9.0,8.79,5.6,6.1,9.6,8.0,7.8,7.45
+Europe & Central Asia,2014,High,Poland,8.24,7.4,9.9,10.0,8.4,9.3,9.1,10.0,9.01,5.7,6.2,9.7,7.9,7.8,7.47
+Europe & Central Asia,2013,High,Poland,8.09,6.9,9.9,10.0,8.3,9.3,9.5,10.0,8.9,5.5,6.2,9.6,7.5,7.6,7.27
+Europe & Central Asia,2012,High,Poland,8.14,6.9,9.9,10.0,8.4,9.4,9.5,10.0,8.92,5.6,6.5,9.6,7.2,7.8,7.36
+Europe & Central Asia,2011,High,Poland,8.19,7.5,9.8,10.0,8.7,9.4,9.6,10.0,9.1,5.4,6.6,9.5,7.2,7.7,7.27
+Europe & Central Asia,2010,High,Poland,8.13,7.5,9.8,10.0,8.6,9.4,9.6,10.0,9.09,5.4,6.4,9.4,7.3,7.4,7.17
+Europe & Central Asia,2009,High,Poland,8.15,7.5,9.8,10.0,8.8,9.4,9.8,10.0,9.13,5.6,6.4,9.3,7.3,7.2,7.16
+Europe & Central Asia,2008,Upper middle,Poland,8.1,7.5,9.8,10.0,8.7,9.4,9.6,10.0,9.11,5.7,6.1,9.2,7.3,7.1,7.09
+Europe & Central Asia,2018,High,Portugal,8.27,6.9,9.9,10.0,9.4,9.1,10.0,9.0,8.94,6.1,7.0,9.4,8.6,7.0,7.6
+Europe & Central Asia,2017,High,Portugal,8.32,7.2,9.9,10.0,9.4,9.4,10.0,9.0,9.05,6.2,6.9,9.2,8.6,7.0,7.58
+Europe & Central Asia,2016,High,Portugal,8.29,7.2,9.9,10.0,9.4,9.2,9.7,9.0,9.01,5.9,7.0,9.4,8.6,7.0,7.57
+Europe & Central Asia,2015,High,Portugal,8.33,7.2,9.9,10.0,9.6,9.3,9.7,9.0,9.02,6.0,7.0,9.7,8.6,6.9,7.64
+Europe & Central Asia,2014,High,Portugal,8.36,7.0,9.9,10.0,9.2,9.3,9.7,10.0,9.05,5.9,6.9,9.8,8.7,7.0,7.67
+Europe & Central Asia,2013,High,Portugal,8.29,6.5,9.8,10.0,9.3,9.3,9.7,10.0,8.89,5.8,6.9,9.9,8.3,7.5,7.69
+Europe & Central Asia,2012,High,Portugal,8.26,6.5,9.8,10.0,9.4,9.5,9.7,10.0,8.94,6.0,6.9,9.7,8.3,7.0,7.57
+Europe & Central Asia,2011,High,Portugal,8.24,6.6,9.9,10.0,9.5,9.5,9.7,10.0,8.98,5.7,6.9,9.7,8.4,6.9,7.5
+Europe & Central Asia,2010,High,Portugal,8.13,6.6,9.8,10.0,9.5,9.5,9.7,10.0,8.98,5.2,6.9,9.8,8.4,6.2,7.28
+Europe & Central Asia,2009,High,Portugal,8.07,6.6,9.8,10.0,9.5,9.5,8.9,10.0,8.9,5.6,7.0,9.6,8.4,5.6,7.23
+Europe & Central Asia,2008,High,Portugal,8.19,6.6,9.8,10.0,9.4,9.5,9.8,10.0,8.97,5.9,7.0,9.6,8.3,6.2,7.4
+Middle East & North Africa,2018,High,Qatar,6.07,6.3,8.3,1.7,4.3,2.6,7.5,0.0,5.26,5.6,5.5,8.2,7.9,7.1,6.88
+Middle East & North Africa,2017,High,Qatar,6.11,6.3,8.3,1.7,4.2,2.6,7.5,0.0,5.25,5.6,5.4,8.6,7.9,7.3,6.96
+Middle East & North Africa,2016,High,Qatar,6.19,6.4,8.3,1.7,4.2,2.6,7.6,0.0,5.28,5.7,5.49,8.7,8.0,7.6,7.09
+Middle East & North Africa,2015,High,Qatar,6.27,6.5,8.3,3.3,4.7,2.6,7.6,0.0,5.51,5.7,5.52,8.4,7.9,7.7,7.03
+Middle East & North Africa,2014,High,Qatar,6.38,6.4,7.9,3.3,5.3,2.6,7.7,0.0,5.48,5.9,5.6,9.1,8.1,7.7,7.28
+Middle East & North Africa,2013,High,Qatar,6.45,6.6,8.3,5.0,5.4,3.2,6.8,0.0,5.76,5.9,5.6,8.2,7.9,8.2,7.14
+Middle East & North Africa,2012,High,Qatar,6.47,6.6,7.8,6.7,5.6,3.1,6.8,0.0,5.82,5.9,5.6,7.9,8.1,8.1,7.11
+Middle East & North Africa,2011,High,Qatar,6.16,6.5,7.4,3.3,5.7,3.1,6.8,0.0,5.38,5.8,5.5,8.1,8.0,7.2,6.94
+Middle East & North Africa,2010,High,Qatar,6.23,6.7,7.8,3.3,5.7,1.9,6.2,0.0,5.33,5.8,5.4,7.9,8.0,8.5,7.13
+Middle East & North Africa,2009,High,Qatar,,,,,3.3,2.5,,,,,5.4,,,,
+Middle East & North Africa,2008,High,Qatar,,,,,3.3,2.5,,,,,5.4,,,,
+Europe & Central Asia,2018,Upper middle,Romania,8.09,6.2,9.8,10.0,7.8,7.8,9.6,8.2,8.34,7.2,6.2,9.3,8.7,7.6,7.83
+Europe & Central Asia,2017,Upper middle,Romania,8.12,6.3,9.8,10.0,7.8,7.9,9.6,8.2,8.38,7.4,6.3,9.3,8.7,7.6,7.86
+Europe & Central Asia,2016,Upper middle,Romania,8.22,6.3,9.8,10.0,7.6,9.0,9.4,9.0,8.55,7.2,6.3,9.4,8.8,7.7,7.89
+Europe & Central Asia,2015,Upper middle,Romania,8.22,6.3,9.8,10.0,8.2,8.9,9.4,9.0,8.58,7.1,6.2,9.5,8.8,7.7,7.86
+Europe & Central Asia,2014,Upper middle,Romania,8.32,6.4,9.8,10.0,8.9,8.8,9.4,10.0,8.76,7.2,6.1,9.5,8.8,7.7,7.87
+Europe & Central Asia,2013,Upper middle,Romania,8.21,6.2,9.8,10.0,8.8,8.3,9.4,10.0,8.64,7.2,6.0,9.6,8.4,7.7,7.78
+Europe & Central Asia,2012,Upper middle,Romania,8.14,6.2,9.8,10.0,9.0,8.2,9.3,10.0,8.64,7.2,5.8,9.4,8.2,7.6,7.63
+Europe & Central Asia,2011,Upper middle,Romania,8.1,6.3,9.8,10.0,9.1,8.2,9.4,10.0,8.68,6.9,5.7,9.3,8.2,7.3,7.51
+Europe & Central Asia,2010,Upper middle,Romania,8.1,6.3,9.7,10.0,9.0,8.7,9.3,10.0,8.71,6.7,5.8,9.1,8.4,7.4,7.49
+Europe & Central Asia,2009,Upper middle,Romania,8.09,6.3,9.7,10.0,9.2,8.8,8.6,10.0,8.68,7.4,5.9,9.0,8.4,6.8,7.5
+Europe & Central Asia,2008,Upper middle,Romania,8.06,6.3,9.7,10.0,9.0,8.8,9.3,10.0,8.71,7.6,5.9,8.2,8.4,6.8,7.4
+Europe & Central Asia,2018,Upper middle,Russian Federation,6.31,4.0,7.9,5.0,4.2,4.3,6.6,9.0,5.88,6.4,4.7,9.1,6.9,6.6,6.74
+Europe & Central Asia,2017,Upper middle,Russian Federation,6.3,4.0,7.7,5.0,4.3,4.2,6.5,9.0,5.84,6.3,4.7,9.2,7.0,6.6,6.75
+Europe & Central Asia,2016,Upper middle,Russian Federation,6.23,4.0,7.8,3.3,4.4,4.3,6.9,9.0,5.75,6.1,4.8,9.1,7.0,6.5,6.7
+Europe & Central Asia,2015,Upper middle,Russian Federation,6.1,3.9,7.4,3.3,4.8,4.3,6.9,9.0,5.66,6.1,4.7,8.5,6.9,6.5,6.54
+Europe & Central Asia,2014,High,Russian Federation,6.23,4.2,7.4,3.3,5.7,4.4,6.9,10.0,5.94,6.0,4.7,9.0,6.3,6.6,6.52
+Europe & Central Asia,2013,High,Russian Federation,6.5,4.1,7.7,6.7,5.9,3.9,8.5,10.0,6.45,6.1,4.7,8.6,6.6,6.7,6.55
+Europe & Central Asia,2012,High,Russian Federation,6.53,4.1,7.7,6.7,5.8,4.2,8.6,10.0,6.46,6.1,5.2,8.6,6.2,6.8,6.6
+Europe & Central Asia,2011,Upper middle,Russian Federation,6.5,4.3,7.4,6.7,6.0,4.1,8.6,10.0,6.48,6.3,5.2,8.5,6.0,6.4,6.51
+Europe & Central Asia,2010,Upper middle,Russian Federation,6.44,4.3,6.9,6.7,6.0,4.8,8.6,10.0,6.4,6.4,5.2,8.5,5.9,6.4,6.48
+Europe & Central Asia,2009,Upper middle,Russian Federation,6.36,4.3,6.9,6.7,6.2,4.8,8.4,10.0,6.4,6.2,5.2,8.3,5.6,6.2,6.32
+Europe & Central Asia,2008,Upper middle,Russian Federation,6.43,4.3,7.0,6.7,6.3,4.8,8.5,10.0,6.45,6.6,5.4,8.4,5.5,6.1,6.4
+Sub-Saharan Africa,2018,Low,Rwanda,6.97,5.2,8.7,8.3,6.4,3.1,6.7,6.3,6.54,6.2,6.1,9.5,7.2,8.0,7.39
+Sub-Saharan Africa,2017,Low,Rwanda,6.9,5.4,8.6,8.3,6.8,3.2,6.7,6.3,6.61,5.7,5.9,9.2,7.2,7.9,7.19
+Sub-Saharan Africa,2016,Low,Rwanda,6.97,5.3,7.9,6.7,7.0,3.3,7.0,10.0,6.71,5.8,6.1,9.3,7.1,7.9,7.23
+Sub-Saharan Africa,2015,Low,Rwanda,7.09,5.3,8.5,6.7,7.3,3.5,7.0,10.0,6.89,5.7,6.2,9.4,7.0,8.1,7.29
+Sub-Saharan Africa,2014,Low,Rwanda,6.95,5.2,7.6,6.7,7.2,3.5,7.0,10.0,6.65,5.6,6.4,9.5,6.7,8.0,7.25
+Sub-Saharan Africa,2013,Low,Rwanda,6.99,5.0,8.0,6.7,6.8,3.9,7.7,10.0,6.74,5.5,6.3,9.0,7.2,8.1,7.24
+Sub-Saharan Africa,2012,Low,Rwanda,6.94,4.8,7.6,6.7,7.4,3.7,7.4,10.0,6.62,5.6,6.3,8.9,7.1,8.4,7.26
+Sub-Saharan Africa,2011,Low,Rwanda,6.88,5.1,7.5,6.7,7.1,3.7,7.5,10.0,6.65,5.5,6.1,9.0,6.8,8.1,7.1
+Sub-Saharan Africa,2010,Low,Rwanda,6.91,5.0,7.2,10.0,7.2,3.3,6.1,10.0,6.72,5.4,6.0,9.0,6.7,8.5,7.1
+Sub-Saharan Africa,2009,Low,Rwanda,7.0,4.8,7.9,10.0,7.3,3.3,9.4,10.0,7.18,6.2,6.1,7.5,5.8,8.5,6.82
+Sub-Saharan Africa,2008,Low,Rwanda,6.88,4.9,8.8,8.3,7.2,3.3,7.2,10.0,7.01,6.1,5.9,7.1,5.9,8.7,6.75
+Middle East & North Africa,2018,High,Saudi Arabia,5.29,5.4,7.6,0.0,2.8,1.7,5.6,0.0,4.26,4.6,4.7,8.7,6.9,6.7,6.31
+Middle East & North Africa,2017,High,Saudi Arabia,5.28,5.3,7.6,0.0,2.8,1.6,6.1,0.0,4.29,4.6,4.6,9.0,6.5,6.7,6.27
+Middle East & North Africa,2016,High,Saudi Arabia,5.34,5.7,7.4,0.0,2.8,1.6,6.6,0.0,4.39,4.8,4.72,9.0,6.2,6.7,6.29
+Middle East & North Africa,2015,High,Saudi Arabia,5.13,5.4,7.4,0.0,3.3,1.6,6.5,0.0,4.33,4.3,4.73,8.3,6.3,6.0,5.93
+Middle East & North Africa,2014,High,Saudi Arabia,5.31,5.3,7.1,0.0,4.9,1.6,6.7,0.0,4.43,4.2,4.7,8.5,6.4,7.1,6.19
+Middle East & North Africa,2013,High,Saudi Arabia,5.31,5.4,7.8,0.0,4.9,0.8,5.1,0.0,4.39,4.3,4.6,7.9,7.1,7.3,6.23
+Middle East & North Africa,2012,High,Saudi Arabia,5.2,5.4,7.3,0.0,4.9,0.9,5.0,0.0,4.26,4.3,4.6,7.7,6.6,7.5,6.13
+Middle East & North Africa,2011,High,Saudi Arabia,5.26,5.6,7.0,0.0,4.9,0.9,5.2,0.0,4.23,4.3,4.6,7.8,7.4,7.3,6.28
+Middle East & North Africa,2010,High,Saudi Arabia,5.56,5.7,8.5,0.0,4.9,0.9,5.2,0.0,4.66,4.6,4.7,7.8,7.3,7.9,6.46
+Middle East & North Africa,2009,High,Saudi Arabia,,,,,0.8,1.2,,,,2.3,4.7,,,,
+Middle East & North Africa,2008,High,Saudi Arabia,,,,,0.8,1.1,,,,2.4,4.7,,,,
+Sub-Saharan Africa,2018,Lower middle,Senegal,6.66,4.9,8.4,8.3,7.8,8.5,8.8,3.8,7.05,7.5,4.3,7.3,6.4,5.9,6.27
+Sub-Saharan Africa,2017,Low,Senegal,6.42,4.7,7.5,8.3,7.8,8.3,8.8,3.8,6.73,6.8,4.3,7.3,6.4,5.8,6.11
+Sub-Saharan Africa,2016,Low,Senegal,6.37,4.7,7.4,8.3,7.9,8.7,8.8,2.5,6.64,6.9,4.3,7.2,6.3,5.8,6.09
+Sub-Saharan Africa,2015,Low,Senegal,6.26,4.9,7.4,6.7,8.1,8.7,8.7,2.5,6.54,7.0,4.2,7.1,6.3,5.4,5.98
+Sub-Saharan Africa,2014,Lower middle,Senegal,6.25,4.7,7.4,6.7,8.1,8.7,8.8,2.5,6.5,7.1,4.0,7.1,6.5,5.2,5.99
+Sub-Saharan Africa,2013,Lower middle,Senegal,6.29,5.0,7.4,6.7,8.1,8.8,9.2,2.5,6.61,7.0,3.8,7.1,6.6,5.3,5.97
+Sub-Saharan Africa,2012,Lower middle,Senegal,6.03,5.0,7.0,5.0,8.3,8.7,9.1,2.5,6.35,5.8,3.8,7.0,6.6,5.3,5.7
+Sub-Saharan Africa,2011,Lower middle,Senegal,6.05,5.0,7.1,5.0,8.3,8.6,9.0,2.5,6.37,5.9,3.7,7.0,6.5,5.4,5.72
+Sub-Saharan Africa,2010,Lower middle,Senegal,6.17,5.0,7.1,8.3,8.3,8.1,8.5,2.5,6.59,5.7,3.7,7.0,6.6,5.7,5.74
+Sub-Saharan Africa,2009,Lower middle,Senegal,6.35,5.0,7.4,8.3,8.3,8.1,8.8,2.5,6.7,6.1,3.7,7.0,6.7,6.4,5.99
+Sub-Saharan Africa,2008,Low,Senegal,6.26,5.0,7.4,8.3,8.1,8.1,8.4,2.5,6.64,6.1,3.6,6.8,6.4,6.4,5.87
+Europe & Central Asia,2018,Upper middle,Serbia,7.34,4.7,9.1,10.0,7.5,6.9,9.2,8.2,7.62,6.5,5.4,8.5,7.6,7.3,7.05
+Europe & Central Asia,2017,Upper middle,Serbia,7.32,4.4,9.3,10.0,7.7,7.1,9.2,8.2,7.63,6.7,5.3,8.3,7.5,7.2,7.01
+Europe & Central Asia,2016,Upper middle,Serbia,7.33,4.4,9.2,10.0,7.5,7.1,9.1,9.0,7.68,6.7,5.3,8.1,7.5,7.2,6.97
+Europe & Central Asia,2015,Upper middle,Serbia,7.35,4.6,9.3,10.0,8.1,7.1,9.2,9.0,7.79,6.8,5.2,7.8,7.5,7.1,6.91
+Europe & Central Asia,2014,Upper middle,Serbia,7.35,4.6,9.2,10.0,8.0,7.1,9.3,10.0,7.89,6.9,5.2,7.7,7.6,6.6,6.8
+Europe & Central Asia,2013,Upper middle,Serbia,7.35,4.6,9.2,10.0,8.0,7.8,9.0,10.0,7.93,6.8,5.2,7.8,7.3,6.7,6.77
+Europe & Central Asia,2012,Upper middle,Serbia,7.32,4.6,8.8,10.0,7.9,8.4,9.0,10.0,7.89,6.7,5.4,7.9,7.1,6.6,6.74
+Europe & Central Asia,2011,Upper middle,Serbia,7.18,4.7,8.8,6.7,7.9,8.4,9.0,10.0,7.58,6.6,5.4,7.9,7.0,6.9,6.78
+Europe & Central Asia,2010,Upper middle,Serbia,7.16,4.7,8.8,6.7,7.9,8.4,9.4,10.0,7.62,6.6,5.4,7.9,7.1,6.6,6.7
+Europe & Central Asia,2009,Upper middle,Serbia,7.35,4.7,8.8,10.0,8.4,8.7,9.1,10.0,7.98,6.7,5.2,7.7,7.1,6.8,6.72
+Europe & Central Asia,2008,Upper middle,Serbia,7.35,4.7,8.8,10.0,8.3,8.7,9.3,10.0,8.0,6.8,5.2,7.3,7.4,6.7,6.7
+Sub-Saharan Africa,2018,High,Seychelles,7.34,5.5,8.3,4.2,7.4,7.4,8.3,10.0,7.18,6.7,5.5,9.3,8.3,7.7,7.49
+Sub-Saharan Africa,2017,High,Seychelles,7.25,5.3,8.3,4.2,7.4,7.2,8.3,10.0,7.12,7.0,5.6,9.1,7.7,7.6,7.37
+Sub-Saharan Africa,2016,High,Seychelles,7.6,5.4,8.3,10.0,7.4,7.3,8.4,10.0,7.75,7.0,5.54,9.0,8.1,7.6,7.44
+Sub-Saharan Africa,2015,High,Seychelles,7.59,5.6,9.0,7.5,7.7,7.3,8.4,10.0,7.74,6.9,5.42,9.3,8.1,7.5,7.43
+Sub-Saharan Africa,2014,High,Seychelles,7.31,5.3,7.7,10.0,8.1,7.3,8.4,5.0,7.14,7.2,5.16,9.1,8.5,7.4,7.48
+Sub-Saharan Africa,2013,Upper middle,Seychelles,7.16,5.3,7.4,10.0,8.1,7.2,8.3,5.0,7.03,6.9,5.16,8.3,8.8,7.3,7.29
+Sub-Saharan Africa,2012,Upper middle,Seychelles,,,,,6.8,6.8,,,,4.9,5.14,,,5.9,
+Sub-Saharan Africa,2011,Upper middle,Seychelles,,,,,6.9,6.8,,,,4.7,5.1,,,5.9,
+Sub-Saharan Africa,2010,Upper middle,Seychelles,,,,,6.9,6.8,,,,4.6,5.1,,,6.2,
+Sub-Saharan Africa,2009,Upper middle,Seychelles,,,,,6.9,6.8,,,,6.3,5.1,,,,
+Sub-Saharan Africa,2008,Upper middle,Seychelles,,,,,6.9,7.0,,,,6.9,5.1,,,,
+Sub-Saharan Africa,2018,Low,Sierra Leone,6.21,3.9,7.3,8.3,8.7,8.1,8.3,3.8,6.55,7.8,4.0,6.8,5.7,5.0,5.87
+Sub-Saharan Africa,2017,Low,Sierra Leone,6.06,3.9,7.3,8.3,8.7,8.0,8.3,3.8,6.51,6.9,4.0,6.5,5.7,4.9,5.61
+Sub-Saharan Africa,2016,Low,Sierra Leone,6.12,3.9,7.3,5.0,8.7,8.1,8.2,7.5,6.56,6.8,4.1,6.9,5.7,4.9,5.68
+Sub-Saharan Africa,2015,Low,Sierra Leone,6.32,4.1,7.3,8.3,9.0,8.1,8.2,7.5,6.96,7.0,4.1,7.1,5.3,4.8,5.67
+Sub-Saharan Africa,2014,Low,Sierra Leone,6.34,4.0,7.0,6.7,9.4,8.1,8.4,7.5,6.75,7.2,4.3,7.3,5.7,5.3,5.93
+Sub-Saharan Africa,2013,Low,Sierra Leone,6.28,4.1,7.3,5.0,9.4,7.5,7.5,7.5,6.55,7.0,4.3,7.3,6.3,5.1,6.0
+Sub-Saharan Africa,2012,Low,Sierra Leone,6.4,4.1,7.2,5.0,9.5,7.7,7.5,7.5,6.56,7.3,4.2,7.1,6.4,6.2,6.24
+Sub-Saharan Africa,2011,Low,Sierra Leone,6.27,4.8,7.1,3.3,9.5,7.8,6.7,7.5,6.45,7.3,4.1,6.9,6.1,6.0,6.08
+Sub-Saharan Africa,2010,Low,Sierra Leone,6.53,4.8,6.4,5.0,9.5,8.5,8.3,7.5,6.68,8.7,4.0,6.9,6.1,6.0,6.37
+Sub-Saharan Africa,2009,Low,Sierra Leone,6.56,4.8,6.4,5.0,9.6,8.5,7.7,7.5,6.64,8.7,4.0,7.5,6.0,6.0,6.47
+Sub-Saharan Africa,2008,Low,Sierra Leone,6.56,4.8,6.5,5.0,9.6,8.5,8.2,7.5,6.71,8.5,4.1,7.3,6.2,6.0,6.41
+East Asia & Pacific,2018,High,Singapore,8.21,7.7,9.6,8.3,6.2,5.1,7.5,7.3,7.77,7.3,7.7,9.8,9.4,9.0,8.65
+East Asia & Pacific,2017,High,Singapore,8.23,7.7,9.6,8.3,6.1,5.1,7.5,7.3,7.75,7.5,7.7,9.9,9.4,9.0,8.7
+East Asia & Pacific,2016,High,Singapore,8.2,7.7,9.1,10.0,6.4,5.2,6.6,7.3,7.75,7.4,7.6,9.8,9.4,9.0,8.65
+East Asia & Pacific,2015,High,Singapore,8.19,8.0,9.1,8.3,6.3,5.2,7.2,7.3,7.73,7.4,7.7,9.8,9.4,8.9,8.64
+East Asia & Pacific,2014,High,Singapore,8.09,8.0,9.1,6.7,5.9,5.3,7.2,7.5,7.54,7.6,7.6,9.4,9.6,9.0,8.64
+East Asia & Pacific,2013,High,Singapore,7.96,8.1,9.1,6.7,5.9,4.8,6.8,7.5,7.46,7.6,7.5,9.2,8.9,9.0,8.46
+East Asia & Pacific,2012,High,Singapore,7.94,8.1,9.1,6.7,5.6,4.8,6.8,7.5,7.44,7.6,7.5,9.0,9.0,9.0,8.44
+East Asia & Pacific,2011,High,Singapore,8.02,8.3,9.1,6.7,5.6,4.8,6.8,7.5,7.49,7.8,7.6,8.9,9.5,9.0,8.54
+East Asia & Pacific,2010,High,Singapore,8.11,8.3,10.0,6.7,5.5,5.2,6.1,7.5,7.66,7.7,7.6,8.9,9.5,9.0,8.55
+East Asia & Pacific,2009,High,Singapore,8.18,8.3,9.9,6.7,5.8,5.2,6.8,7.5,7.76,7.8,7.6,9.2,9.5,8.9,8.6
+East Asia & Pacific,2008,High,Singapore,8.15,8.3,9.9,6.7,5.8,5.2,5.7,7.5,7.65,7.9,7.8,9.1,9.5,8.9,8.64
+Europe & Central Asia,2018,High,Slovak Republic,7.95,6.0,9.7,10.0,7.5,8.8,8.1,9.0,8.26,6.6,6.1,9.3,8.3,7.9,7.63
+Europe & Central Asia,2017,High,Slovak Republic,8.0,6.1,9.6,10.0,7.2,8.7,9.6,9.0,8.39,6.5,6.1,9.3,8.3,7.8,7.6
+Europe & Central Asia,2016,High,Slovak Republic,8.06,6.2,9.7,10.0,7.6,9.0,9.6,9.0,8.49,6.6,6.1,9.5,8.2,7.8,7.62
+Europe & Central Asia,2015,High,Slovak Republic,8.05,6.0,9.7,10.0,8.7,9.0,9.6,9.0,8.56,5.9,6.1,9.7,8.3,7.6,7.53
+Europe & Central Asia,2014,High,Slovak Republic,8.16,5.9,9.7,10.0,8.9,9.0,9.6,10.0,8.63,6.3,6.1,9.8,8.6,7.8,7.69
+Europe & Central Asia,2013,High,Slovak Republic,8.14,5.9,9.7,10.0,8.9,9.0,9.6,10.0,8.64,6.7,6.2,9.8,8.0,7.6,7.64
+Europe & Central Asia,2012,High,Slovak Republic,8.16,5.9,9.7,10.0,9.0,9.1,9.6,10.0,8.68,6.9,6.2,9.6,7.9,7.6,7.63
+Europe & Central Asia,2011,High,Slovak Republic,8.23,6.3,9.6,10.0,8.7,9.3,9.7,10.0,8.75,6.9,6.3,9.6,8.0,7.8,7.7
+Europe & Central Asia,2010,High,Slovak Republic,8.22,6.3,9.6,10.0,9.0,9.1,9.6,10.0,8.75,6.7,6.3,9.8,8.0,7.6,7.69
+Europe & Central Asia,2009,High,Slovak Republic,8.22,6.2,9.8,10.0,8.9,9.1,9.6,10.0,8.77,6.7,6.3,9.7,8.0,7.6,7.66
+Europe & Central Asia,2008,High,Slovak Republic,8.29,6.3,9.8,10.0,9.2,9.1,9.6,10.0,8.82,7.0,6.3,9.5,7.9,8.0,7.76
+Europe & Central Asia,2018,High,Slovenia,8.05,6.7,9.8,10.0,8.9,9.1,9.6,9.0,8.77,5.4,6.5,9.3,8.1,7.3,7.33
+Europe & Central Asia,2017,High,Slovenia,8.02,6.5,9.7,10.0,8.9,9.5,9.6,9.0,8.73,5.5,6.4,9.2,8.1,7.2,7.3
+Europe & Central Asia,2016,High,Slovenia,8.04,6.5,9.8,10.0,8.9,9.6,9.7,9.0,8.76,5.4,6.5,9.5,8.1,7.1,7.31
+Europe & Central Asia,2015,High,Slovenia,8.09,7.0,9.7,10.0,8.4,9.6,9.7,9.0,8.84,5.2,6.5,9.8,8.1,7.1,7.33
+Europe & Central Asia,2014,High,Slovenia,8.09,6.9,9.7,10.0,7.9,9.5,9.6,10.0,8.86,5.1,6.5,9.8,8.2,7.1,7.31
+Europe & Central Asia,2013,High,Slovenia,7.97,6.8,9.8,10.0,8.0,9.6,9.6,10.0,8.85,5.2,6.2,9.7,7.8,6.5,7.09
+Europe & Central Asia,2012,High,Slovenia,8.02,6.8,9.7,10.0,8.4,9.4,9.6,10.0,8.87,5.2,6.2,9.5,7.7,7.3,7.17
+Europe & Central Asia,2011,High,Slovenia,8.0,6.7,9.7,10.0,8.3,9.4,9.6,10.0,8.83,5.2,6.2,9.5,7.8,7.1,7.16
+Europe & Central Asia,2010,High,Slovenia,7.97,6.7,9.7,10.0,8.2,9.5,9.6,10.0,8.83,5.0,6.2,9.5,7.9,6.8,7.1
+Europe & Central Asia,2009,High,Slovenia,8.03,6.7,9.7,10.0,8.2,9.5,9.6,10.0,8.84,5.2,6.3,9.6,7.9,7.0,7.22
+Europe & Central Asia,2008,High,Slovenia,8.02,6.7,9.8,10.0,7.9,9.1,9.6,10.0,8.78,5.5,6.0,9.4,8.2,7.1,7.25
+Sub-Saharan Africa,2018,Upper middle,South Africa,7.07,5.7,5.9,10.0,8.5,8.7,9.6,8.2,7.41,6.1,5.7,8.2,6.4,7.2,6.73
+Sub-Saharan Africa,2017,Upper middle,South Africa,7.05,5.7,5.9,10.0,8.4,9.0,9.6,8.2,7.42,5.7,5.7,8.2,6.5,7.3,6.68
+Sub-Saharan Africa,2016,Upper middle,South Africa,6.98,5.7,6.3,6.7,9.0,8.8,9.4,9.0,7.29,5.7,5.8,8.1,6.4,7.4,6.67
+Sub-Saharan Africa,2015,Upper middle,South Africa,7.19,5.7,6.3,10.0,8.8,8.8,9.4,9.0,7.6,5.7,6.1,8.1,6.5,7.5,6.77
+Sub-Saharan Africa,2014,Upper middle,South Africa,7.18,5.4,6.2,10.0,8.3,8.9,9.3,10.0,7.55,6.1,6.1,8.0,6.5,7.3,6.81
+Sub-Saharan Africa,2013,Upper middle,South Africa,7.18,5.1,6.2,10.0,8.3,8.9,9.0,10.0,7.43,6.1,6.2,8.2,6.9,7.3,6.92
+Sub-Saharan Africa,2012,Upper middle,South Africa,7.19,5.1,6.2,10.0,8.5,9.5,9.0,10.0,7.51,6.0,6.2,8.1,6.8,7.3,6.87
+Sub-Saharan Africa,2011,Upper middle,South Africa,7.25,5.4,6.2,10.0,8.6,9.4,9.0,10.0,7.59,6.0,6.2,8.3,6.8,7.3,6.91
+Sub-Saharan Africa,2010,Upper middle,South Africa,6.97,5.4,4.5,8.3,8.8,9.4,9.5,10.0,7.07,6.0,6.1,8.2,6.5,7.5,6.86
+Sub-Saharan Africa,2009,Upper middle,South Africa,6.88,5.4,4.5,8.3,8.1,9.5,9.5,10.0,7.02,6.0,5.9,7.9,6.6,7.2,6.73
+Sub-Saharan Africa,2008,Upper middle,South Africa,6.88,5.4,4.5,8.3,8.1,9.5,9.5,10.0,7.02,6.1,5.9,7.5,6.6,7.5,6.74
+Europe & Central Asia,2018,High,Spain,8.2,7.3,9.3,10.0,7.8,8.9,9.6,9.0,8.67,6.1,7.1,9.3,8.3,7.8,7.73
+Europe & Central Asia,2017,High,Spain,8.14,7.0,9.4,10.0,7.8,8.6,9.6,9.0,8.61,6.1,6.9,9.2,8.3,7.8,7.66
+Europe & Central Asia,2016,High,Spain,8.23,7.0,9.5,10.0,7.9,9.0,9.5,9.0,8.67,6.5,6.9,9.5,8.3,7.7,7.79
+Europe & Central Asia,2015,High,Spain,8.24,7.0,9.5,10.0,8.4,9.0,9.5,9.0,8.71,6.2,6.9,9.8,8.3,7.6,7.77
+Europe & Central Asia,2014,High,Spain,8.27,6.9,9.5,10.0,8.9,9.0,9.5,10.0,8.84,6.1,6.8,9.8,8.4,7.4,7.69
+Europe & Central Asia,2013,High,Spain,8.23,6.9,9.5,10.0,8.9,9.5,9.1,10.0,8.85,6.1,6.8,9.9,8.1,7.2,7.61
+Europe & Central Asia,2012,High,Spain,8.29,6.9,9.8,10.0,8.9,9.7,9.2,10.0,8.95,6.3,6.9,9.7,8.0,7.1,7.62
+Europe & Central Asia,2011,High,Spain,8.32,7.3,9.1,10.0,9.0,9.6,9.2,10.0,8.88,6.5,7.0,9.7,8.1,7.5,7.76
+Europe & Central Asia,2010,High,Spain,8.29,7.3,9.1,10.0,9.0,9.6,9.6,10.0,8.93,6.4,6.9,9.7,8.2,7.1,7.65
+Europe & Central Asia,2009,High,Spain,8.2,7.3,8.9,10.0,8.9,9.5,9.6,10.0,8.86,6.3,6.9,9.6,8.1,6.7,7.53
+Europe & Central Asia,2008,High,Spain,8.29,7.3,8.9,10.0,9.1,9.5,9.6,10.0,8.88,6.9,7.0,9.5,8.1,7.1,7.7
+South Asia,2018,Upper middle,Sri Lanka,6.72,4.3,7.3,10.0,7.4,8.0,7.9,3.2,6.56,8.8,5.1,8.1,5.4,7.0,6.88
+South Asia,2017,Lower middle,Sri Lanka,6.59,4.5,7.4,10.0,7.0,7.5,7.9,3.2,6.53,8.1,5.0,7.5,5.5,7.0,6.64
+South Asia,2016,Lower middle,Sri Lanka,6.62,4.5,8.5,8.3,7.1,7.3,7.8,2.3,6.53,8.1,5.1,7.7,5.6,7.0,6.7
+South Asia,2015,Lower middle,Sri Lanka,6.5,4.5,8.2,6.7,7.0,7.3,7.7,2.3,6.27,8.0,5.1,8.1,5.5,6.9,6.72
+South Asia,2014,Lower middle,Sri Lanka,6.18,4.2,8.1,6.7,6.9,5.7,7.4,0.0,5.74,8.1,4.6,8.2,5.3,6.9,6.62
+South Asia,2013,Lower middle,Sri Lanka,6.3,4.3,8.1,6.7,6.9,6.2,7.8,0.0,5.86,8.3,4.5,8.2,5.9,6.8,6.73
+South Asia,2012,Lower middle,Sri Lanka,6.07,4.3,7.7,5.0,6.0,6.3,7.9,0.0,5.54,8.3,4.8,6.5,6.7,6.7,6.59
+South Asia,2011,Lower middle,Sri Lanka,6.17,5.2,7.7,5.0,6.3,6.3,7.9,0.0,5.77,8.0,4.9,6.5,6.7,6.7,6.56
+South Asia,2010,Lower middle,Sri Lanka,6.29,5.2,8.0,5.0,8.0,6.4,8.7,0.0,6.11,7.5,4.9,6.5,6.7,6.6,6.46
+South Asia,2009,Lower middle,Sri Lanka,5.84,5.2,5.9,5.0,8.0,6.2,7.8,0.0,5.48,6.4,4.8,6.7,6.7,6.3,6.19
+South Asia,2008,Lower middle,Sri Lanka,5.58,5.2,4.9,3.3,7.9,6.3,7.9,0.0,5.06,6.8,4.7,5.9,6.8,6.2,6.09
+Sub-Saharan Africa,2018,Lower middle,Sudan,4.01,3.3,4.8,3.3,4.1,4.0,6.3,0.0,3.81,8.5,2.8,2.5,2.7,4.5,4.21
+Sub-Saharan Africa,2017,Lower middle,Sudan,4.17,3.4,4.9,3.3,4.1,4.1,6.3,0.0,3.85,8.0,2.9,4.4,2.5,4.6,4.49
+Sub-Saharan Africa,2016,Lower middle,Sudan,4.34,3.2,4.5,3.3,4.2,4.0,6.4,0.0,3.72,8.0,2.8,5.5,2.8,5.7,4.95
+Sub-Saharan Africa,2015,Lower middle,Sudan,,,,,2.3,4.5,,,,6.6,2.8,,,,
+Sub-Saharan Africa,2014,Lower middle,Sudan,,,,,2.3,4.5,,,,6.6,2.8,,,,
+Sub-Saharan Africa,2013,Lower middle,Sudan,,,,,2.3,4.5,,,,6.6,2.9,,,,
+Sub-Saharan Africa,2012,Lower middle,Sudan,,,,,2.0,4.0,,,,6.9,2.9,,,,
+Sub-Saharan Africa,2011,Lower middle,Sudan,,,,,2.7,4.1,,,,6.9,2.9,,,,
+Sub-Saharan Africa,2010,Lower middle,Sudan,,,,,2.7,4.3,,,,6.3,2.9,,,,
+Sub-Saharan Africa,2009,Lower middle,Sudan,,,,,2.7,4.0,,,,5.8,3.3,,,,
+Sub-Saharan Africa,2008,Lower middle,Sudan,,,,,2.7,4.0,,,,5.7,3.3,,,,
+Latin America & Caribbean,2018,Upper middle,Suriname,7.31,5.0,9.3,10.0,8.9,8.6,9.2,10.0,8.24,5.5,4.5,7.6,6.8,7.5,6.37
+Latin America & Caribbean,2017,Upper middle,Suriname,7.29,4.9,9.3,10.0,9.2,8.7,9.2,10.0,8.26,5.5,4.5,7.1,6.8,7.7,6.32
+Latin America & Caribbean,2016,Upper middle,Suriname,6.88,4.9,8.2,10.0,9.2,9.1,9.0,10.0,8.01,5.7,5.07,6.0,6.0,6.0,5.75
+Latin America & Caribbean,2015,Upper middle,Suriname,7.33,4.9,8.4,10.0,9.1,9.2,9.0,10.0,8.04,5.6,4.98,8.9,6.6,7.0,6.61
+Latin America & Caribbean,2014,Upper middle,Suriname,7.22,4.9,8.4,10.0,7.2,9.2,9.0,10.0,7.87,5.2,5.0,9.2,6.5,7.0,6.57
+Latin America & Caribbean,2013,Upper middle,Suriname,7.28,5.1,8.5,10.0,7.1,9.2,9.0,10.0,7.92,5.2,4.5,9.4,6.7,7.3,6.63
+Latin America & Caribbean,2012,Upper middle,Suriname,7.2,5.1,8.1,10.0,7.4,9.0,9.2,10.0,7.85,5.4,4.7,9.2,6.3,7.2,6.54
+Latin America & Caribbean,2011,Upper middle,Suriname,7.16,5.4,8.1,10.0,7.4,9.0,9.3,10.0,7.94,5.6,4.5,8.5,6.2,7.2,6.38
+Latin America & Caribbean,2010,Upper middle,Suriname,7.29,5.4,8.1,10.0,7.9,9.0,9.3,10.0,7.99,6.5,4.5,8.8,6.2,6.9,6.58
+Latin America & Caribbean,2009,Upper middle,Suriname,,,,,9.4,9.0,,,,7.7,4.5,,,,
+Latin America & Caribbean,2008,Upper middle,Suriname,,,,,9.4,9.0,,,,7.7,4.5,,,,
+Europe & Central Asia,2018,High,Sweden,8.52,8.6,9.9,10.0,8.7,9.7,10.0,10.0,9.46,4.8,7.5,9.4,8.4,7.8,7.58
+Europe & Central Asia,2017,High,Sweden,8.55,8.5,9.8,10.0,8.7,9.7,10.0,10.0,9.42,4.8,7.7,9.3,8.4,8.2,7.67
+Europe & Central Asia,2016,High,Sweden,8.54,8.5,9.9,10.0,8.8,9.7,9.8,9.2,9.35,4.8,7.7,9.3,8.4,8.4,7.73
+Europe & Central Asia,2015,High,Sweden,8.6,8.5,9.8,10.0,8.8,9.7,9.8,9.2,9.33,4.9,8.0,9.7,8.4,8.3,7.87
+Europe & Central Asia,2014,High,Sweden,8.57,8.4,9.9,10.0,8.8,9.7,9.9,8.8,9.29,4.7,7.9,9.8,8.6,8.3,7.85
+Europe & Central Asia,2013,High,Sweden,8.53,8.4,9.9,10.0,8.9,9.7,9.9,8.8,9.3,4.7,7.8,9.8,8.2,8.3,7.75
+Europe & Central Asia,2012,High,Sweden,8.55,8.4,9.8,10.0,9.2,9.8,9.9,8.8,9.32,4.8,7.9,9.7,8.1,8.4,7.77
+Europe & Central Asia,2011,High,Sweden,8.56,8.5,9.8,10.0,9.0,9.8,9.9,8.8,9.32,4.9,7.9,9.6,8.2,8.3,7.79
+Europe & Central Asia,2010,High,Sweden,8.57,8.5,9.8,10.0,9.1,9.8,9.8,8.8,9.32,4.8,8.0,9.6,8.4,8.2,7.81
+Europe & Central Asia,2009,High,Sweden,8.48,8.5,9.8,10.0,9.1,9.8,9.9,8.8,9.32,4.6,8.0,9.6,8.4,7.5,7.64
+Europe & Central Asia,2008,High,Sweden,8.5,8.5,9.8,10.0,9.5,9.8,9.8,8.8,9.37,4.9,8.1,9.4,8.3,7.5,7.62
+Europe & Central Asia,2018,High,Switzerland,8.82,8.3,9.9,10.0,7.8,9.7,10.0,9.0,9.2,7.7,8.2,9.8,7.8,8.6,8.43
+Europe & Central Asia,2017,High,Switzerland,8.81,8.3,9.9,10.0,7.8,9.7,10.0,9.0,9.2,7.6,8.2,9.9,7.8,8.6,8.42
+Europe & Central Asia,2016,High,Switzerland,8.77,8.3,9.5,10.0,7.8,9.7,9.8,9.0,9.07,7.7,8.3,9.9,7.8,8.6,8.46
+Europe & Central Asia,2015,High,Switzerland,8.78,8.4,9.5,10.0,8.1,9.7,9.8,9.0,9.13,7.7,8.3,9.8,7.7,8.6,8.43
+Europe & Central Asia,2014,High,Switzerland,8.79,8.2,9.5,10.0,8.0,9.7,9.8,10.0,9.17,7.7,8.2,9.8,7.7,8.6,8.4
+Europe & Central Asia,2013,High,Switzerland,8.71,7.9,9.5,10.0,7.9,9.7,9.8,10.0,9.09,7.7,8.2,9.7,7.5,8.6,8.33
+Europe & Central Asia,2012,High,Switzerland,8.77,7.9,9.8,10.0,8.0,9.7,9.8,10.0,9.19,7.9,8.2,9.4,7.5,8.8,8.34
+Europe & Central Asia,2011,High,Switzerland,8.76,7.9,9.8,10.0,8.1,9.7,9.8,10.0,9.19,7.9,8.2,9.3,7.4,8.8,8.33
+Europe & Central Asia,2010,High,Switzerland,8.8,7.9,9.8,10.0,8.2,9.7,9.8,10.0,9.2,8.1,8.2,9.4,7.6,8.7,8.4
+Europe & Central Asia,2009,High,Switzerland,8.77,7.9,9.8,10.0,8.0,9.7,9.8,10.0,9.18,8.0,8.2,9.3,7.6,8.7,8.36
+Europe & Central Asia,2008,High,Switzerland,8.81,8.0,9.8,10.0,8.6,9.7,9.8,10.0,9.26,8.1,8.3,9.4,7.5,8.5,8.35
+Middle East & North Africa,2018,Low,Syrian Arab Republic,3.97,1.8,4.9,0.8,3.4,1.4,2.5,0.0,2.49,6.6,3.0,8.1,4.6,5.0,5.45
+Middle East & North Africa,2017,Low,Syrian Arab Republic,3.71,1.8,4.7,0.8,3.2,1.0,2.2,0.0,2.36,6.7,3.0,5.9,4.6,5.1,5.05
+Middle East & North Africa,2016,Lower middle,Syrian Arab Republic,3.6,2.0,4.7,0.0,2.9,1.2,2.2,0.0,2.31,6.7,3.0,5.1,4.5,5.1,4.88
+Middle East & North Africa,2015,Lower middle,Syrian Arab Republic,3.69,2.9,4.7,0.0,3.2,1.1,2.2,0.0,2.55,6.7,3.0,4.9,4.5,5.0,4.83
+Middle East & North Africa,2014,Lower middle,Syrian Arab Republic,3.7,3.1,4.7,0.0,4.7,1.1,0.1,0.0,2.53,6.7,3.3,5.1,4.1,5.1,4.87
+Middle East & North Africa,2013,Lower middle,Syrian Arab Republic,3.85,3.1,4.7,1.7,4.6,1.3,4.1,0.0,3.1,6.7,2.3,4.9,4.2,5.0,4.6
+Middle East & North Africa,2012,Lower middle,Syrian Arab Republic,4.28,3.5,5.5,3.3,4.8,1.4,3.9,0.0,3.61,5.5,3.6,6.5,4.1,5.0,4.95
+Middle East & North Africa,2011,Lower middle,Syrian Arab Republic,5.09,4.4,6.6,3.3,4.8,1.5,5.6,0.0,4.27,5.5,3.6,8.6,6.0,5.9,5.91
+Middle East & North Africa,2010,Lower middle,Syrian Arab Republic,5.2,4.7,7.9,5.0,5.2,1.1,4.4,0.0,4.72,5.9,3.5,7.3,5.7,6.0,5.67
+Middle East & North Africa,2009,Lower middle,Syrian Arab Republic,5.24,4.7,8.2,5.0,5.5,1.1,4.5,0.0,4.84,5.7,3.5,7.3,5.7,6.0,5.63
+Middle East & North Africa,2008,Lower middle,Syrian Arab Republic,5.13,4.6,8.1,5.0,5.8,1.1,4.6,0.0,4.82,5.8,3.8,6.9,5.5,5.1,5.43
+East Asia & Pacific,2018,High,Taiwan,8.42,6.9,9.3,10.0,9.2,9.1,10.0,10.0,8.9,7.5,6.9,9.7,7.6,8.1,7.94
+East Asia & Pacific,2017,High,Taiwan,8.38,7.0,9.3,10.0,9.2,9.2,10.0,10.0,8.92,7.2,6.8,9.8,7.6,7.8,7.84
+East Asia & Pacific,2016,High,Taiwan,8.38,7.0,9.7,10.0,8.9,9.0,9.6,10.0,8.93,7.2,6.8,9.7,7.6,7.8,7.83
+East Asia & Pacific,2015,High,Taiwan,8.34,7.1,9.7,10.0,9.1,8.9,9.6,10.0,8.97,7.2,6.7,9.6,7.5,7.4,7.7
+East Asia & Pacific,2014,High,Taiwan,8.19,6.9,9.7,10.0,7.4,8.9,9.5,10.0,8.75,7.4,6.2,9.6,7.4,7.4,7.62
+East Asia & Pacific,2013,High,Taiwan,8.17,6.8,9.7,10.0,7.6,8.9,9.6,10.0,8.72,7.4,6.2,9.6,7.6,7.2,7.62
+East Asia & Pacific,2012,High,Taiwan,8.11,6.8,9.7,10.0,7.1,8.9,9.6,10.0,8.68,7.1,6.5,9.4,7.4,7.3,7.53
+East Asia & Pacific,2011,High,Taiwan,8.13,6.9,9.7,10.0,7.5,8.9,9.6,10.0,8.76,7.2,6.5,9.5,7.3,7.0,7.5
+East Asia & Pacific,2010,High,Taiwan,8.05,6.9,8.9,10.0,7.8,8.4,9.6,10.0,8.53,7.2,6.5,9.6,7.3,7.3,7.57
+East Asia & Pacific,2009,High,Taiwan,7.96,6.8,8.7,10.0,7.7,8.4,9.6,10.0,8.45,6.9,6.5,9.6,7.2,7.1,7.46
+East Asia & Pacific,2008,High,Taiwan,7.83,6.6,8.7,8.3,7.9,8.2,9.6,10.0,8.23,7.0,6.4,9.7,7.3,6.8,7.43
+Europe & Central Asia,2018,Low,Tajikistan,5.77,3.1,8.8,8.3,3.8,2.3,4.6,6.3,5.49,5.3,4.5,7.7,6.3,6.6,6.05
+Europe & Central Asia,2017,Low,Tajikistan,5.7,3.0,8.9,8.3,3.8,2.7,4.6,6.3,5.54,5.1,4.5,7.6,5.7,6.5,5.86
+Europe & Central Asia,2016,Lower middle,Tajikistan,5.91,3.3,8.4,8.3,4.0,2.5,4.8,8.8,5.79,5.4,4.54,7.6,6.0,6.6,6.02
+Europe & Central Asia,2015,Lower middle,Tajikistan,5.94,3.5,8.1,8.3,4.2,3.4,4.9,8.8,5.84,5.5,4.51,7.8,6.0,6.3,6.03
+Europe & Central Asia,2014,Lower middle,Tajikistan,6.23,3.6,8.4,10.0,5.8,3.7,4.9,8.8,6.32,5.6,4.7,7.9,6.0,6.5,6.14
+Europe & Central Asia,2013,Low,Tajikistan,5.99,3.3,8.0,10.0,5.8,4.0,7.4,3.8,5.91,5.7,4.6,8.0,5.7,6.3,6.07
+Europe & Central Asia,2012,Low,Tajikistan,6.31,3.4,8.9,10.0,6.1,4.4,7.4,3.8,6.23,5.9,5.5,8.7,5.9,5.9,6.39
+Europe & Central Asia,2011,Low,Tajikistan,6.16,3.8,8.8,8.3,6.0,4.4,7.4,3.8,6.14,5.9,5.1,7.9,5.7,6.4,6.18
+Europe & Central Asia,2010,Low,Tajikistan,6.28,3.9,8.0,8.3,6.2,4.4,7.4,8.8,6.48,6.0,5.0,7.5,5.5,6.4,6.08
+Europe & Central Asia,2009,Low,Tajikistan,,,,,2.4,4.5,,,,1.3,5.0,,,,
+Europe & Central Asia,2008,Low,Tajikistan,,,,,2.5,4.4,,,,1.3,5.3,,,,
+Sub-Saharan Africa,2018,Low,Tanzania,6.28,3.9,6.8,8.3,6.5,6.3,7.9,2.5,5.82,7.1,5.4,8.2,6.0,7.0,6.73
+Sub-Saharan Africa,2017,Low,Tanzania,6.36,4.2,6.8,8.3,6.7,6.2,7.9,2.5,5.93,7.0,5.6,8.2,6.0,7.1,6.78
+Sub-Saharan Africa,2016,Low,Tanzania,6.47,4.2,7.1,8.3,6.7,6.3,8.1,4.2,6.2,7.0,5.6,8.2,5.9,7.0,6.74
+Sub-Saharan Africa,2015,Low,Tanzania,6.58,4.2,7.0,8.3,7.3,6.8,8.2,4.2,6.28,7.6,5.6,8.1,6.0,7.2,6.87
+Sub-Saharan Africa,2014,Low,Tanzania,6.63,4.5,6.9,8.3,6.9,7.0,8.2,6.3,6.51,7.5,5.2,7.9,6.1,7.0,6.75
+Sub-Saharan Africa,2013,Low,Tanzania,6.8,4.5,6.9,8.3,7.0,7.0,8.1,8.8,6.78,7.5,5.2,7.7,6.7,7.0,6.81
+Sub-Saharan Africa,2012,Low,Tanzania,6.64,4.5,6.5,8.3,7.0,7.1,8.2,8.8,6.68,7.3,5.1,7.3,6.2,7.1,6.6
+Sub-Saharan Africa,2011,Low,Tanzania,6.73,4.7,6.4,8.3,7.5,7.1,8.3,8.8,6.78,7.1,5.2,7.4,6.2,7.4,6.67
+Sub-Saharan Africa,2010,Low,Tanzania,6.6,4.7,7.6,8.3,7.2,7.6,7.5,3.8,6.53,7.1,5.2,7.7,6.3,7.0,6.67
+Sub-Saharan Africa,2009,Low,Tanzania,6.52,4.7,7.6,8.3,7.2,7.6,7.5,3.8,6.52,6.8,5.2,7.5,6.2,6.8,6.52
+Sub-Saharan Africa,2008,Low,Tanzania,6.36,4.7,7.6,8.3,7.4,7.6,7.5,3.8,6.53,6.2,5.3,7.4,5.7,6.3,6.18
+East Asia & Pacific,2018,Upper middle,Thailand,6.37,4.4,8.9,5.0,5.6,1.8,8.3,5.8,5.98,7.0,4.5,8.6,6.8,6.8,6.75
+East Asia & Pacific,2017,Upper middle,Thailand,6.33,4.3,8.8,5.0,5.6,1.5,8.3,5.8,5.9,7.0,4.6,8.6,6.8,6.8,6.75
+East Asia & Pacific,2016,Upper middle,Thailand,6.29,4.3,8.4,6.7,5.8,2.0,8.1,4.2,5.84,6.7,4.7,8.6,6.7,6.9,6.73
+East Asia & Pacific,2015,Upper middle,Thailand,6.42,4.4,8.2,8.3,6.8,2.3,8.1,4.2,6.11,6.8,4.8,8.5,6.7,6.9,6.72
+East Asia & Pacific,2014,Upper middle,Thailand,6.46,4.1,7.8,10.0,7.2,2.9,8.2,6.3,6.41,7.3,4.5,7.1,6.7,6.9,6.5
+East Asia & Pacific,2013,Upper middle,Thailand,6.64,4.7,8.0,8.3,6.8,7.1,7.2,6.3,6.74,7.2,4.6,7.1,6.7,7.1,6.53
+East Asia & Pacific,2012,Upper middle,Thailand,6.71,4.7,8.4,8.3,7.0,7.6,7.1,6.3,6.9,7.2,4.8,6.9,6.5,7.0,6.51
+East Asia & Pacific,2011,Upper middle,Thailand,6.92,5.6,8.5,10.0,6.9,7.4,7.2,6.3,7.3,7.2,4.9,7.0,6.5,7.1,6.53
+East Asia & Pacific,2010,Upper middle,Thailand,6.9,5.6,8.5,10.0,7.0,6.9,7.1,6.3,7.24,7.1,5.1,7.1,6.4,7.1,6.55
+East Asia & Pacific,2009,Lower middle,Thailand,6.95,5.6,8.4,10.0,7.4,7.2,7.3,6.3,7.31,7.0,5.3,7.1,6.5,7.0,6.59
+East Asia & Pacific,2008,Lower middle,Thailand,7.01,5.6,8.3,10.0,7.3,7.2,7.1,6.3,7.26,7.3,5.7,7.0,6.6,7.1,6.75
+East Asia & Pacific,2018,Lower middle,Timor-Leste,6.89,3.3,8.9,10.0,8.3,8.1,9.2,8.8,7.48,4.5,3.3,8.4,8.2,7.1,6.29
+East Asia & Pacific,2017,Lower middle,Timor-Leste,6.91,3.3,8.9,10.0,8.3,7.8,9.2,8.8,7.45,4.5,3.2,8.6,8.2,7.4,6.36
+East Asia & Pacific,2016,Lower middle,Timor-Leste,6.51,3.3,7.1,6.7,8.5,7.6,8.9,7.5,6.54,4.8,3.76,8.7,7.6,7.6,6.47
+East Asia & Pacific,2015,Lower middle,Timor-Leste,6.6,3.4,8.5,6.7,8.4,7.2,8.9,7.5,6.84,4.6,3.23,8.8,7.6,7.5,6.36
+East Asia & Pacific,2014,Lower middle,Timor-Leste,6.64,3.4,8.5,6.7,8.0,8.0,8.9,7.5,6.88,4.7,3.3,8.8,7.58,7.6,6.4
+East Asia & Pacific,2013,Lower middle,Timor-Leste,6.67,3.4,8.5,6.7,7.8,8.3,8.9,7.5,6.88,4.7,3.3,8.7,7.9,7.6,6.45
+East Asia & Pacific,2012,Lower middle,Timor-Leste,6.64,3.5,8.2,6.7,7.9,8.5,8.9,7.5,6.87,4.5,3.4,9.0,7.7,7.6,6.41
+East Asia & Pacific,2011,Lower middle,Timor-Leste,6.8,3.9,8.7,6.7,7.9,8.5,8.9,7.5,7.1,4.7,3.4,8.8,7.9,7.6,6.49
+East Asia & Pacific,2010,Lower middle,Timor-Leste,6.56,3.9,8.5,10.0,7.9,8.5,8.9,7.5,7.4,3.1,3.3,8.7,,7.7,5.72
+East Asia & Pacific,2009,Lower middle,Timor-Leste,,,,,9.1,8.5,,,,2.8,3.3,,,,
+East Asia & Pacific,2008,Lower middle,Timor-Leste,,,,,9.1,8.5,,,,2.8,3.3,,,,
+Sub-Saharan Africa,2018,Low,Togo,6.13,3.9,8.0,5.8,7.6,5.4,9.2,2.5,6.01,6.9,5.1,7.1,5.6,6.4,6.25
+Sub-Saharan Africa,2017,Low,Togo,6.15,4.0,8.1,5.8,7.6,5.5,9.2,2.5,6.1,6.9,4.8,7.2,5.6,6.4,6.19
+Sub-Saharan Africa,2016,Low,Togo,6.21,4.2,7.7,6.7,8.3,6.6,9.1,5.0,6.54,6.6,4.2,7.0,5.5,6.1,5.87
+Sub-Saharan Africa,2015,Low,Togo,6.17,3.9,7.7,6.7,8.4,6.6,9.0,5.0,6.48,6.9,4.1,7.0,5.5,5.8,5.85
+Sub-Saharan Africa,2014,Low,Togo,6.24,3.8,7.7,8.3,8.6,6.6,9.0,5.0,6.64,7.0,4.1,7.1,5.7,5.4,5.83
+Sub-Saharan Africa,2013,Low,Togo,6.07,3.7,7.7,8.3,8.6,6.6,7.7,2.5,6.23,6.7,3.9,7.0,6.3,5.6,5.9
+Sub-Saharan Africa,2012,Low,Togo,5.65,3.8,7.6,5.0,8.6,6.8,7.6,2.5,5.91,6.1,3.7,6.8,6.2,4.1,5.38
+Sub-Saharan Africa,2011,Low,Togo,5.6,4.3,7.8,1.7,8.4,6.8,7.6,2.5,5.71,5.8,3.7,6.6,6.2,5.1,5.48
+Sub-Saharan Africa,2010,Low,Togo,5.65,4.2,6.7,5.0,8.7,6.6,7.7,2.5,5.78,6.5,3.7,6.7,6.2,4.6,5.52
+Sub-Saharan Africa,2009,Low,Togo,5.77,4.3,6.7,5.0,8.7,6.6,7.6,2.5,5.79,6.9,3.7,6.6,6.2,5.3,5.74
+Sub-Saharan Africa,2008,Low,Togo,5.88,4.4,6.9,5.0,8.8,6.6,7.7,2.5,5.87,7.9,3.5,6.4,6.1,5.5,5.88
+Latin America & Caribbean,2018,High,Trinidad and Tobago,7.13,4.5,6.5,7.5,8.9,8.6,10.0,7.5,7.0,7.2,5.2,9.2,7.9,6.8,7.26
+Latin America & Caribbean,2017,High,Trinidad and Tobago,7.0,4.7,6.5,7.5,8.9,8.7,10.0,5.0,6.82,6.8,5.2,9.1,8.0,6.8,7.18
+Latin America & Caribbean,2016,High,Trinidad and Tobago,7.0,4.7,5.7,10.0,9.0,8.6,9.2,5.0,6.77,6.9,5.2,9.1,8.2,6.9,7.23
+Latin America & Caribbean,2015,High,Trinidad and Tobago,6.89,5.0,5.7,10.0,9.2,8.6,9.1,5.0,6.86,6.6,5.1,8.3,8.1,6.5,6.91
+Latin America & Caribbean,2014,High,Trinidad and Tobago,7.01,5.0,5.7,10.0,9.1,8.4,9.1,5.0,6.82,6.6,5.2,8.6,8.2,7.4,7.19
+Latin America & Caribbean,2013,High,Trinidad and Tobago,7.01,4.9,5.6,10.0,9.2,8.4,9.2,5.0,6.81,6.8,5.2,8.2,8.4,7.4,7.21
+Latin America & Caribbean,2012,High,Trinidad and Tobago,7.04,5.0,6.5,10.0,9.2,8.8,9.2,5.0,7.09,6.7,5.3,7.7,8.0,7.3,6.98
+Latin America & Caribbean,2011,High,Trinidad and Tobago,7.08,5.3,6.3,10.0,9.1,8.8,9.2,5.0,7.12,6.6,5.3,8.2,8.0,7.1,7.03
+Latin America & Caribbean,2010,High,Trinidad and Tobago,7.0,5.3,5.7,10.0,9.1,8.8,9.2,5.0,6.95,6.5,5.1,8.1,8.0,7.7,7.04
+Latin America & Caribbean,2009,High,Trinidad and Tobago,7.03,5.3,5.7,10.0,9.4,9.3,9.3,5.0,7.03,6.4,5.2,8.1,8.0,7.5,7.03
+Latin America & Caribbean,2008,High,Trinidad and Tobago,7.09,5.2,5.7,10.0,9.2,9.3,9.3,5.0,7.0,6.9,5.1,8.5,8.0,7.5,7.18
+Middle East & North Africa,2018,Lower middle,Tunisia,6.04,4.7,7.5,5.0,6.0,8.5,8.8,1.3,6.0,5.2,5.3,6.6,6.6,6.6,6.07
+Middle East & North Africa,2017,Lower middle,Tunisia,6.07,4.8,7.6,5.0,6.0,8.5,8.8,1.3,6.03,5.4,5.4,6.7,6.4,6.6,6.11
+Middle East & North Africa,2016,Lower middle,Tunisia,6.14,4.8,7.3,5.0,6.1,8.4,8.6,2.5,6.07,5.5,5.3,7.0,6.6,6.6,6.2
+Middle East & North Africa,2015,Lower middle,Tunisia,6.32,4.7,7.2,8.3,6.0,8.2,8.7,2.5,6.35,6.1,5.3,7.1,6.5,6.5,6.29
+Middle East & North Africa,2014,Upper middle,Tunisia,6.43,4.7,7.4,8.3,5.9,8.5,8.8,2.5,6.45,6.1,5.2,7.0,6.8,6.9,6.41
+Middle East & North Africa,2013,Upper middle,Tunisia,6.33,4.8,7.3,8.3,5.9,8.3,7.9,2.5,6.32,6.2,5.1,6.9,6.8,6.7,6.34
+Middle East & North Africa,2012,Upper middle,Tunisia,6.29,4.8,7.4,8.3,6.1,7.6,7.9,2.5,6.3,6.0,5.1,6.8,6.7,6.8,6.28
+Middle East & North Africa,2011,Upper middle,Tunisia,6.27,5.2,7.6,5.0,6.1,7.3,7.4,2.5,6.03,5.8,5.9,6.8,6.6,7.4,6.5
+Middle East & North Africa,2010,Upper middle,Tunisia,5.75,5.2,8.3,5.0,3.6,2.8,5.1,2.5,5.27,6.2,5.0,6.9,6.0,7.1,6.23
+Middle East & North Africa,2009,Lower middle,Tunisia,5.89,5.2,8.7,5.0,4.0,2.9,4.9,2.5,5.4,6.8,5.3,6.8,5.8,7.1,6.37
+Middle East & North Africa,2008,Lower middle,Tunisia,5.89,5.2,8.6,5.0,3.8,2.9,5.3,2.5,5.4,6.7,5.1,6.8,6.4,6.9,6.38
+Europe & Central Asia,2018,Upper middle,Turkey,6.27,3.9,8.1,6.7,4.2,5.0,5.3,8.2,5.92,6.9,4.6,8.5,7.2,6.0,6.62
+Europe & Central Asia,2017,Upper middle,Turkey,6.27,4.0,7.7,6.7,4.1,4.9,5.1,8.2,5.81,7.2,4.5,8.9,7.2,5.9,6.73
+Europe & Central Asia,2016,Upper middle,Turkey,6.38,4.0,7.5,6.7,4.1,5.3,4.7,9.0,5.85,7.1,4.8,9.0,7.1,6.5,6.91
+Europe & Central Asia,2015,Upper middle,Turkey,6.83,4.1,8.3,10.0,5.0,6.1,6.1,9.0,6.72,7.2,4.8,9.1,7.1,6.4,6.94
+Europe & Central Asia,2014,Upper middle,Turkey,6.85,3.9,8.7,10.0,4.6,6.2,4.9,10.0,6.74,7.2,4.8,9.0,7.2,6.6,6.95
+Europe & Central Asia,2013,Upper middle,Turkey,7.1,4.6,9.0,10.0,4.9,6.7,7.1,10.0,7.27,7.2,4.9,9.0,7.0,6.5,6.92
+Europe & Central Asia,2012,Upper middle,Turkey,7.12,4.6,8.4,10.0,5.5,7.1,7.0,10.0,7.21,7.4,5.2,8.8,7.1,6.7,7.03
+Europe & Central Asia,2011,Upper middle,Turkey,7.26,4.8,8.7,10.0,5.7,7.1,7.9,10.0,7.43,7.5,5.2,9.0,7.1,6.6,7.08
+Europe & Central Asia,2010,Upper middle,Turkey,7.11,4.8,8.7,10.0,5.6,6.5,6.6,10.0,7.25,7.2,5.1,8.9,7.2,6.3,6.96
+Europe & Central Asia,2009,Upper middle,Turkey,7.07,4.8,8.6,10.0,5.8,6.5,6.7,10.0,7.25,7.0,5.2,8.9,7.3,5.9,6.88
+Europe & Central Asia,2008,Upper middle,Turkey,7.04,4.8,8.5,8.3,5.8,6.6,6.8,10.0,7.08,7.5,5.4,8.6,7.2,6.2,6.99
+Sub-Saharan Africa,2018,Low,Uganda,6.58,3.2,7.4,7.5,6.9,5.5,8.8,0.8,5.6,7.9,4.7,9.5,7.8,7.8,7.55
+Sub-Saharan Africa,2017,Low,Uganda,6.57,3.4,7.4,7.5,6.4,5.7,8.4,0.8,5.58,7.7,4.8,9.4,7.9,7.9,7.56
+Sub-Saharan Africa,2016,Low,Uganda,6.67,3.4,7.4,8.3,7.2,5.8,8.6,2.5,5.93,8.0,4.8,8.6,7.7,7.8,7.4
+Sub-Saharan Africa,2015,Low,Uganda,6.62,3.2,7.0,8.3,7.4,5.8,8.6,2.5,5.83,7.8,4.9,8.6,7.7,8.0,7.41
+Sub-Saharan Africa,2014,Low,Uganda,6.68,3.5,6.8,8.3,7.4,5.8,8.6,3.8,5.95,7.9,4.7,8.7,7.6,8.1,7.41
+Sub-Saharan Africa,2013,Low,Uganda,6.59,3.6,7.4,5.0,7.4,5.9,8.1,3.8,5.76,7.9,4.7,8.5,8.1,8.0,7.42
+Sub-Saharan Africa,2012,Low,Uganda,6.43,3.6,6.2,5.0,7.8,6.3,8.2,3.8,5.54,8.4,4.6,8.1,7.4,8.1,7.31
+Sub-Saharan Africa,2011,Low,Uganda,6.44,4.1,6.1,5.0,7.7,6.3,8.0,3.8,5.64,8.1,4.7,8.1,7.4,7.9,7.23
+Sub-Saharan Africa,2010,Low,Uganda,6.64,4.1,6.5,5.0,7.6,6.8,8.7,3.8,5.85,8.1,4.9,8.7,7.4,8.1,7.43
+Sub-Saharan Africa,2009,Low,Uganda,6.54,4.1,6.1,3.3,7.9,6.9,9.0,3.8,5.64,8.1,4.7,8.4,7.4,8.5,7.43
+Sub-Saharan Africa,2008,Low,Uganda,6.57,4.1,6.7,3.3,8.0,6.9,9.0,3.8,5.8,7.9,4.2,8.8,7.3,8.5,7.33
+Europe & Central Asia,2018,Lower middle,Ukraine,6.45,4.6,8.0,6.7,6.2,6.8,7.9,9.0,6.83,6.7,4.6,5.6,6.8,6.6,6.06
+Europe & Central Asia,2017,Lower middle,Ukraine,6.35,4.5,7.9,6.7,6.7,6.8,7.9,9.0,6.83,6.8,4.5,5.0,6.5,6.5,5.86
+Europe & Central Asia,2016,Lower middle,Ukraine,6.25,4.6,8.0,5.0,6.8,6.7,7.7,9.0,6.66,6.9,4.6,4.9,6.2,6.6,5.84
+Europe & Central Asia,2015,Lower middle,Ukraine,5.97,4.6,6.4,8.3,6.6,6.6,7.8,9.0,6.58,6.8,4.6,3.3,6.2,5.9,5.36
+Europe & Central Asia,2014,Lower middle,Ukraine,6.25,4.5,6.1,8.3,6.9,6.5,7.0,10.0,6.53,7.0,4.5,5.9,5.8,6.6,5.96
+Europe & Central Asia,2013,Lower middle,Ukraine,6.88,4.5,8.7,10.0,8.2,7.2,8.1,10.0,7.63,6.8,4.6,6.6,6.6,6.2,6.13
+Europe & Central Asia,2012,Lower middle,Ukraine,6.89,4.5,8.8,10.0,7.1,7.3,8.2,10.0,7.58,6.6,4.9,6.4,6.4,6.7,6.2
+Europe & Central Asia,2011,Lower middle,Ukraine,6.95,4.7,9.1,10.0,7.8,7.2,8.2,10.0,7.78,6.9,4.9,6.0,6.2,6.5,6.12
+Europe & Central Asia,2010,Lower middle,Ukraine,6.92,4.7,9.3,10.0,8.0,7.3,9.1,10.0,7.93,6.8,4.8,5.6,6.2,6.1,5.9
+Europe & Central Asia,2009,Lower middle,Ukraine,6.88,4.7,9.2,8.3,8.6,8.1,9.2,10.0,7.89,6.6,4.8,5.3,6.3,6.2,5.86
+Europe & Central Asia,2008,Lower middle,Ukraine,6.88,4.7,9.1,8.3,8.4,8.1,9.2,10.0,7.86,7.0,5.2,4.6,6.4,6.3,5.9
+Middle East & North Africa,2018,High,United Arab Emirates,6.17,6.2,7.8,4.2,5.6,1.4,6.7,0.0,5.28,5.3,5.2,9.0,8.3,7.5,7.05
+Middle East & North Africa,2017,High,United Arab Emirates,6.2,6.4,7.7,4.2,5.6,1.4,6.7,0.0,5.3,5.4,5.2,9.2,8.2,7.5,7.1
+Middle East & North Africa,2016,High,United Arab Emirates,6.39,6.4,8.0,5.0,5.6,1.4,7.0,0.0,5.5,5.7,5.4,9.1,8.4,7.7,7.27
+Middle East & North Africa,2015,High,United Arab Emirates,6.19,6.3,7.7,3.3,5.7,1.3,6.8,0.0,5.24,5.6,5.4,8.4,8.4,7.9,7.14
+Middle East & North Africa,2014,High,United Arab Emirates,6.26,6.6,7.9,1.7,6.0,1.2,7.1,0.0,5.22,5.8,5.5,8.7,8.4,8.0,7.29
+Middle East & North Africa,2013,High,United Arab Emirates,6.41,6.8,8.2,3.3,6.0,1.2,6.2,0.0,5.42,5.8,5.5,8.6,8.5,8.6,7.4
+Middle East & North Africa,2012,High,United Arab Emirates,6.44,6.8,8.2,3.3,5.6,1.2,6.3,0.0,5.39,6.3,5.6,8.6,8.4,8.5,7.49
+Middle East & North Africa,2011,High,United Arab Emirates,6.36,6.5,8.3,1.7,5.8,1.6,6.3,0.0,5.22,6.5,5.5,8.6,8.3,8.5,7.49
+Middle East & North Africa,2010,High,United Arab Emirates,6.46,6.5,8.6,1.7,6.0,2.4,7.2,0.0,5.49,6.8,5.4,8.3,8.4,8.3,7.43
+Middle East & North Africa,2009,High,United Arab Emirates,6.37,6.5,8.6,1.7,6.0,2.4,7.2,0.0,5.49,6.5,5.5,8.1,8.4,7.7,7.25
+Middle East & North Africa,2008,High,United Arab Emirates,6.46,6.5,8.6,1.7,5.9,2.4,7.2,0.0,5.48,7.1,5.6,8.3,8.4,7.9,7.44
+Europe & Central Asia,2018,High,United Kingdom,8.44,7.5,9.4,10.0,7.4,9.2,10.0,9.0,8.79,6.6,7.4,9.5,8.5,8.5,8.08
+Europe & Central Asia,2017,High,United Kingdom,8.5,7.7,9.3,10.0,7.5,9.2,10.0,9.0,8.83,6.6,7.7,9.5,8.6,8.5,8.16
+Europe & Central Asia,2016,High,United Kingdom,8.54,7.7,9.8,10.0,7.5,9.4,9.6,9.0,8.93,6.5,7.7,9.8,8.6,8.2,8.15
+Europe & Central Asia,2015,High,United Kingdom,8.57,7.8,9.9,10.0,7.8,9.4,9.6,9.0,8.98,6.5,7.8,9.8,8.5,8.2,8.16
+Europe & Central Asia,2014,High,United Kingdom,8.59,7.7,9.9,10.0,8.1,9.4,9.6,10.0,9.1,6.4,7.7,9.8,8.6,7.9,8.07
+Europe & Central Asia,2013,High,United Kingdom,8.51,7.4,9.9,10.0,8.0,9.4,9.6,10.0,9.01,6.4,7.7,9.7,8.4,7.8,8.01
+Europe & Central Asia,2012,High,United Kingdom,8.57,7.4,9.8,10.0,8.4,9.3,9.6,10.0,9.03,6.4,7.7,9.8,8.7,8.0,8.1
+Europe & Central Asia,2011,High,United Kingdom,8.56,7.7,9.8,10.0,8.0,9.3,9.6,10.0,9.07,6.2,7.8,9.6,8.9,7.8,8.04
+Europe & Central Asia,2010,High,United Kingdom,8.55,7.7,9.8,10.0,7.9,9.3,9.7,10.0,9.05,6.1,7.7,9.6,8.9,7.9,8.05
+Europe & Central Asia,2009,High,United Kingdom,8.57,7.7,9.8,10.0,8.5,9.3,9.7,10.0,9.11,6.3,7.8,9.5,8.9,7.6,8.02
+Europe & Central Asia,2008,High,United Kingdom,8.62,7.7,9.8,10.0,8.4,9.3,9.7,10.0,9.1,6.5,7.8,9.4,8.8,8.2,8.13
+North America,2018,High,United States,8.44,6.7,9.2,10.0,8.0,9.9,9.9,9.0,8.66,7.5,7.3,9.7,7.8,8.8,8.22
+North America,2017,High,United States,8.55,6.9,9.1,10.0,8.5,9.9,10.0,9.0,8.75,7.5,7.5,9.8,7.9,9.0,8.34
+North America,2016,High,United States,8.52,7.0,9.1,10.0,8.6,9.8,9.6,9.0,8.71,7.4,7.5,9.8,7.9,9.0,8.32
+North America,2015,High,United States,8.54,7.1,9.3,10.0,8.6,9.8,9.6,9.0,8.81,7.4,7.4,9.8,7.8,8.9,8.27
+North America,2014,High,United States,8.51,6.7,9.4,10.0,8.8,9.8,9.6,10.0,8.85,7.4,7.3,9.4,7.8,8.8,8.16
+North America,2013,High,United States,8.44,6.5,9.4,10.0,8.9,9.8,9.6,10.0,8.8,7.2,7.3,9.4,7.7,8.8,8.07
+North America,2012,High,United States,8.47,6.5,9.3,10.0,8.9,9.8,9.7,10.0,8.78,7.6,7.3,9.3,8.0,8.6,8.15
+North America,2011,High,United States,8.39,6.8,9.3,8.3,9.0,9.8,9.7,10.0,8.7,7.4,7.2,9.3,8.0,8.5,8.07
+North America,2010,High,United States,8.41,6.8,9.3,8.3,8.9,9.8,9.7,10.0,8.69,7.2,7.4,9.7,8.0,8.4,8.12
+North America,2009,High,United States,8.37,6.8,9.2,8.3,9.2,9.8,9.7,10.0,8.71,6.8,7.4,9.6,8.0,8.3,8.03
+North America,2008,High,United States,8.52,6.8,9.2,8.3,9.2,9.8,9.7,10.0,8.7,7.5,7.6,9.7,8.3,8.7,8.34
+Latin America & Caribbean,2018,High,Uruguay,7.92,6.9,8.4,10.0,8.7,9.1,10.0,10.0,8.59,6.4,5.5,9.1,8.1,7.1,7.25
+Latin America & Caribbean,2017,High,Uruguay,7.95,6.6,8.9,10.0,8.8,9.1,10.0,10.0,8.67,6.4,5.5,9.2,8.1,7.0,7.23
+Latin America & Caribbean,2016,High,Uruguay,7.87,6.6,8.1,10.0,8.8,9.4,9.6,10.0,8.47,6.6,5.7,9.0,8.0,7.0,7.26
+Latin America & Caribbean,2015,High,Uruguay,7.91,7.0,8.0,10.0,9.1,9.4,9.6,10.0,8.56,6.7,5.8,9.1,8.1,6.6,7.26
+Latin America & Caribbean,2014,High,Uruguay,7.89,6.7,8.1,10.0,9.1,9.7,9.6,10.0,8.55,7.0,5.7,9.1,7.8,6.7,7.23
+Latin America & Caribbean,2013,High,Uruguay,7.9,6.3,8.1,10.0,9.2,9.7,9.6,10.0,8.46,7.1,5.6,9.0,8.3,6.8,7.34
+Latin America & Caribbean,2012,High,Uruguay,8.06,6.3,9.0,10.0,9.3,9.7,9.6,10.0,8.67,7.3,5.6,9.2,8.2,6.9,7.44
+Latin America & Caribbean,2011,Upper middle,Uruguay,8.12,6.4,9.2,10.0,9.4,9.7,9.6,10.0,8.78,7.2,5.7,9.1,8.3,7.0,7.45
+Latin America & Caribbean,2010,Upper middle,Uruguay,8.1,6.4,9.2,10.0,9.5,9.7,9.6,10.0,8.78,6.9,5.9,9.0,8.3,7.0,7.42
+Latin America & Caribbean,2009,Upper middle,Uruguay,8.0,6.4,9.1,10.0,9.5,9.7,9.6,10.0,8.76,6.8,5.8,8.8,8.2,6.5,7.23
+Latin America & Caribbean,2008,Upper middle,Uruguay,7.96,6.4,9.1,10.0,9.3,9.7,9.6,10.0,8.74,7.1,5.7,8.4,8.2,6.4,7.18
+Latin America & Caribbean,2018,Upper middle,"Venezuela, RB",4.08,1.7,6.1,6.7,6.7,5.4,5.7,4.2,4.81,4.3,2.8,0.7,6.4,2.5,3.34
+Latin America & Caribbean,2017,Upper middle,"Venezuela, RB",3.85,2.1,6.3,6.7,6.6,5.5,5.8,4.2,4.97,4.7,2.8,0.7,2.9,2.5,2.72
+Latin America & Caribbean,2016,Upper middle,"Venezuela, RB",4.19,2.1,6.3,10.0,6.8,6.0,5.7,6.7,5.61,4.8,2.8,0.7,3.0,2.5,2.76
+Latin America & Caribbean,2015,Upper middle,"Venezuela, RB",4.14,1.8,6.3,8.3,7.2,6.1,5.7,6.7,5.44,4.9,2.9,0.7,3.1,2.6,2.84
+Latin America & Caribbean,2014,High,"Venezuela, RB",4.58,2.2,6.3,10.0,7.2,6.3,5.7,10.0,6.06,4.6,2.9,1.9,3.0,3.1,3.09
+Latin America & Caribbean,2013,Upper middle,"Venezuela, RB",4.78,2.5,6.3,10.0,7.3,6.5,8.2,10.0,6.4,4.4,2.9,2.1,3.1,3.2,3.16
+Latin America & Caribbean,2012,Upper middle,"Venezuela, RB",5.05,2.5,6.3,10.0,7.3,6.8,8.2,10.0,6.42,4.7,3.0,3.5,3.0,4.1,3.67
+Latin America & Caribbean,2011,Upper middle,"Venezuela, RB",5.17,3.1,6.3,10.0,7.4,6.8,8.0,10.0,6.58,4.5,3.2,3.5,3.2,4.4,3.76
+Latin America & Caribbean,2010,Upper middle,"Venezuela, RB",5.11,3.1,6.0,10.0,7.5,5.8,8.1,10.0,6.42,4.8,3.3,3.5,3.2,4.2,3.79
+Latin America & Caribbean,2009,Upper middle,"Venezuela, RB",5.27,3.1,6.3,8.3,7.4,6.0,7.8,10.0,6.31,4.7,3.2,4.3,3.3,5.6,4.22
+Latin America & Caribbean,2008,Upper middle,"Venezuela, RB",5.36,3.1,6.7,8.3,7.3,6.0,7.9,10.0,6.4,4.7,3.3,5.3,3.5,4.8,4.32
+East Asia & Pacific,2018,Lower middle,Vietnam,6.25,4.6,9.4,5.0,5.3,1.6,6.9,9.2,6.3,6.3,4.7,6.9,6.2,6.9,6.2
+East Asia & Pacific,2017,Lower middle,Vietnam,6.28,4.9,9.4,5.0,5.5,1.8,6.9,9.2,6.4,6.3,4.8,6.7,6.2,6.8,6.16
+East Asia & Pacific,2016,Lower middle,Vietnam,6.04,4.9,9.0,1.7,5.4,1.8,6.7,9.0,5.92,6.5,4.7,6.5,6.2,6.8,6.16
+East Asia & Pacific,2015,Lower middle,Vietnam,6.05,5.2,8.6,3.3,5.2,1.9,6.7,9.0,6.06,6.6,4.7,6.2,5.9,6.8,6.04
+East Asia & Pacific,2014,Lower middle,Vietnam,6.07,5.1,8.6,3.3,5.4,1.8,6.3,10.0,6.11,6.4,4.7,6.2,6.1,6.7,6.03
+East Asia & Pacific,2013,Lower middle,Vietnam,6.03,5.1,8.6,3.3,5.3,1.8,5.7,10.0,6.03,6.2,4.6,6.2,6.4,6.6,6.02
+East Asia & Pacific,2012,Lower middle,Vietnam,5.98,5.1,8.6,3.3,5.2,1.8,5.7,10.0,6.03,5.8,4.9,6.0,6.4,6.6,5.92
+East Asia & Pacific,2011,Lower middle,Vietnam,6.07,5.6,9.0,3.3,5.0,1.9,5.8,10.0,6.24,5.9,5.1,5.7,6.2,6.6,5.9
+East Asia & Pacific,2010,Lower middle,Vietnam,6.26,5.6,9.8,5.0,5.0,1.9,5.1,10.0,6.55,5.8,5.3,5.9,6.2,6.6,5.96
+East Asia & Pacific,2009,Lower middle,Vietnam,6.26,5.6,9.8,5.0,4.9,1.8,5.2,10.0,6.54,5.9,5.3,5.9,6.1,6.7,5.97
+East Asia & Pacific,2008,Low,Vietnam,6.18,5.6,9.5,5.0,5.4,1.9,5.2,10.0,6.52,6.5,5.3,5.3,5.8,6.3,5.84
+Middle East & North Africa,2018,Low,"Yemen, Rep.",4.17,2.2,4.2,1.7,1.4,3.6,5.5,0.0,2.83,7.6,3.4,6.9,5.3,4.3,5.51
+Middle East & North Africa,2017,Low,"Yemen, Rep.",4.53,2.4,4.2,1.7,1.2,3.5,6.7,0.0,2.94,7.9,3.2,8.0,6.5,4.9,6.11
+Middle East & North Africa,2016,Lower middle,"Yemen, Rep.",4.47,2.6,3.8,0.0,1.4,3.2,4.6,0.0,2.53,7.4,3.19,9.0,7.3,5.1,6.4
+Middle East & North Africa,2015,Lower middle,"Yemen, Rep.",4.53,3.2,3.5,1.7,1.8,3.8,3.8,0.0,2.77,7.5,3.2,8.1,7.4,5.3,6.29
+Middle East & North Africa,2014,Lower middle,"Yemen, Rep.",5.06,3.3,3.8,1.7,3.4,5.2,6.5,0.0,3.46,7.8,4.0,8.7,7.6,5.2,6.66
+Middle East & North Africa,2013,Lower middle,"Yemen, Rep.",5.19,3.4,4.5,1.7,4.2,6.2,7.5,0.0,3.91,7.8,3.4,8.1,7.4,5.6,6.47
+Middle East & North Africa,2012,Lower middle,"Yemen, Rep.",5.17,3.3,4.2,1.7,4.2,6.7,7.2,0.0,3.84,7.7,3.3,7.7,7.4,6.3,6.49
+Middle East & North Africa,2011,Lower middle,"Yemen, Rep.",5.01,3.7,4.5,1.7,3.1,6.0,5.5,0.0,3.66,7.6,3.4,7.7,7.5,5.6,6.36
+Middle East & North Africa,2010,Lower middle,"Yemen, Rep.",5.46,4.0,6.7,3.3,3.4,5.7,6.6,0.0,4.59,7.0,3.6,7.7,7.6,5.7,6.33
+Middle East & North Africa,2009,Lower middle,"Yemen, Rep.",,,,,3.4,5.9,,,,,3.5,,,,
+Middle East & North Africa,2008,Low,"Yemen, Rep.",,,,,3.4,5.9,,,,,3.4,,,,
+Sub-Saharan Africa,2018,Lower middle,Zambia,6.71,4.0,8.3,4.2,7.3,6.8,7.5,5.8,6.23,7.5,5.0,9.2,7.7,6.5,7.19
+Sub-Saharan Africa,2017,Lower middle,Zambia,6.7,4.1,8.3,4.2,7.1,6.3,7.5,5.8,6.19,7.8,5.2,9.1,7.4,6.6,7.2
+Sub-Saharan Africa,2016,Lower middle,Zambia,6.61,4.1,8.3,5.0,7.3,6.7,7.7,5.0,6.27,7.4,5.3,8.3,7.4,6.4,6.94
+Sub-Saharan Africa,2015,Lower middle,Zambia,6.73,4.2,8.3,5.0,7.9,7.0,8.0,5.0,6.42,7.4,5.3,8.7,7.2,6.5,7.04
+Sub-Saharan Africa,2014,Lower middle,Zambia,6.76,4.0,8.3,6.7,7.9,7.1,8.0,2.5,6.27,7.5,5.3,9.0,7.7,6.7,7.25
+Sub-Saharan Africa,2013,Lower middle,Zambia,6.79,4.1,8.2,5.0,8.0,7.2,7.8,5.0,6.36,7.5,5.3,8.8,7.8,6.6,7.21
+Sub-Saharan Africa,2012,Lower middle,Zambia,6.96,4.1,8.8,5.0,7.8,7.7,7.8,5.0,6.53,8.1,5.6,9.0,7.4,6.9,7.39
+Sub-Saharan Africa,2011,Lower middle,Zambia,7.0,4.4,8.8,5.0,7.6,7.5,7.8,5.0,6.58,8.3,5.7,8.9,7.2,6.9,7.42
+Sub-Saharan Africa,2010,Lower middle,Zambia,6.91,4.4,7.5,6.7,7.7,7.1,7.9,5.0,6.42,8.4,5.6,8.9,7.4,6.8,7.4
+Sub-Saharan Africa,2009,Low,Zambia,6.97,4.4,7.5,8.3,8.2,7.3,7.8,5.0,6.65,7.9,5.7,8.5,7.4,6.9,7.29
+Sub-Saharan Africa,2008,Low,Zambia,6.95,4.4,7.6,8.3,8.4,7.4,7.8,5.0,6.69,8.0,5.8,8.4,7.2,6.8,7.21
+Sub-Saharan Africa,2018,Lower middle,Zimbabwe,5.59,3.5,8.3,6.7,7.3,5.3,7.5,4.2,6.06,4.5,4.1,5.0,5.7,6.3,5.12
+Sub-Saharan Africa,2017,Low,Zimbabwe,5.6,3.5,8.4,6.7,7.3,5.0,7.5,4.2,6.04,4.3,4.1,6.7,4.0,6.7,5.16
+Sub-Saharan Africa,2016,Low,Zimbabwe,5.77,3.5,7.9,5.0,6.9,5.0,7.6,5.0,5.82,5.1,3.7,7.4,5.8,6.5,5.72
+Sub-Saharan Africa,2015,Low,Zimbabwe,6.01,3.5,7.6,5.0,7.4,5.1,7.6,5.0,5.78,6.8,3.8,8.2,5.9,6.6,6.24
+Sub-Saharan Africa,2014,Low,Zimbabwe,5.91,3.4,7.6,5.0,7.3,5.1,7.7,7.5,6.01,6.6,3.6,8.0,5.8,5.0,5.8
+Sub-Saharan Africa,2013,Low,Zimbabwe,5.76,3.3,7.6,5.0,7.5,5.8,7.6,7.5,6.06,6.5,3.5,6.9,5.5,4.9,5.46
+Sub-Saharan Africa,2012,Low,Zimbabwe,5.38,3.3,7.4,1.7,7.3,6.0,7.5,7.5,5.68,7.0,3.8,5.4,5.2,4.1,5.08
+Sub-Saharan Africa,2011,Low,Zimbabwe,5.28,3.7,7.4,1.7,7.1,6.0,7.5,7.5,5.75,6.5,3.7,4.1,5.4,4.3,4.8
+Sub-Saharan Africa,2010,Low,Zimbabwe,4.97,3.5,7.2,1.7,6.9,5.9,7.0,7.5,5.59,6.6,3.7,2.0,4.9,4.5,4.34
+Sub-Saharan Africa,2009,Low,Zimbabwe,4.91,3.7,7.2,1.7,7.1,5.7,7.0,7.5,5.61,7.4,3.6,0.9,4.6,4.6,4.21
+Sub-Saharan Africa,2008,Low,Zimbabwe,4.97,3.5,7.1,1.7,7.0,5.7,6.9,7.5,5.54,7.1,3.8,2.4,4.3,4.4,4.39
